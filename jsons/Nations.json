@@ -88,8 +88,8 @@
 		"adjective": ["Colombians"],
 		"startBias": ["Hill","Coast","Jungle"],
 //    "preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "Mmmm, delicius, thanks God I invented the arepa.",
-		"startIntroPart2": "Hey, Hey! Come back here! That´s my money.",
+		"startIntroPart1": "Tamales Tamales Tamales! A mil a mil a mil.",
+		"startIntroPart2": "Eeeemmmm, boss, you   don't   actually eat the leave.",
 		"declaringWar": "Prepare to lose your empire of opression!",
 		"attacked": "You will see how fruitless this will be for you. Wait and see.",
 		"defeated":  "I hope you treat my people good, don´t take away their happiness.",
@@ -101,7 +101,7 @@
 		"innerColor": [	1, 57, 150],
 		"uniqueName": "Colombian Coffee Region",
 		"uniques": ["[+1 Gold] from every [Plantation]","[+1 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
-		"cities": ["Bogota","Medellin","Cali","Barranquilla","Cartagena","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres"]
+		"cities": ["Bogota","Medellin","Cartagena","Cali","Barranquilla","Ibague","Cucuta","Bucaramanga","Villavicencio","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres"]
 	},
   {
 		"name": "Chile",
@@ -218,6 +218,6 @@
 		"innerColor": [155,0,0],
 		"uniqueName": "Oil Power",
     "uniques": ["Double quantity of [Oil] produced","[+4 Gold, +2 Happiness] from every [Oil well]"],
-    "cities": ["Caracas","Maracaibo","Valencia","Maracay","Ciudad Guayana","Barcelona","St. Cristobal","Angostura","Mantecal", "Guasdualito","Maturin","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
+    "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal", "Guasdualito","Valencia","Maturin","Barinas","Barquisimeto","Barcelona","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
 	}
 ]
