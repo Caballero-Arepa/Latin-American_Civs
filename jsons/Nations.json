@@ -6,12 +6,12 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Cam I into European Union?",
+		"startIntroPart1": "Can I into European Union?",
 		"startIntroPart2": "Ok fine... Then can I get the Malvinas?",
 		
 		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
 		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
-		"defeated": "You are just another empire, this victory will not change that, because you did not deafeat me, I gaved up.",
+		"defeated": "You are just another nation, this victory will not change that, because you did not deafeat me, I gaved up.",
 		"introduction": "I am julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
 		
 		"neutralHello": "Good morning.",
@@ -39,7 +39,7 @@
 		
 		"declaringWar": "After hard thought, Bolivia has no other choice. War is upon us.",
 		"attacked": "Come here, is this what you want? Well then... then you looked for it.",
-		"defeated": "Couldn't you leave alone? Couln't you!?",
+		"defeated": "Couldn't you leave alone? Couldn't you!?",
 		"introduction": "Hello there, call me Belzu please. Now, tell about your people please.",
 		
 		"neutralHello": "Good evening.",
