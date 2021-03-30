@@ -77,7 +77,7 @@
 		"innerColor": [254,223,0],
 		"uniqueName": "Amazonian Forest",
 		"uniques": ["[+1 Culture] from every [Jungle]", "[+2 Culture] from every [Lumber mill] once [Acoustics] is discovered"],
-		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+		"cities": ["Brasilia","Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
                             "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"]
 
