@@ -22,7 +22,7 @@
 		"outerColor": [90,200,255],
 		"innerColor": [240,250,15],
 		"uniqueName": "Pride of the People",
-		"uniques": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]"],
+		"uniques": ["[+1 Food] from every [Pasture]","Double quantity of [Horses] produced","[+1 Gold] from every [Wheat]"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
                             "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"]
