@@ -6,12 +6,12 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Can I into European Union?",
+		"startIntroPart1": "Cam I into European Union?",
 		"startIntroPart2": "Ok fine... Then can I get the Malvinas?",
 		
 		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
 		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
-		"defeated": "You are just another nation, this victory will not change that, because you did not deafeat me, I gaved up.",
+		"defeated": "You are just another empire, this victory will not change that, because you did not deafeat me, I gaved up.",
 		"introduction": "I am julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
 		
 		"neutralHello": "Good morning.",
@@ -22,7 +22,7 @@
 		"outerColor": [90,200,255],
 		"innerColor": [240,250,15],
 		"uniqueName": "Pride of the People",
-		"uniques": ["[+1 Food] from every [Pasture]","Double quantity of [Horses] produced","[+1 Gold] from every [Wheat]"],
+		"uniques": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
                             "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"]
@@ -39,7 +39,7 @@
 		
 		"declaringWar": "After hard thought, Bolivia has no other choice. War is upon us.",
 		"attacked": "Come here, is this what you want? Well then... then you looked for it.",
-		"defeated": "Couldn't you leave alone? Couldn't you!?",
+		"defeated": "Couldn't you leave alone? Couln't you!?",
 		"introduction": "Hello there, call me Belzu please. Now, tell about your people please.",
 		
 		"neutralHello": "Good evening.",
@@ -170,7 +170,7 @@
     "outerColor": [	0, 84, 168],
 		"innerColor": [	213, 43, 30],
 		"uniqueName": "Master Engineering",
-		"uniques": ["[+2 Production] from every [Great Improvement]", "[Great Engineer] is earned [40]% faster"],
+		"uniques": ["[+2 Production] from every [Great Improvement]"],
 		"cities": ["Asunción","Cudad del Este","San Lorenzo","Encarnación","Pedro Juan Caballero","Ñemby","Oviedo","Capiatá","Fernando de Mora","Limpio","Lambaré","Itauguá","Luque","Franco","Villa Elisa","Villarrica","Hermandarias","Areguá","Caacupé","Minga Guazú","Palmira", "Villa de Leyva","Guatape","Concepción","Villa Hayes","Itá","San Antonio","Ayolas"]
 	},
   {

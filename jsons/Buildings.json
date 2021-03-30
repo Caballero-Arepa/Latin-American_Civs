@@ -93,4 +93,18 @@
 			"Can only be built in annexed cities", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Mathematics"
 	},
+	{
+		"name": "Establo",
+		"replaces": "Stable",
+		"uniqueTo": "Argentina",
+		"xpForNewUnits": 5,
+                "gold": 1,
+                "requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["+[15]% Production when constructing [Mounted] units [in this city]", 
+			"[+2 Production] from [Cattle] tiles in this city",
+			"[+2 Production] from [Horses] tiles in this city",
+			"[+2 Production] from [Sheep] tiles in this city"]
+		"requiredTech": "Horseback Riding"
+	},
 ]
