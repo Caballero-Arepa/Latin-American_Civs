@@ -4,7 +4,7 @@ size: 512, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Castle of Chapultepec
+BuildingIcons/Chapultepec Castle
   rotate: false
   xy: 104, 308
   size: 100, 100

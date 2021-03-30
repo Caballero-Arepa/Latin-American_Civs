@@ -60,8 +60,8 @@
                 "startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
 
-		"startIntroPart1": "Please please please, come to Brazil",
-		"startIntroPart2": "*inhales* I SAID, You   Are Going to BRAzil!!",
+		"startIntroPart1": "Wev",
+		"startIntroPart2": "Wev",
 
 		"declaringWar": "The empire of Brazil shall destroy your ill nation.",
 		"attacked": "The only thing I worry for, is for the people affected by this.",
@@ -88,8 +88,8 @@
 		"adjective": ["Colombians"],
 		"startBias": ["Hill","Coast","Jungle"],
 //    "preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "Tamales Tamales Tamales! A mil a mil a mil.",
-		"startIntroPart2": "Eeeemmmm, boss, you   don't   actually eat the leave.",
+		"startIntroPart1": "Mmmm, delicius, thanks God I invented the arepa.",
+		"startIntroPart2": "Hey, Hey! Come back here! That´s my money.",
 		"declaringWar": "Prepare to lose your empire of opression!",
 		"attacked": "You will see how fruitless this will be for you. Wait and see.",
 		"defeated":  "I hope you treat my people good, don´t take away their happiness.",
@@ -101,7 +101,7 @@
 		"innerColor": [	1, 57, 150],
 		"uniqueName": "Colombian Coffee Region",
 		"uniques": ["[+1 Gold] from every [Plantation]","[+1 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
-		"cities": ["Bogota","Medellin","Cartagena","Cali","Barranquilla","Ibague","Cucuta","Bucaramanga","Villavicencio","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres"]
+		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres"]
 	},
   {
 		"name": "Chile",
@@ -144,7 +144,7 @@
 		"hateHello": "Arghh no, go away.",
 		"tradeRequest": "Could you accept this trade offer?",
 		"outerColor": [0,104,71],
-		"innerColor": [109,63,31],
+		"innerColor": [151,86,43],
 
 		"uniqueName": "Day of the Death",
                 "uniques": ["[+1 Culture] from every [Trading post]"],
@@ -184,7 +184,7 @@
 		"startIntroPart2": "Ok whatever. It's getting late for me to claim my gastronomy trophie.",
 
 		"declaringWar": "Great lands ruled by a weak lider. Contemplate my army marching over my new lands.",
-		"attacked": "Perú does not fear war. Expect heavy casualties on your side.",
+		"attacked": "I will give you one of the best wars on history! And the worst defeat in yours.",
 		"defeated": "History repeats it self. Therefore, Peru shall rise again.",
 		"introduction": "Greetings. I am Martin Vizcarra, president of Perú. I hope you can become a valuable ally.",
 		
@@ -196,7 +196,7 @@
 		"outerColor": [217,16,35],
 		"innerColor": [255,255,255],
 		"uniqueName": "Peruvian Gastronomy",
-		"uniques": ["[4]% [Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
+		"uniques": ["[3]% [Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
 		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"]
   },
 	{
@@ -218,6 +218,6 @@
 		"innerColor": [155,0,0],
 		"uniqueName": "Oil Power",
     "uniques": ["Double quantity of [Oil] produced","[+4 Gold, +2 Happiness] from every [Oil well]"],
-    "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal", "Guasdualito","Valencia","Maturin","Barinas","Barquisimeto","Barcelona","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
+    "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
 	}
 ]

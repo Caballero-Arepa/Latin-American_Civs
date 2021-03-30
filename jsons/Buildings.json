@@ -3,12 +3,12 @@
         	"name": "Zulia University",
         	"replaces": "National College",
 		      "uniqueTo": "Venezuela",
-        	"cost": 135,
+        	"cost": 140,
         	"culture": 2,
-  	        "science": 8,
+  	        "science": 6,
 		      "specialistSlots": {"Science": 2},
 		      "isNationalWonder": true,
-		      "uniques": ["Requires a [Primary School] in all cities", "Cost increases by [20] per owned city", "+[25]% [Science] [in this city]"],
+		      "uniques": ["Requires a [Primary School] in all cities", "Cost increases by [30] per owned city", "+[50]% [Science] [in this city]"],
         	"requiredTech": "Philosophy"
 	},
 	{
@@ -35,7 +35,7 @@
 		"requiredTech": "Industrialization"
 	},
 	{
-		"name": "Castle of Chapultepec",
+		"name": "Chapultepec Castle",
 		"replaces": "Castle",
 		"uniqueTo": "Mexico",
 		"greatPersonPoints": {"culture": 1},
