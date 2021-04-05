@@ -41,28 +41,28 @@ BuildingIcons/Street Carnival
   index: -1
 BuildingIcons/Primary School
   rotate: false
-  xy: 1532, 104
+  xy: 1634, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Saltpeter Office
   rotate: false
-  xy: 1838, 104
+  xy: 1940, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Zulia University
   rotate: false
-  xy: 1838, 104
+  xy: 1940, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tango Dance Theatre
   rotate: false
-  xy: 1940, 104
+  xy: 512, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -82,13 +82,6 @@ NationIcons/Bolivia
   offset: 0, 0
   index: -1
 NationIcons/Paraguay
-  rotate: false
-  xy: 104, 2
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Peru
   rotate: false
   xy: 104, 2
   size: 100, 100
@@ -123,9 +116,16 @@ NationIcons/Mexico
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Peru
+  rotate: false
+  xy: 1328, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Venezuela
   rotate: false
-  xy: 512, 2
+  xy: 614, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -188,28 +188,28 @@ UnitIcons/Llanero
   index: -1
 UnitIcons/Peruvian Legion
   rotate: false
-  xy: 1328, 104
+  xy: 1430, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pracinha
   rotate: false
-  xy: 1430, 104
+  xy: 1532, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rabona
   rotate: false
-  xy: 1634, 104
+  xy: 1736, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rurales
   rotate: false
-  xy: 1736, 104
+  xy: 1838, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

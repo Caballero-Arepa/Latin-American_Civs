@@ -11,7 +11,7 @@
 		
 		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
 		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
-		"defeated": "You are just another empire, this victory will not change that, because you did not deafeat me, I gaved up.",
+		"defeated": "You are just another nation, this victory will not change that, because I actually gaved up.",
 		"introduction": "I am julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
 		
 		"neutralHello": "Good morning.",
@@ -45,7 +45,7 @@
 		"neutralHello": "Good evening.",
 		"hateHello": "Will you give me what I deserve?!",
 		
-		"tradeRequest": "I'm sure your and my people will love this new products!",
+		"tradeRequest": "I'm sure your and my people will love this trade!",
 				
 		"outerColor": [249,227,0],
 		"innerColor": [10,121,52],
@@ -77,7 +77,7 @@
 		"innerColor": [254,223,0],
 		"uniqueName": "Amazonian Forest",
 		"uniques": ["[+1 Culture] from every [Jungle]", "[+2 Culture] from every [Lumber mill] once [Acoustics] is discovered"],
-		"cities": ["Brasilia","Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
                             "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"]
 
@@ -93,7 +93,7 @@
 		"declaringWar": "Prepare to lose your empire of opression!",
 		"attacked": "You will see how fruitless this will be for you. Wait and see.",
 		"defeated":  "I hope you treat my people good, don´t take away their happiness.",
-		"introduction":  "Greetings! This is Colombia, wordeful land of riches and diversity. Want a coffee?",
+		"introduction":  "Greetings! This is Colombia, my wordeful land. Want a coffee?",
 		"neutralHello": "Hello There.",
 		"hateHello": "Assh, what do you want?",
 		"tradeRequest": "I  thought you might be intested in this...",
@@ -101,17 +101,17 @@
 		"innerColor": [	1, 57, 150],
 		"uniqueName": "Colombian Coffee Region",
 		"uniques": ["[+1 Gold] from every [Plantation]","[+1 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
-		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres"]
+		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres","Leticia"]
 	},
   {
 		"name": "Chile",
-		"leaderName": "Bernardo O´Higgins",
+		"leaderName": "Bernard O´Higgins",
 		"adjective": ["Chilean"],
 		"startBias": ["Coast", "Desert"],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "No one understands Chilean Spanish.",
 		"startIntroPart2": "Thats not true!",
-		"declaringWar": "If it´s necesary to cross The Andes to destroy you, my army is willing to do it.",
+		"declaringWar": "If it´s necesary to cross the mountains to destroy you, my army is willing to do it.",
 		"attacked": "From the desert to the Patagonia, we will defend our homeland whatever it costs",
 		"defeated": "We haven´t managed to defend our homeland. This lands are now yours. Goodbye.",
 		"introduction": "Welcome to our lands. I hope that our nations grow strong and in peace.",
@@ -137,17 +137,17 @@
 
 		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
 		"attacked": "Mexicans! Prepare to defend our homeland!",
-		"defeated": "Nooo, everything I did was for our motherland",
-		"introduction": "Good morning, I'm Benito Juarez. Come with me and see our nation.",
+		"defeated": "Nooo, why? Everything I did was for our motherland.",
+		"introduction": "Good morning, I'm Benito Juarez. Come with me and see my nation.",
 
 		"neutralHello": "Good day amigo.",
 		"hateHello": "Arghh no, go away.",
 		"tradeRequest": "Could you accept this trade offer?",
 		"outerColor": [0,104,71],
-		"innerColor": [151,86,43],
+		"innerColor": [171,86,43],
 
 		"uniqueName": "Day of the Death",
-                "uniques": ["[+1 Culture] from every [Trading post]"],
+                "uniques": ["[+2 Culture] from every [Trading post]"],
                 "cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
                             "Merida","Cancun","Chihuahua","Durango",Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
                             "Naucalpan","Aguascalientes","Hermosillo","Mexicali","Culiacan","Queretaro","Morelia","Reynosa","Guadalupe","San Luis Potosi"],
@@ -158,11 +158,11 @@
 		"adjective": ["Paraguayans"],
 		"startBias": ["Plains","Forest"],
 //    "preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "How are you not ad about not having sea?",
+		"startIntroPart1": "How are you not sad about not having sea?",
 		"startIntroPart2": "Well I actualy have sea, I can go there with my river!",
-		"declaringWar": "I hate your idea of justice, if justice is need to be done, I am more than willing to do it.",
+		"declaringWar": "I hate your idea of justice. When justice needs to be done, I am more than willing to do it.",
 		"attacked": "If war is what you want, war you will have.",
-		"defeated":  "We did our best, we resisted untill the end, however... you won. ",
+		"defeated":  "We did our best, we resisted untill the end, however... you won.",
 		"introduction":  "Greetings. I am Gaspar Rodrigez, avenger of the rightful and defender of my people. Who are you?",
 		"neutralHello": "Welcome and welcome again.",
 		"hateHello": "Do not, disturb me.",
@@ -183,7 +183,7 @@
 		"startIntroPart1": "You silly, you think yoour food is better than mine?! Your food is the worst among all, pidgeon eater!",
 		"startIntroPart2": "Ok whatever. It's getting late for me to claim my gastronomy trophie.",
 
-		"declaringWar": "Great lands ruled by a weak lider. Contemplate my army marching over my new lands.",
+		"declaringWar": "Great lands ruled by a bad lider, your people don't deserve you, I will take care of them better than you.",
 		"attacked": "I will give you one of the best wars on history! And the worst defeat in yours.",
 		"defeated": "History repeats it self. Therefore, Peru shall rise again.",
 		"introduction": "Greetings. I am Martin Vizcarra, president of Perú. I hope you can become a valuable ally.",
@@ -201,7 +201,7 @@
   },
 	{
 		"name": "Venezuela",
-    "leaderName": "Marco Pérez Jiménez",
+    "leaderName": "Marco Perez Jimenez",
 		"adjective": ["Venezuelan"],
 		"startBias": ["Plains","Coast"],
 		"preferredVictoryType": "Scientific",
