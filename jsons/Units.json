@@ -94,7 +94,7 @@
 	      "strength": 6,
 	      "cost": 20,
 	      "obsoleteTech": "Scientific Theory",
-	      "promotions": ["Medic", "Medic II"],
+	      "promotions": ["Medic"],
 	      "uniques": ["Ignores terrain cost"]
   },
   {

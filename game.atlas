@@ -4,23 +4,23 @@ size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Argentine Estable
+  rotate: false
+  xy: 104, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Chapultepec Castle
   rotate: false
-  xy: 206, 2
+  xy: 308, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/CourtHouse
   rotate: false
-  xy: 410, 3
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Establo
-  rotate: false
-  xy: 614, 104
+  xy: 512, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -39,7 +39,14 @@ BuildingIcons/Street Carnival
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Primary School
+BuildingIcons/Latinity School
+  rotate: false
+  xy: 1022, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Peruvian Restaurant
   rotate: false
   xy: 1736, 104
   size: 100, 100
@@ -48,21 +55,21 @@ BuildingIcons/Primary School
   index: -1
 BuildingIcons/Saltpeter Office
   rotate: false
-  xy: 512, 2
+  xy: 614, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Zulia University
   rotate: false
-  xy: 512, 2
+  xy: 614, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tango Dance Theatre
   rotate: false
-  xy: 614, 2
+  xy: 716, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -76,56 +83,56 @@ NationIcons/Argentina
   index: -1
 NationIcons/Bolivia
   rotate: false
-  xy: 104, 2
+  xy: 206, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Brazil
   rotate: false
-  xy: 206, 104
+  xy: 206, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Chile
   rotate: false
-  xy: 308, 104
+  xy: 308, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Colombia
   rotate: false
-  xy: 308, 2
+  xy: 410, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 1226, 104
+  xy: 1328, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Paraguay
   rotate: false
-  xy: 1328, 104
+  xy: 1430, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Peru
   rotate: false
-  xy: 1430, 104
+  xy: 1532, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Venezuela
   rotate: false
-  xy: 716, 2
+  xy: 818, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -139,21 +146,21 @@ UnitIcons/Aca Yboty
   index: -1
 UnitIcons/Arpia
   rotate: false
-  xy: 104, 104
+  xy: 104, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Colorado
   rotate: false
-  xy: 410, 105
+  xy: 410, 3
   size: 100, 99
   orig: 100, 99
   offset: 0, 0
   index: -1
 UnitIcons/Criollo Cannon
   rotate: false
-  xy: 512, 104
+  xy: 614, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -174,42 +181,42 @@ UnitIcons/Gaucho
   index: -1
 UnitIcons/Liberator Scuadron
   rotate: false
-  xy: 1022, 104
+  xy: 1124, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Llanero
   rotate: false
-  xy: 1124, 104
+  xy: 1226, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Peruvian Legion
   rotate: false
-  xy: 1532, 104
+  xy: 1634, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pracinha
   rotate: false
-  xy: 1634, 104
+  xy: 1838, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rabona
   rotate: false
-  xy: 1838, 104
+  xy: 1940, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rurales
   rotate: false
-  xy: 1940, 104
+  xy: 512, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

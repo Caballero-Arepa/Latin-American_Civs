@@ -1,25 +1,28 @@
 [
 	{
         	"name": "Zulia University",
-        	"replaces": "National College",
+        	"replaces": "Oxford University",
 		      "uniqueTo": "Venezuela",
         	"cost": 140,
         	"culture": 2,
-  	        "science": 6,
-		      "specialistSlots": {"Science": 2},
+  	        "science": 4,
+		      "specialistSlots": {"Science": 1},
 		      "isNationalWonder": true,
-		      "uniques": ["Requires a [Primary School] in all cities", "Cost increases by [30] per owned city", "+[50]% [Science] [in this city]"],
-        	"requiredTech": "Philosophy"
+		      "uniques": ["Requires a [University] in all cities", "Cost increases by [30] per owned city", "Free Technology"],
+        	"requiredTech": "Education"
 	},
 	{
-		"name": "Primary School",
-		"replaces": "Library",
+		"name": "Latinity School",
+		"replaces": "Public School",
 		"uniqueTo": "Venezuela",
-		"hurryCostModifier": 30,
-		"maintenance": 1,
-		"cost": 90,
-		"uniques": ["[+2 Science] Per [1] Population in this city"],
-		"requiredTech": "Writing"
+		"requiredBuilding": "University",
+		"hurryCostModifier": 50,
+		"maintenance": 4,
+		"cost": 300,
+		"science": 3,
+		"specialistSlots": {"Scientist": 1},
+		"uniques": ["[+1 Science] Per [1] Population in this city"],
+		"requiredTech": "Scientific Theory"
   },
   {
 		"name": "Saltpeter Office",
@@ -45,6 +48,7 @@
 		"hurryCostModifier": 30,
 		"maintenance": 2,
 		"requiredBuilding": "Walls",
+		"uniques": ["Creates a [Fort] improvement on a specific tile"],
 		"requiredTech": "Chivalry",
 	},
           {
@@ -94,17 +98,28 @@
 		"requiredTech": "Mathematics"
 	},
 	{
-		"name": "Establo",
+		"name": "Argentine Estable",
 		"replaces": "Stable",
 		"uniqueTo": "Argentina",
 		"xpForNewUnits": 5,
-                "gold": 1,
+                "food": 1,
                 "requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": ["+[15]% Production when constructing [Mounted] units [in this city]", 
 			"[+2 Production] from [Cattle] tiles in this city",
-			"[+2 Production] from [Horses] tiles in this city",
-			"[+2 Production] from [Sheep] tiles in this city"]
+			"[+2 Production] from [Horses] tiles in this city","Double quantity of [Horses] produced",
+			"[+1 Production] from [Sheep] tiles in this city"]
 		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Peruvian Restaurant",
+		"replaces": "Broadcast Tower",
+		"uniqueTo": "Peru",
+		"food": 2,
+		"culture": 3,
+		"percentStatBonus": {"culture": 25},
+		"requiredBuilding": "Museum",
+		"maintenance": 1,
+		"requiredTech": "Radio"
 	},
 ]

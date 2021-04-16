@@ -201,7 +201,7 @@
   },
 	{
 		"name": "Venezuela",
-    "leaderName": "Marco Perez Jimenez",
+    "leaderName": "Marcos Perez Jimenez",
 		"adjective": ["Venezuelan"],
 		"startBias": ["Plains","Coast"],
 		"preferredVictoryType": "Scientific",
