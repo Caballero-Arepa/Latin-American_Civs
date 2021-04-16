@@ -47,7 +47,7 @@
 		
 		"tradeRequest": "I'm sure your and my people will love this trade!",
 				
-		"outerColor": [249,227,0],
+		"outerColor": [228,148,27],
 		"innerColor": [10,121,52],
 		"uniqueName": "Ethnic Diversity",
 		"uniques": ["Provides 1 happiness per 2 additional social policies adopted"],
@@ -77,7 +77,9 @@
 		"innerColor": [254,223,0],
 		"uniqueName": "Amazonian Forest",
 		"uniques": ["[+1 Culture] from every [Jungle]", "[+2 Culture] from every [Lumber mill] once [Acoustics] is discovered"],
-		"cities": ["Rio de Janeiro","São Paulo","Salvador","Recife","Porto Seguro","Vitória","São Vicente","Ouro Preto","Curitiba","Belo Horizonte","Fortaleza","Manaus","Porto alegre","Florianópolis","Belém","Maceió","Duque de caxias","Campinas","Goiânia","Aracaju","Natal","São luiz","Teresina","Uberlândia","Nova Iguaçu","Brasília","Campo Grande"]
+		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+                            "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"]
 
         },
 	{
@@ -116,7 +118,7 @@
 		"neutralHello": "Greetings to your people",
 		"hateHello": "Could you have at least have some respect to my nation?!",
                 "tradeRequest": "Let´s negotiate, we have resources that interest both of us", 
-		"outerColor": [255,5,5],
+		"outerColor": [232,51,47],
 		"innerColor": [30,30,100],
 		"uniqueName": "Mining Riches",
                 "uniqueText": "+2 Gold and +2 Production for every Quarry",
@@ -141,7 +143,7 @@
 		"neutralHello": "Good day amigo.",
 		"hateHello": "Arghh no, go away.",
 		"tradeRequest": "Could you accept this trade offer?",
-		"outerColor": [0,104,71],
+		"outerColor": [141,169,141],
 		"innerColor": [171,86,43],
 
 		"uniqueName": "Day of the Death",
