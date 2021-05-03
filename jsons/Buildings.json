@@ -48,7 +48,6 @@
 		"hurryCostModifier": 30,
 		"maintenance": 2,
 		"requiredBuilding": "Walls",
-		"uniques": ["Creates a [Fort] improvement on a specific tile"],
 		"requiredTech": "Chivalry",
 	},
           {
