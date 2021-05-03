@@ -170,7 +170,7 @@
     "outerColor": [	0, 84, 168],
 		"innerColor": [	213, 43, 30],
 		"uniqueName": "Master Engineering",
-		"uniques": ["[+2 Production] from every [Great Improvement]"],
+		"uniques": ["[+2 Production] from every [Great Improvement]", "[Great Engineer] is earned [20]% faster"],
 		"cities": ["Asunción","Cudad del Este","San Lorenzo","Encarnación","Pedro Juan Caballero","Ñemby","Oviedo","Capiatá","Fernando de Mora","Limpio","Lambaré","Itauguá","Luque","Franco","Villa Elisa","Villarrica","Hermandarias","Areguá","Caacupé","Minga Guazú","Palmira", "Villa de Leyva","Guatape","Concepción","Villa Hayes","Itá","San Antonio","Ayolas"]
 	},
   {
