@@ -41,7 +41,7 @@
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
-		"uniques": ["Bonus vs City 28%"]
+		"uniques": ["Bonus vs City 33%", "Double movement in coast"]
 	},
            {
 		"name": "Rurales",
@@ -49,7 +49,7 @@
 		"uniqueTo": "Mexico",
 		"unitType": "Melee",
 		"movement": 2,
-		"strength": 40,
+		"strength": 47,
 		"cost": 240,
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Plastics",
@@ -116,17 +116,16 @@
    },
 	{
 		"name": "First of Line",
-		"replaces": "Great War Infantry",
+		"replaces": "Rifleman",
 		"uniqueTo": "Paraguay",
 		"unitType": "Melee",
 		"movement": 2,
-		"strength": 40,
+		"strength": 30,
 		"cost": 100,
-		"requiredTech": "Replaceable Parts",
-		"uniqueText": "Common me enlist for the army, equiped with whatever they have at hand",
+		"requiredTech": "Rifling",
 		"uniques": ["Can move immediately once bought"],
-		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics"
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts"
 	},
 	{
 		"name": "Aca Yboty",
@@ -134,11 +133,11 @@
 		"uniqueTo": "Paraguay",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 30,
-		"cost": 200,
+		"strength": 38,
+		"cost": 240,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "Penalty vs City 33%"],
 		"upgradesTo": "Landship",
 		"obsoleteTech": "Combustion"
 	},
@@ -149,12 +148,11 @@
 		"unitType": "Siege",
 		"movement": 1,
 		"strength": 10,
-		"rangedStrength": 40,
+		"rangedStrength": 35,
 		"cost": 166,
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniqueText": "Powerful cannon made with the bells of the churches. Bonus vs City 200%, Limited Visibility",
 		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"]
 	},
 	{
