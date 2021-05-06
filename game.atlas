@@ -11,6 +11,13 @@ BuildingIcons/Argentine Estable
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Establo
+  rotate: false
+  xy: 104, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Chapultepec Castle
   rotate: false
   xy: 308, 104
@@ -40,6 +47,13 @@ BuildingIcons/Street Carnival
   offset: 0, 0
   index: -1
 BuildingIcons/Latinity School
+  rotate: false
+  xy: 1022, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Primary School
   rotate: false
   xy: 1022, 104
   size: 100, 100
