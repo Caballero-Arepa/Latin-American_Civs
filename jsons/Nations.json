@@ -45,7 +45,7 @@
 		"uniqueName": "Ethnic Diversity",
 		"uniques": ["Provides 1 happiness per 2 additional social policies adopted"],
 
-		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosí","Oruro","Cobija","Riberalta","Yacuíba","Sacaba","Viacha","Tiquipaya","Quillacollo","Oruro","Guayaramerin","Tupiza","Villa Montes","Villazón","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacaní"]
+		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"]
 	},
         {
 		"name": "Brazil",
@@ -94,7 +94,7 @@
 		"uniqueName": "Colombian Coffee Region",
 		"uniques": ["[+1 Gold] from every [Plantation]","[+1 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
 
-		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres","Leticia"]
+		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayan","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres","Leticia"]
 	},
   {
 		"name": "Chile",
@@ -166,7 +166,7 @@
 		"uniqueName": "Master Engineering",
 		"uniques": ["[+2 Production] from every [Great Improvement]", "[Great Engineer] is earned [20]% faster"],
 
-		"cities": ["Asunción","Cudad del Este","San Lorenzo","Encarnación","Pedro Juan Caballero","Ñemby","Oviedo","Capiatá","Fernando de Mora","Limpio","Lambaré","Itauguá","Luque","Franco","Villa Elisa","Villarrica","Hermandarias","Areguá","Caacupé","Minga Guazú","Palmira", "Villa de Leyva","Guatape","Concepción","Villa Hayes","Itá","San Antonio","Ayolas"]
+		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Pedro Juan Caballero","Ñemby","Oviedo","Capiata","Fernando de Mora","Limpio","Lambare","Itaugua","Luque","Franco","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu","Palmira", "Villa de Leyva","Guatape","Concepcion","Villa Hayes","Ita","San Antonio","Ayolas"]
 	},
   {
 		"name": "Peru",
