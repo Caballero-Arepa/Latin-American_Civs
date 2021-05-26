@@ -9,7 +9,6 @@
 		"cost": 200,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-                "uniqueText": "This noble Llaneros ride into battle with their own horses for farm, more than willing to fight for fredom",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"promotions": ["Morale", "Charge"],
 		"upgradesTo": "Landship",
@@ -49,7 +48,7 @@
 		"uniqueTo": "Mexico",
 		"unitType": "Melee",
 		"movement": 2,
-		"strength": 47,
+		"strength": 49,
 		"cost": 240,
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Plastics",
@@ -153,7 +152,7 @@
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"]
+		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"]
 	},
 	{
 		"name": "Colorado",
