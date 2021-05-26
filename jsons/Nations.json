@@ -161,7 +161,7 @@
 		"tradeRequest": "You want this, I want that. Deal?",
 
                 "outerColor": [0,84,168],
-		"innerColor": [173,161,161],
+		"innerColor": [173,70,70],
 
 		"uniqueName": "Master Engineering",
 		"uniques": ["[+2 Production] from every [Great Improvement]", "[Great Engineer] is earned [20]% faster"],
