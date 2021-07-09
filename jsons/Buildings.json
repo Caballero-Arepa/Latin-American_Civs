@@ -57,7 +57,7 @@
                 "happiness": 1,
                 "culture": 4,
 		"specialistSlots": {"Artist": 3},
-		"requiredBuilding": "Temple",
+		"requiredBuilding": "Amphitheater",
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredTech": "Acoustics"
@@ -75,7 +75,7 @@
 	},
 	{
 		"name": "Folkloric Comparse",
-		"replaces": "Temple",
+		"replaces": "Amphitheater",
 		"uniqueTo": "Bolivia",
 		"greatPersonPoints": {"culture": 1},
 		"happiness": 1,
