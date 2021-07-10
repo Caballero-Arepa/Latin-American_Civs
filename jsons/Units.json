@@ -9,7 +9,7 @@
 		"cost": 200,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "-[33]% Strength vs [City]"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength vs [City]"],
 		"promotions": ["Morale", "Charge"],
 		"upgradesTo": "Landship",
 		"obsoleteTech": "Combustion"
@@ -24,7 +24,8 @@
 		"cost": 450,
 		"requiredResource": "Aluminum",
 	        "requiredTech": "Computers",
-		"uniques": ["+[110]% Strength vs [Armor]", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement", "Can pass through impassable tiles", "Unable to capture cities"]
+		"uniques": ["[+110]% Strength vs [Armor]", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement",
+			    "Can pass through impassable tiles", "Unable to capture cities"]
   },
 	{
 		"name": "Liberator Scuadron",
@@ -40,7 +41,7 @@
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
-		"uniques": ["+[35]% Strength vs [City]", "Double movement in coast"]
+		"uniques": ["[+35]% Strength vs [City]", "Double movement in coast"]
 	},
            {
 		"name": "201 Scuadron",
@@ -57,7 +58,7 @@
 		"obsoleteTech": "Plastics",
 		"upgradesTo": "Jet Fighter",
 		"promotions": [Bombardment I],
-		"uniques": ["[100]% chance to intercept air attacks","+[145]% Strength vs [Bomber]","+[38]% Strength vs [Fighter]",
+		"uniques": ["[100]% chance to intercept air attacks","[+145]% Strength vs [Bomber]","[+38]% Strength vs [Fighter]",
 			"6 tiles in every direction always visible"],
 		"attackSound": "shot"
 	},
@@ -141,7 +142,7 @@
 		"cost": 240,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "-[33]% Strength vs [City]"],
+		"uniques": ["Can move after attacking", "[-33]% Strength vs [City]"],
 		"upgradesTo": "Landship",
 		"obsoleteTech": "Combustion"
 	},
@@ -157,7 +158,7 @@
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"]
+		"uniques": ["[+200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"]
 	},
 	{
 		"name": "Colorado",
