@@ -3,7 +3,7 @@
 Llanero = 
 Arpia = 
 Liberator Scuadron = 
-Rurales = 
+201 Scuadron = 
 Gaucho = 
 Pracinha = 
 Rabona = 
@@ -417,3 +417,10 @@ Turmero =
 Tocuyito = 
 El Trige = 
 Carora = 
+
+
+Uruguay = 
+Uruguayan = 
+Very well, this will not be fruitful for you. = 
+We were too weak to protect ourselves, how could we imagine otherwise = 
+Montevideo

@@ -9,7 +9,7 @@
 		"cost": 200,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "-[33]% Strength vs [City]"],
 		"promotions": ["Morale", "Charge"],
 		"upgradesTo": "Landship",
 		"obsoleteTech": "Combustion"
@@ -24,7 +24,7 @@
 		"cost": 450,
 		"requiredResource": "Aluminum",
 	        "requiredTech": "Computers",
-		"uniques": ["Bonus vs Armor 100%", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement", "Can pass through impassable tiles", "Unable to capture cities"]
+		"uniques": ["+[110]% Strength vs [Armor]", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement", "Can pass through impassable tiles", "Unable to capture cities"]
   },
 	{
 		"name": "Liberator Scuadron",
@@ -40,21 +40,26 @@
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
-		"uniques": ["Bonus vs City 33%", "Double movement in coast"]
+		"uniques": ["+[35]% Strength vs [City]", "Double movement in coast"]
 	},
            {
-		"name": "Rurales",
-		"replaces": "Great War Infantry",
+		"name": "201 Scuadron",
+		"replaces": "Fighter",
 		"uniqueTo": "Mexico",
-		"unitType": "Melee",
-		"movement": 2,
-		"strength": 49,
-		"cost": 240,
-		"requiredTech": "Replaceable Parts",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 48,
+		"rangedStrength": 45,
+		"interceptRange": 9,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
 		"obsoleteTech": "Plastics",
-		"upgradesTo": "Infantry",
-		"hurryCostModifier": 10,
-		"uniques": ["+[10]% combat bonus in [Friendly Land]", "Can move immediately once bought"],
+		"upgradesTo": "Jet Fighter",
+		"promotions": [Bombardment I],
+		"uniques": ["[100]% chance to intercept air attacks","+[145]% Strength vs [Bomber]","+[38]% Strength vs [Fighter]",
+			"6 tiles in every direction always visible"],
+		"attackSound": "shot"
 	},
           {
              "name": "Gaucho",
@@ -69,7 +74,7 @@
              "obsoleteTech": "Combined Arms",
              "upgradesTo": "Anti-Tank Gun",
              "hurryCostModifier": 25,
-             "uniques": ["Can move after attacking", "No defensive terrain bonus", "Can build improvements on tiles"],
+             "uniques": ["Can move after attacking", "No defensive terrain bonus", "Can build [Pasture] improvements on tiles"],
    },
          {
 	      "name": "Pracinha",
@@ -136,7 +141,7 @@
 		"cost": 240,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "Penalty vs City 33%"],
+		"uniques": ["Can move after attacking", "-[33]% Strength vs [City]"],
 		"upgradesTo": "Landship",
 		"obsoleteTech": "Combustion"
 	},

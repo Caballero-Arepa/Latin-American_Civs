@@ -92,7 +92,7 @@
 		"innerColor": [1,57,150],
 
 		"uniqueName": "Colombian Coffee Region",
-		"uniques": ["[+1 Gold] from every [Plantation]","[+1 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
+		"uniques": ["[+1 Gold] from every [Plantation]","[+1 Culture] from every [Plantation]","[+1 Food] from every [Plantation]","+[33]% Strength vs [Barbarians]"],
 
 		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayan","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres","Leticia"]
 	},
@@ -160,13 +160,13 @@
 		"hateHello": "Do not, disturb me.",
 		"tradeRequest": "You want this, I want that. Deal?",
 
-                "outerColor": [0,84,168],
-		"innerColor": [173,70,70],
+                "outerColor": [173,161,161],
+		"innerColor": [0,56,168],
 
 		"uniqueName": "Master Engineering",
-		"uniques": ["[+2 Production] from every [Great Improvement]", "[Great Engineer] is earned [20]% faster"],
+		"uniques": ["[+2 Production] from every [Great Improvement]", "+[10]% Production when constructing [{Military} {Land}] units [in all cities]"],
 
-		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Pedro Juan Caballero","Ñemby","Oviedo","Capiata","Fernando de Mora","Limpio","Lambare","Itaugua","Luque","Franco","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu","Palmira", "Villa de Leyva","Guatape","Concepcion","Villa Hayes","Ita","San Antonio","Ayolas"]
+		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",]
 	},
   {
 		"name": "Peru",
@@ -207,11 +207,23 @@
 		"tradeRequest": "I hope you accept this; ¡it´s practically a gift!",
 
 		"outerColor": [245,217,0],
-		"innerColor": [155,0,0],
+		"innerColor": [5,84,216],
 
 		"uniqueName": "Oil Power",
-                "uniques": ["Double quantity of [Oil] produced","[+4 Gold, +2 Happiness] from every [Oil well]"],
+                "uniques": ["Receive free [Great General] when you discover [Military Science]","Double quantity of [Oil] produced","[+4 Gold, +2 Happiness] from every [Oil well]"],
 
                 "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
-	}
+	},
+	{
+		"name": "Uruguay",
+		"adjective": ["Uruguayan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this will not be fruitful for you.",
+		"defeated": "We were too weak to protect ourselves, how could we imagine otherwise",
+		"outerColor": [0, 0, 0],
+		"innerColor": [63,72,204],
+		"cities": ["Montevideo"]
+	},
 ]

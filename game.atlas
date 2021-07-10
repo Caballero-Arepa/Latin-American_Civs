@@ -1,237 +1,223 @@
 
 game.png
-size: 2048, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Argentine Estable
   rotate: false
-  xy: 104, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Establo
-  rotate: false
-  xy: 104, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 1617, 365
+  size: 157, 135
+  orig: 157, 135
   offset: 0, 0
   index: -1
 BuildingIcons/Chapultepec Castle
   rotate: false
-  xy: 308, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 1252, 116
+  size: 169, 174
+  orig: 169, 174
   offset: 0, 0
   index: -1
 BuildingIcons/CourtHouse
   rotate: false
-  xy: 512, 104
+  xy: 1576, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Folkloric Comparse
   rotate: false
-  xy: 818, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Street Carnival
-  rotate: false
-  xy: 818, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 1252, 298
+  size: 190, 202
+  orig: 190, 202
   offset: 0, 0
   index: -1
 BuildingIcons/Latinity School
   rotate: false
-  xy: 1022, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Primary School
-  rotate: false
-  xy: 1022, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 628, 300
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Peruvian Restaurant
   rotate: false
-  xy: 1736, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 1450, 350
+  size: 159, 150
+  orig: 159, 150
   offset: 0, 0
   index: -1
 BuildingIcons/Saltpeter Office
   rotate: false
-  xy: 614, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 1450, 220
+  size: 140, 122
+  orig: 140, 122
   offset: 0, 0
   index: -1
-BuildingIcons/Zulia University
+BuildingIcons/Street Carnival
   rotate: false
-  xy: 614, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 1044, 92
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Tango Dance Theatre
   rotate: false
-  xy: 716, 2
+  xy: 1782, 326
+  size: 157, 174
+  orig: 157, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Zulia University
+  rotate: false
+  xy: 1900, 110
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Argentina
   rotate: false
-  xy: 2, 2
+  xy: 1429, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Bolivia
   rotate: false
-  xy: 206, 104
+  xy: 1537, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Brazil
   rotate: false
-  xy: 206, 2
+  xy: 1252, 8
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Chile
   rotate: false
-  xy: 308, 2
+  xy: 1360, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Colombia
   rotate: false
-  xy: 410, 104
+  xy: 1468, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 1328, 104
+  xy: 1645, 134
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Paraguay
   rotate: false
-  xy: 1430, 104
+  xy: 1684, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Peru
   rotate: false
-  xy: 1532, 104
+  xy: 1792, 218
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Venezuela
   rotate: false
-  xy: 818, 2
+  xy: 1792, 110
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/201 Scuadron
+  rotate: false
+  xy: 4, 300
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Aca Yboty
   rotate: false
-  xy: 2, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 92
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Arpia
   rotate: false
-  xy: 104, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 212, 300
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Colorado
   rotate: false
-  xy: 410, 3
-  size: 100, 99
-  orig: 100, 99
+  xy: 212, 92
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Criollo Cannon
   rotate: false
-  xy: 614, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 420, 300
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/First of Line
   rotate: false
-  xy: 716, 104
+  xy: 1598, 242
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gaucho
   rotate: false
-  xy: 920, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 420, 92
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Liberator Scuadron
   rotate: false
-  xy: 1124, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 628, 92
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Llanero
   rotate: false
-  xy: 1226, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 836, 300
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Peruvian Legion
   rotate: false
-  xy: 1634, 104
-  size: 100, 100
-  orig: 100, 100
+  xy: 836, 92
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Pracinha
   rotate: false
-  xy: 1838, 104
+  xy: 1900, 218
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rabona
   rotate: false
-  xy: 1940, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rurales
-  rotate: false
-  xy: 512, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 1044, 300
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
