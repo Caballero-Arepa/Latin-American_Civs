@@ -52,7 +52,7 @@
 		"leaderName": "Pedro II",
                 "adjective": ["Brazilian"],
                 "startBias": ["Jungle"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 
 		"declaringWar": "The empire of Brazil shall destroy your ill nation.",
 		"attacked": "The only thing I worry for, is for the people affected by this.",
@@ -75,10 +75,13 @@
         },
 	{
 		"name": "Colombia",
-		"leaderName": "Carlos Lleras Restrepo",
+		"leaderName": "Paula Santander",
 		"adjective": ["Colombians"],
 		"startBias": ["Hill","Coast","Jungle"],
-// 	        "preferredVictoryType": "Diplomatic",
+  	        "preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Be welcomed, president. You lead the beatiful and joyful nation of Colombia, a country with great cultural and bio diversity. One, two, three, three have been the attempts to break free - getting terribly punished - but with determination, Colombia managed inependence with Simon Bolivar, to later join his abitious proyect of the Gran Colombia. Since the start we had a ton of great political division, which brought many problems and conflicts, which didn't cease until early 21st century, where the sun finally rises over Colombia to achieve greatness.",
+		"startIntroPart2": "President Santander, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
 
 		"declaringWar": "Prepare to lose your empire of opression!",
 		"attacked": "You will see how fruitless this will be for you. Wait and see.",
@@ -92,7 +95,7 @@
 		"innerColor": [1,57,150],
 
 		"uniqueName": "Colombian Coffee Region",
-		"uniques": ["[+1 Gold] from every [Plantation]","[+2 Culture] from every [Plantation]","[+1 Food] from every [Plantation]","+[33]% Strength vs [Barbarians]"],
+		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","+[32]% Strength vs [Barbarians]"],
 
 		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayan","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres","Leticia"]
 	},
@@ -125,7 +128,8 @@
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 		"startBias": ["Avoid [Tundra]"],
-//      	"preferredVictoryType": "Diplomatic",
+        	"preferredVictoryType": "Cultural",
+		certainly one of the most important spanish colonies
 
 		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
 		"attacked": "Mexicans! Prepare to defend our homeland!",
@@ -150,7 +154,10 @@
 		"leaderName": "Gaspar Rodriguez",
 		"adjective": ["Paraguayans"],
 		"startBias": ["Plains","Forest"],
-//   		"preferredVictoryType": "Diplomatic",
+    		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Good day you may have. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they dont actually exist - no mather how big it was, they survived. From, winning to Spanish Empire, to battling agaist a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
+		"startIntroPart2": "Good President, will you protect your people agaist all odds? Can you make a civilization that can stand the pass of time?",
 
 		"declaringWar": "I hate your idea of justice. When justice needs to be done, I am more than willing to do it.",
 		"attacked": "If war is what you want, war you will have.",
@@ -173,7 +180,10 @@
                 "leaderName": "Martin Vizcarra",
 		"adjective": "Peruvian",
 		"startBias": ["Hills","Coast"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
+	        
+	        "startIntroPart1": "Mr. President, welcome. Has you know, you lead the great, ancient cultural nation of the Peru. The nations dates back to the mighty Incas, after being colonised. The colony was one of the major ones for the spanish - and  that's still true! -. The ungrateful spaniards wasted all the money, increased taxes, and combinedd with many other things, Peru rebeled. After a failed attempt, the joint effort of Simon Bolivar, and most importantly, San Martin, gave the freedom to the peruvians, which continued to exploit their mineral richies, and culture abundance.",
+	        "startIntroPart2": "Great governor, your people want to further expand their culture and get more prestige. Will you accept the offer? Can you make a civilization that can stand the pass of time?",
 
 		"declaringWar": "Great lands ruled by a bad lider, your people don't deserve you, I will take care of them better than you.",
 		"attacked": "I will give you one of the best wars on history! And the worst defeat in yours.",
@@ -197,6 +207,9 @@
 		"adjective": ["Venezuelan"],
 		"startBias": ["Plains","Coast"],
 		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Coronel Marcos Perez Jimenez, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries, and has atracted men from the old world. The beautiful country born with the first settlers, warriors and fisher men. But our republican history starts when, Francisco de Miranda, a great exelent general, and Simon Bolivar, a venezuelan strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independece would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the venezuelan richness would have a rise mid the 20 century, thanks to their resources.",
+		"startIntroPart2": "Coronel! Your people call you, and express their affect, it's time to achieve what we have been waiting for years, it's time to bring back the glory that Venezueela deserves! Do you accept the challenge, your highnes? Can you build a civilization that can stand the pass of time?",
 
 		"declaringWar": "Your nation is a danger for our sovereignty.",
 		"attacked": "Expect a ferocious battle, which you won´t win.",
