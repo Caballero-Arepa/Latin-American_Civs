@@ -1,17 +1,5 @@
 [
 	{
-        	"name": "Zulia University",
-        	"replaces": "Oxford University",
-		      "uniqueTo": "Venezuela",
-        	"cost": 140,
-        	"culture": 2,
-  	        "science": 4,
-		      "specialistSlots": {"Science": 1},
-		      "isNationalWonder": true,
-		      "uniques": ["Requires a [University] in all cities", "Cost increases by [30] per owned city", "Free Technology"],
-        	"requiredTech": "Education"
-	},
-	{
 		"name": "Latinity School",
 		"replaces": "Public School",
 		"uniqueTo": "Venezuela",
@@ -41,7 +29,7 @@
 		"name": "Chapultepec Castle",
 		"replaces": "Castle",
 		"uniqueTo": "Mexico",
-		"greatPersonPoints": {"culture": 1},
+		"greatPersonPoints": {"Great Artist": 1},
 		"cityStrength": 6,
 		"cityHealth": 30,
 		"xpForNewUnits": 10,
