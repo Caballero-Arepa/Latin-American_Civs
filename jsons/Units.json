@@ -12,11 +12,12 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "-[33]% Strength vs [City]"],
 		"promotions": ["Morale", "Charge"],
 		"upgradesTo": "Landship",
-		"obsoleteTech": "Combustion"
+		"obsoleteTech": "Combustion",
+		"attackSound": "horse",
 	},
 	{
 		"name": "Arpia",
-		"unitType": "Melee",
+		"unitType": "Helicopter",
 		"uniqueTo": "Colombia",
 		"replaces": "Helicopter Gunship",
 		"movement": 7,
@@ -25,7 +26,8 @@
 		"requiredResource": "Aluminum",
 	        "requiredTech": "Computers",
 		"uniques": ["+[110]% Strength vs [Armor]", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement",
-			    "Can pass through impassable tiles", "Unable to capture cities"]
+			    "Can pass through impassable tiles", "Unable to capture cities"],
+		"attackSound": "machinegun",
   },
 	{
 		"name": "Liberator Scuadron",
@@ -41,7 +43,8 @@
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
-		"uniques": ["+[35]% Strength vs [City]", "Double movement in coast"]
+		"uniques": ["+[35]% Strength vs [City]", "Double movement in coast"],
+		"attackSound": "shipguns",
 	},
            {
 		"name": "201 Scuadron",
@@ -60,7 +63,7 @@
 		"promotions": [Bombardment I],
 		"uniques": ["[100]% chance to intercept air attacks","+[145]% Strength vs [Bomber]","+[38]% Strength vs [Fighter]",
 			"6 tiles in every direction always visible"],
-		"attackSound": "shot"
+		"attackSound": "machinegun",
 	},
           {
              "name": "Gaucho",
@@ -76,6 +79,7 @@
              "upgradesTo": "Anti-Tank Gun",
              "hurryCostModifier": 25,
              "uniques": ["Can move after attacking", "No defensive terrain bonus", "Can build [Pasture] improvements on tiles"],
+		"attackSound": "horse",
    },
          {
 	      "name": "Pracinha",
@@ -89,6 +93,7 @@
 	      "obsoleteTech": "Mobile Tactics",
 	      "upgradesTo": "Mechanized Infantry",
 	      "promotions": ["Great Generals I"],
+		"attackSound": "shot",
    },
   {
 	      "name": "Rabona",
@@ -100,11 +105,12 @@
 	      "cost": 20,
 	      "obsoleteTech": "Scientific Theory",
 	      "promotions": ["Medic"],
-	      "uniques": ["Ignores terrain cost"]
+	      "uniques": ["Ignores terrain cost", "May upgrade to [Archer] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
   },
   {
 	      "name": "Peruvian Legion",
-	      "unitType": "Ranged",
+	      "unitType": "Gunpowder",
 	      "uniqueTo": "Peru",
 	      "replaces": "Gatling Gun",
 	      "movement": 2,
@@ -115,22 +121,23 @@
 	      "requiredTech": "Industrialization",
 	      "obsoleteTech": "Ballistics",
 	      "upgradesTo": "Machine Gun",
-	      "promotions": ["Extended Range"],
 	      "hurryCostModifier": 40,
-	      "uniques": ["Ignores terrain cost"]
+	      "uniques": ["Ignores terrain cost"],
+		"attackSound": "shot",
    },
 	{
 		"name": "First of Line",
 		"replaces": "Rifleman",
 		"uniqueTo": "Paraguay",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 30,
 		"cost": 100,
 		"requiredTech": "Rifling",
 		"uniques": ["Can move immediately once bought"],
 		"upgradesTo": "Great War Infantry",
-		"obsoleteTech": "Replaceable Parts"
+		"obsoleteTech": "Replaceable Parts",
+		"attackSound": "shot",
 	},
 	{
 		"name": "Aca Yboty",
@@ -144,7 +151,8 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[-33]% Strength vs [City]"],
 		"upgradesTo": "Landship",
-		"obsoleteTech": "Combustion"
+		"obsoleteTech": "Combustion",
+		"attackSound": "horse",
 	},
 	{
 		"name": "Criollo Cannon",
@@ -158,11 +166,12 @@
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"]
+		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
+		"attackSound": "cannon",
 	},
 	{
 		"name": "Colorado",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Bolivia",
 		"replaces": "Rifleman"
 		"movement": 2,
@@ -173,5 +182,20 @@
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["Woodsman"],
 		"uniques": ["Double movement in Snow, Tundra and Hills"],
+		"attackSound": "shot",
    },
+   {
+		"name": "Patriot Army",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Venezuela",
+		"replaces": "Rifleman",
+		"movement": 4,
+		"strength": 34,
+		"cost": 220,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"uniques": ["Can pass through impassable tiles"],
+		"attackSound": "shot",
+	},
 ]
