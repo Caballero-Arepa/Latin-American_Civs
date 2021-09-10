@@ -97,7 +97,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["+[15]% Production when constructing [Mounted] units [in this city]", 
 			"[+2 Production] from [Cattle] tiles in this city",
-			"[+2 Production] from [Horses] tiles in this city","Double quantity of [Horses] produced",
+			"[+2 Production] from [Horses] tiles in this city",
 			"[+1 Production] from [Sheep] tiles in this city"]
 		"requiredTech": "Horseback Riding"
 	},
