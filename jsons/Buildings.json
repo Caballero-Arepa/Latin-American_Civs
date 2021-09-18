@@ -82,6 +82,7 @@
 		"replaces": "Courthouse",
 		"uniqueTo": "Bolivia",
 		"hurryCostModifier": 40,
+		"happiness": 1,
 		"maintenance": 4,
 		"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built in annexed cities", "Will not be displayed in Civilopedia"],
