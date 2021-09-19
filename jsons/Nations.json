@@ -107,7 +107,7 @@
 		"uniqueName": "Colombian Coffee Region",
 		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","+[32]% Strength vs [Barbarians]"],
 
-		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar", "Tame","Sogamoso","Paipa","Tunja","Pereira","Popayan","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres","Leticia"]
+		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Villavicencio","Ibague","Santa Marta","Popayan","Valledupar", "Panama","Sogamoso","Barrancabermaja","Tunja","Pereira","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Buga","Buenaventura","San Andres","Leticia"]
 	},
   {
 		"name": "Chile",
