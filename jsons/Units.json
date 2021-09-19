@@ -130,7 +130,7 @@
 		"uniqueTo": "Paraguay",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 30,
+		"strength": 29,
 		"cost": 100,
 		"requiredTech": "Rifling",
 		"uniques": ["Can move immediately once bought"],
