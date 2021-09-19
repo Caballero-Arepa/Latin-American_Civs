@@ -57,7 +57,7 @@
 		"name": "Brazil",
 		"leaderName": "Pedro II",
                 "adjective": ["Brazilian"],
-                "startBias": ["Jungle"],
+                "startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Hail to the great emperor of Brazil, the great nation born from portugesse and natives. The grand nation of Brazil was built upon the portugese use of slaves, but at difference with others, they integrated them into their culture, the portugese language. Together, mestizos and natives, got them selves independence from Portugal and formed the Empire of Brazil. With cunning diplomacy, fierce force, and resource abundance, Brazil managed to become one of the best in Latin America, with all his resources and culture, certainly they are powerful.",
@@ -86,7 +86,7 @@
 		"name": "Colombia",
 		"leaderName": "Paula Santander",
 		"adjective": ["Colombians"],
-		"startBias": ["Hill","Coast","Jungle"],
+		"startBias": ["Hill","Jungle"],
   	        "preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Be welcomed, president. You lead the beatiful and joyful nation of Colombia, a country with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Colombia managed independence with the help of Simon Bolivar, to later join his abitious proyect of the Gran Colombia. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Colombia ought to help other, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Colombia to achieve greatness.",
@@ -246,6 +246,7 @@
 	},
 	{
 		"name": "Uruguay",
+		"startBias": ["Coast"],
 		"adjective": ["Uruguayan"],
 		"cityStateType": "Maritime",
 
