@@ -105,7 +105,7 @@
 		"innerColor": [1,57,150],
 
 		"uniqueName": "Colombian Coffee Region",
-		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","+[32]% Strength vs [Barbarians]"],
+		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>"],
 
 		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Villavicencio","Ibague","Santa Marta","Popayan","Valledupar", "Panama","Sogamoso","Barrancabermaja","Tunja","Pereira","Pasto","Duitama","Manizales","Palmira", "Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Buga","Buenaventura","San Andres","Leticia"]
 	},
@@ -188,7 +188,7 @@
 		"innerColor": [0,56,168],
 
 		"uniqueName": "Master Engineering",
-		"uniques": ["[+2 Production] from every [Great Improvement]", "+[10]% Production when constructing [{Military} {Land}] units [in all cities]"],
+		"uniques": ["[+2 Production] from every [Great Improvement]", "[+15]% Production when constructing [{Military} {Land}] units [in all cities]"],
 
 		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",]
 	},
