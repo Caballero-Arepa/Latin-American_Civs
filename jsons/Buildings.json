@@ -16,6 +16,7 @@
 		"name": "Saltpeter Office",
 		"replaces": "Factory",
 		"uniqueTo": "Chile",
+	        "cost": 360,
 		"production": 10,
 		"percentStatBonus": {"production": 30},
 		"specialistSlots": {"Engineer": 2},
@@ -96,7 +97,7 @@
                 "food": 1,
                 "requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["+[15]% Production when constructing [Mounted] units [in this city]", 
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]", 
 			"[+2 Production] from [Cattle] tiles in this city",
 			"[+2 Production] from [Horses] tiles in this city",
 			"[+1 Production] from [Sheep] tiles in this city"]
