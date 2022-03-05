@@ -1,0 +1,28 @@
+[
+	// Changes
+	{
+	"name": "Flood plains",
+	"type": "TerrainFeature",
+	"food": 2,
+	"movementCost": 1,
+	"defenceBonus": -0.1,
+	"occursOn": ["Desert","Plains"],
+	"uniques": ["Always Fertility [5] for Map Generation",
+			"Considered [Food] when determining start locations",
+			"Considered [Desirable] when determining start locations"]
+	},
+	{
+	"name": "Jungle Hills",
+	"type": "TerrainFeature",
+	"food": 2,
+	"movementCost": 2,
+	"overrideStats": true,
+	"unbuildable": true,
+	"defenceBonus": 0.25,
+	"occursOn": ["Plains","Grassland","Hill"],
+	"uniques": ["Rough terrain",
+			"Blocks line-of-sight from tiles at same elevation",
+			"Resistant to nukes", "Can be destroyed by nukes",
+			"Doesn't generate naturally"]
+	},
+]
