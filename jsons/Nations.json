@@ -16,7 +16,7 @@
 		"introduction": "I am julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
 		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
 		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
-		"afterPeace": "Altough we are at peace, I still want to see you defeated.",
+		"afterPeace": "Although we are at peace, I still want to see you defeated.",
 		"defeated": "You are just another nation, this victory will not change that, because I actually gaved up.",
 
 		"neutralHello": "Good morning.",
@@ -138,13 +138,13 @@
 		"neutralHello": "Hello There.",
 		"hateHello": "Assh, what do you want??",
 
-		"tradeRequest": "I  thought you might be intested in this...",
+		"tradeRequest": "I thought you might be intested in this...",
 		"neutralLetsHearIt": "Ok, let's see.",
 		"hateLetsHearIt": ["What good can you offer?", "Argh, so annoying."],
 		"neutralNo": ["It's not worth it.", "No thank you."],
 		"neutralYes": ["May our partnership grow stronger.", "Yes, your offer is good"],
 		"hateNo": ["Oh God, unacceptable", "This is unbearable."],
-		"hateYes": ["I won't tolerate this anymore in the future.", "I could be linched for this!"],
+		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
 		"uniqueName": "Colombian Coffee Region & Paramos",
 		"uniques": ["Double quantity of [Coffee] produced","[+6 Food] from every [Mountain]"],
@@ -243,7 +243,7 @@
 		"introduction": "Good morning, I'm Benito Juarez. Come with me and see my nation.",
 		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
 		"attacked": "Mexicans! Prepare to defend our homeland!",
-		"afterPeace": "You vil empire, see how you couldn't defeat us? Ha!",
+		"afterPeace": "You vile empire, see how you couldn't defeat us? Ha!",
 		"defeated": "Nooo, why? Everything I did was for our motherland...",
 
 		"neutralHello": "Good day amigo.",
@@ -251,7 +251,7 @@
 
 		"tradeRequest": "Could you accept this trade offer?",
 		"neutralLetsHearIt": "Alrigth let's see:",
-		"hateLetsHearIt": "Don't try any shenanigans wiht me.",
+		"hateLetsHearIt": "Don't try any shenanigans with me.",
 		"neutralNo": ["Not good enough.", "I would prefer something else"],
 		"neutralYes": ["Trade accepted", "Deal"],
 		"hateNo": ["Of course not.", "Nope, go away now"],
@@ -282,7 +282,7 @@
 		"declaringWar": "I hate your idea of justice. When justice needs to be done, I am more than willing to do it.",
 		"attacked": "If war is what you want, war you will have.",
 		"afterPeace": "Finally, the people may have rest. But I believe this is not over...",
-		"defeated": "We did our best, we resisted untill the end, however... you won.",
+		"defeated": "We did our best, we resisted until the end, however... you won.",
 
 		"neutralHello": "Welcome and welcome again.",
 		"hateHello": "Do not, disturb me.",
@@ -328,7 +328,7 @@
 		"hateLetsHearIt": "Come on, impress me if you can.",
 		"neutralNo": "This has to be declined",
 		"neutralYes": "I see potential in this trade",
-		"hateNo": ["That is outrageous, that's unfare.", "I profusely decline."],
+		"hateNo": ["That is outrageous, that's unfair.", "I profusely decline."],
 		"hateYes": ["This may be worst deal in the history of deals...", "*frustation noises*", "This should be ilegal. ..."],
 
 		"uniqueName": "Peruvian Gastronomy",
