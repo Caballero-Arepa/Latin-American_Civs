@@ -1,16 +1,12 @@
 #Units#
 
 Llanero = 
-Arpia = 
 Liberator Scuadron = 
 201 Scuadron = 
 Gaucho = 
 Pracinha = 
-Rabona = 
 Peruvian Legion = 
-First of Line = 
 Aca Yboty = 
-Criollo Cannon = 
 Colorado =
 Patriot Army =  
 
@@ -23,9 +19,9 @@ Chapultepec Castle =
 Tango Dance Theatre = 
 Street Carnival = 
 Folkloric Comparse = 
-CourtHouse = 
-Argentine Estable = 
 Peruvian Restaurant = 
+Criollo Cannon = 
+Coffee Hacienda
 
 
 #Nations#
@@ -39,11 +35,24 @@ President, your people call you to bring good to the country. Will you make a ci
 
 I need to do this, for the sake of progress. You were never my friend. = 
 Ha! You think you can defeat me? Don't you know we are better than you? = 
+Although we are at peace, I still want to see you defeated. = 
 You are just another nation, this victory will not change that, because I actually gaved up. = 
 I am julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same. = 
 Good morning. = 
 Will you treat me how I deserve?! = 
+
 I know you want this trade, I'm sure of that. = 
+Yeah, I hear your offer. = 
+Ok, what is it? = 
+Ok.. let's hear it... = 
+No no. = 
+Thank you, but no. = 
+Thank you very much, goodbye. = 
+This is what I wanted!... = 
+NO, no in the slightest = 
+Uy, no! How could you think on such a thing!? = 
+I only accept because I have to. = 
+Whatever, I don't care. = 
 
 Pride of the People = 
 
@@ -88,12 +97,23 @@ So, will you exploit the potential of the nation, and bring her greatness? Your 
 
 After hard thought, Bolivia has no other choice. War is upon us. = 
 Come here, is this what you want? Well then... then you looked for it. = 
-Couldn't you leave alone? Couln't you!? = 
+We have peace... but at what cost?... = 
+Couldn't you leave alone? Couldn't you!? = 
 So, will you exploit the potential of the nation, and bring her greatness? Your people long haven been waiting for that. Will you give them what they deserve? - sea, might and pride? - Will you build a civilization which can stand the pass of time? = 
 Hello there, you can call me Belzu. Now, tell about your people please. = 
 Good evening. = 
 Will you give me what I deserve?! = 
 
+Yes! Let's sit at the negotiating table. = 
+You better have a good offer... = 
+Fine... = 
+Unfortunately, we have to decline. = 
+Wonderful = 
+Yes I like it. = 
+No! That is a shame! = 
+Noo! I won't allow it. = 
+No... *But I have no option...* Fine, I will regret this. = 
+This is so embarazing = 
 I'm sure your and my people will love this trade! = 
 
 Ethnic Diversity = 
@@ -135,11 +155,20 @@ Come back, dear emperor, your people call you to crush their enemies, and outshi
 
 The empire of Brazil shall destroy your ill nation. = 
 The only thing I worry for, is for the people affected by this. = 
+Let our people have rest of this horrible war. = 
 This is unfortunate, after all, you are the victor. = 
 I am Pedro the II, emperor of Brazil. Peace and prosperity for our nations. = 
 Bom dia = 
 WHAT do you want? = 
+
 I'm happy to anounce this trade offer. = 
+Let's see what you have to say. = 
+Say it fast, come on. = 
+I don't want to even see you, but ok. = 
+I will decline. = 
+Good Buissness. = 
+I hate that. = 
+I will get rid of this as soon as possible. = 
 
 Amazonian Forest = 
 
@@ -179,51 +208,63 @@ Colombia =
 Carlos Lleras Restrepo = 
 Colombians = 
 
-Be welcomed, president. You lead the beatiful and joyful nation of Colombia, a country with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Colombia managed independence with the help of Simon Bolivar, to later join his abitious proyect of the Gran Colombia. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Colombia ought to help other, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Colombia to achieve greatness. = 
+Be welcomed, president. You lead the beatiful and rich nation of Colombia, a country with great cultural and bio diversity. ... Three had been the attempts to break free - getting terribly punished in the process - but with determination, Colombia managed independence with the help of Simon Bolivar, to later join his abitious proyect of the Gran Colombia. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Colombia ought to help others, no matter what. The conflicts didn't ceased until early 21st century, where the sun finally rises over Colombia to achieve greatness. = 
 President Santander, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time? = 
 
-Prepare to lose your empire of opression! = 
+We must do this, to free your opressed people from your hands. = 
 You will see how fruitless this will be for you. Wait and see. =  
-I hope you treat my people good, don´t take away their happiness. = 
+The path to peace is often long and tortuous, but the reward is always invaluable = 
+I hope you treat my people good, they've had enough. = 
 Greetings! This is Colombia, my wordeful land. Want a coffee? = 
 Hello There. = 
 Assh, what do you want? = 
-I  thought you might be intested in this... = 
 
-Colombian Coffee Region = 
+I thought you might be intested in this... = 
+Ok, let's see. = 
+What good can you offer? = 
+Argh, so annoying. = 
+It's not worth it. = 
+No thank you. = 
+May our partnership grow stronger. = 
+Yes, your offer is good = 
+Oh God, unacceptable = 
+This is unbearable. = 
+I won't tolerate this anymore in the future. = 
+I could be lynched for this! = 
+
+Colombian Coffee Region & Paramos = 
 
 Bogota = 
 Cartagena = 
 Medellin = 
-Cali = 
 Barranquilla = 
-Cucuta = 
+Cali = 
 Bucaramanga = 
-Villavicencio = 
+Cucuta = 
+Buenaventura = 
 Ibague = 
 Santa Marta = 
-Valledupar = 
-Tame = 
-Sogamoso = 
-Paipa = 
 Tunja = 
+Valledupar = 
+Villavicencio = 
 Pereira = 
-Popayán = 
+Barrancabermaja = 
+Popayan = 
+Monteria = 
 Pasto = 
-Duitama = 
 Manizales = 
-Palmira = 
+Armenia = 
+Florencia = 
 Villa de Leyva = 
-Guatape = 
+Guatavita = 
 Neiva = 
 Riohacha = 
 Arauca = 
 Yopal = 
-Pereira = 
-Buenaventura = 
+Buga = 
+Sogamoso = 
 San Andres = 
 Leticia = 
-
 
 Chile = 
 Bernard O´Higgins = 
@@ -234,14 +275,23 @@ Hello there, general O'Higgins, great hero of the independence of Chile, one of 
 
 If it´s necesary to cross the mountains to destroy you, my army is willing to do it. = 
 From the desert to the Patagonia, we will defend our homeland whatever it costs = 
+You see? The Chilean Spirit is strong and firm. Don't try this again. = 
 We haven´t managed to defend our homeland. This lands are now yours. Goodbye. = 
 Welcome to our lands. I hope that our nations grow strong and in peace. = 
 Greetings to your people = 
 Could you have at least have some respect to my nation?! = 
+
 Let´s negotiate, we have resources that interest both of us = 
+May trade be fruitful. = 
+What could you offer, if even you coould? = 
+Perhaps something else = 
+Not right now = 
+This will make of a great deal = 
+Surely = 
+How could you think I would accept that!? = 
+This is ridiculous = 
 
 Mining Riches = 
-+2 Gold and +2 Production for every Quarry = 
 
 Santiago = 
 La Serena = 
@@ -285,11 +335,23 @@ Oh great lider of the Mexican republic, your people desperadly call you, they ca
 
 First comes the homeland, therefore you must not be in my way. = 
 Mexicans! Prepare to defend our homeland! = 
-Nooo, why? Everything I did was for our motherland. = 
+You vile empire, see how you couldn't defeat us? Ha!
+Nooo, why? Everything I did was for our motherland... = 
 Good morning, I'm Benito Juarez. Come with me and see my nation. = 
 Good day amigo. = 
 Arghh no, go away. = 
+
 Could you accept this trade offer? = 
+Alrigth let's see: = 
+Don't try any shenanigans with me. = 
+Not good enough. = 
+I would prefer something else = 
+Trade accepted = 
+Deal = 
+Of course not = 
+Nope, go away now = 
+You give me no alternative! = 
+I have a bad feeling of this... = 
 
 Day of the Death = 
 
@@ -334,13 +396,22 @@ Good President, will you protect your people agaist all odds? Can you make a civ
 
 I hate your idea of justice. When justice needs to be done, I am more than willing to do it. = 
 If war is what you want, war you will have. = 
-We did our best, we resisted untill the end, however... you won. = 
+Finally, the people may have rest. But I believe this is not over... = 
+We did our best, we resisted until the end, however... you won. = 
 Greetings. I am Gaspar Rodrigez, avenger of the rightful and defender of my people. Who are you? = 
 Welcome and welcome again. = 
 Do not, disturb me. = 
-You want this, I want that. Deal? = 
 
-Master Engineering = 
+You want this, I want that. Deal? = 
+Show me what you want from us. = 
+I won't give you anything. = 
+I don't see benefit on this. = 
+I see great benefit from this. = 
+Do you pretend to scam us? = 
+Unacceptable = 
+How is it possible to bare this 'deal'? = 
+
+Guarani Strenght = 
 
 Asuncion = 
 Ciudad del Este = 
@@ -381,14 +452,24 @@ Great governor, your people want to further expand their culture and get more pr
 
 Great lands ruled by a bad lider, your people don't deserve you, I will take care of them better than you. = 
 I will give you one of the best wars on history! And the worst defeat in yours. = 
+I hope you have regreted your decisions that have lead to this. = 
 History repeats it self. Therefore, Peru shall rise again. = 
 Greetings. I am Martin Vizcarra, president of Perú. I hope you can become a valuable ally. = 
 I salute you = 
 Get out of my sight! = 
+
 Look at all these goods! We should trade, don't we? = 
+I believe this could be an opportunity. = 
+Come on, impress me if you can. = 
+This has to be declined = 
+I see potential in this trade = 
+That is outrageous, that's unfair. = 
+I profusely decline. = 
+This may be worst deal in the history of deals... = 
+*frustation noises* = 
+This should be ilegal. ... = 
 
 Peruvian Gastronomy = 
-3% Culture from each Trade Route = 
 
 Lima = 
 Cusco = 
@@ -429,13 +510,23 @@ Venezuelan =
 Coronel Marcos Perez Jimenez, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fisher men. But our republican history starts when, Francisco de Miranda, a great exelent general, and Simon Bolivar, a venezuelan strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independece would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the venezuelan richness would have a rise mid the 20 century, thanks to their resources. = 
 Coronel! Your people call you, and express their affect, it's time to achieve what we have been waiting for years, it's time to bring back the glory that Venezuela deserves! Do you accept the challenge, your highnes? Can you build a civilization that can stand the pass of time? = 
 
+A pleasure to meet you, I am Marco Pérez, governor of Venezuela. I hope we get along. = 
 Your nation is a danger for our sovereignty. = 
 Expect a ferocious battle, which you won´t win. = 
+I hope your imperialist manners are gone after this. = 
 I have failed you Venezuela!... I have failed you. = 
-A pleasure to meet you, I am Marco Pérez, president of Venezuela. I hope we get along. = 
 Can I offer you something? = 
 What do you want, foreigner?! = 
+
 I hope you accept this; ¡it´s practically a gift! = 
+Yes, let's do buisness. = 
+Just so you know, if you want oil, it will be very hard. = 
+Nah = 
+Why not something else? = 
+This will make a great trade to add to my record. = 
+How could I leave this great offer pass? = 
+This is practically a scam! = 
+This very well could be a shame to the nation. = 
 
 Oil Power = 
 
@@ -476,7 +567,14 @@ Carora =
 Uruguay = 
 Uruguayan = 
 
+We have no choice. War it must be. = 
 Very well, this will not be fruitful for you. = 
 We were too weak to protect ourselves, how could we imagine otherwise = 
 
 Montevideo = 
+
+    #Resources#
+    
+Coffee =
+Cocoa =
+Rubber =
