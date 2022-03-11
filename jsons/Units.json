@@ -134,7 +134,6 @@
 		"strength": 62,
 		"cost": 300,
 		"requiredTech": "Combustion",
-		"requieredResourse": "Horses"
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Tank",
 		"uniqueTo": "Paraguay",
@@ -168,7 +167,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"promotions": ["Ignore terrain cost"],
+		"promotions": ["Woodsman"],
 		"attackSound": "shot",
    },
    {
