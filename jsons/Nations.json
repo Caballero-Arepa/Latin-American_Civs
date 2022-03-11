@@ -31,8 +31,7 @@
 		"hateYes": ["I only accept because I have to.", "Whatever, I don't care."],
 
 		"uniqueName": "Pride of the People",
-		"uniques": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]",
-				"[+1 Production] from every [Pasture]",],
+		"uniques": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]"],
 
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
@@ -186,7 +185,7 @@
 		"hateYes": "This is ridiculous",
 
 		"uniqueName": "Mining Riches",
-		"uniques": ["[+2 Gold] from every [Quarry]", "[+2 Production] from every [Quarry]"],
+		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]"],
 
 		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
             },
@@ -332,7 +331,7 @@
 		"hateYes": ["This may be worst deal in the history of deals...", "*frustation noises*", "This should be ilegal. ..."],
 
 		"uniqueName": "Peruvian Gastronomy",
-		"uniques": ["[3]% [Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
+		"uniques": ["[+1 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
 
 		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"]
   },
