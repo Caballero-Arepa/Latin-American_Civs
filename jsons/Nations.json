@@ -230,7 +230,7 @@
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 		"outerColor": [0,104,71],
-		"innerColor": [171,86,43],
+		"innerColor": [165,92,56],
 
 		"startBias": ["Avoid [Tundra]", "Hill"],
         	"preferredVictoryType": "Cultural",
