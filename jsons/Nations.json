@@ -3,8 +3,8 @@
                 "name": "Argentina",
 		"leaderName": "Julio Roca",
 		"adjective": ["Argentine"],
-		"outerColor": [90,200,255],
-		"innerColor": [240,250,15],
+		"outerColor": [116, 172, 223],
+		"innerColor": [246, 180, 14],
 
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
@@ -117,7 +117,7 @@
 		"name": "Colombia",
 		"leaderName": "Paula Santander",
 		"adjective": ["Colombians"],
-	        "outerColor": [245,217,0],
+	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
 
 		"startBias": ["Hill","Jungle"],
@@ -156,7 +156,7 @@
 		"name": "Chile",
 		"leaderName": "Bernard O´Higgins",
 		"adjective": ["Chilean"],
-		"outerColor": [232,51,47],
+		"outerColor": [213,43,30],
 		"innerColor": [30,30,100],
 
 		"startBias": ["Coast", "Desert"],
@@ -229,7 +229,7 @@
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
-		"outerColor": [141,169,141],
+		"outerColor": [0,104,71],
 		"innerColor": [171,86,43],
 
 		"startBias": ["Avoid [Tundra]", "Hill"],
