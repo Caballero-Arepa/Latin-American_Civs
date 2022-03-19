@@ -4,13 +4,6 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Argentine Estable
-  rotate: false
-  xy: 420, 243
-  size: 157, 135
-  orig: 157, 135
-  offset: 0, 0
-  index: -1
 BuildingIcons/Chapultepec Castle
   rotate: false
   xy: 4, 4
@@ -20,35 +13,28 @@ BuildingIcons/Chapultepec Castle
   index: -1
 BuildingIcons/Coffee Hacienda
   rotate: false
-  xy: 828, 802
+  xy: 620, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/CourtHouse
-  rotate: false
-  xy: 1398, 694
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Criollo Cannon
   rotate: false
-  xy: 1244, 802
+  xy: 1036, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Establo
   rotate: false
-  xy: 1506, 694
+  xy: 1433, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Folkloric Comparse
   rotate: false
-  xy: 836, 592
+  xy: 628, 384
   size: 190, 202
   orig: 190, 202
   offset: 0, 0
@@ -67,39 +53,25 @@ BuildingIcons/Peruvian Restaurant
   orig: 159, 150
   offset: 0, 0
   index: -1
-BuildingIcons/Primary School
-  rotate: false
-  xy: 528, 135
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Saltpeter Office
   rotate: false
-  xy: 1034, 672
+  xy: 420, 256
   size: 140, 122
   orig: 140, 122
   offset: 0, 0
   index: -1
 BuildingIcons/Street Carnival
   rotate: false
-  xy: 628, 386
+  xy: 628, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Tango Dance Theatre
   rotate: false
-  xy: 836, 410
+  xy: 836, 620
   size: 157, 174
   orig: 157, 174
-  offset: 0, 0
-  index: -1
-BuildingIcons/Zulia University
-  rotate: false
-  xy: 801, 278
-  size: 100, 100
-  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Argentina
@@ -111,70 +83,70 @@ NationIcons/Argentina
   index: -1
 NationIcons/Bolivia
   rotate: false
-  xy: 585, 278
+  xy: 1001, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Brazil
   rotate: false
-  xy: 1182, 694
+  xy: 289, 78
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Chile
   rotate: false
-  xy: 289, 78
+  xy: 1109, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Colombia
   rotate: false
-  xy: 1290, 694
+  xy: 1325, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 1722, 694
+  xy: 1649, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Paraguay
   rotate: false
-  xy: 1034, 564
+  xy: 1757, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Peru
   rotate: false
-  xy: 1001, 456
+  xy: 1001, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Venezuela
   rotate: false
-  xy: 744, 170
+  xy: 1217, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Cocoa
   rotate: false
-  xy: 693, 278
+  xy: 1217, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Coffee
   rotate: false
-  xy: 620, 802
+  xy: 4, 186
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -188,42 +160,42 @@ ResourceIcons/Rubber
   index: -1
 TileSets/FantasyHex/Tiles/Cocoa
   rotate: false
-  xy: 1142, 636
+  xy: 568, 350
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coffee
   rotate: false
-  xy: 1182, 654
+  xy: 181, 38
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coffee+Plantation
   rotate: false
-  xy: 1001, 420
+  xy: 1325, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jungle Hills
   rotate: false
-  xy: 1142, 596
+  xy: 1325, 618
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rubber
   rotate: false
-  xy: 261, 38
+  xy: 1405, 654
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rubber+Lumber mill
   rotate: false
-  xy: 1222, 618
+  xy: 1445, 654
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -237,28 +209,28 @@ TileSets/FantasyHex/Units/Aca Yboty
   index: -1
 TileSets/FantasyHex/Units/Arpia
   rotate: false
-  xy: 181, 42
+  xy: 420, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Colorado
   rotate: false
-  xy: 852, 242
+  xy: 1908, 816
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Criollo Cannon
   rotate: false
-  xy: 1908, 816
+  xy: 460, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/First of Line
   rotate: false
-  xy: 181, 6
+  xy: 568, 314
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -272,42 +244,42 @@ TileSets/FantasyHex/Units/Gaucho
   index: -1
 TileSets/FantasyHex/Units/Liberator Scuadron
   rotate: false
-  xy: 1182, 618
+  xy: 1365, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Llanero
   rotate: false
-  xy: 1222, 658
+  xy: 1948, 816
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Patriot Army
   rotate: false
-  xy: 1041, 420
+  xy: 500, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Peruvian Legion
   rotate: false
-  xy: 852, 206
+  xy: 568, 278
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pracinha
   rotate: false
-  xy: 1948, 816
+  xy: 261, 42
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rabona
   rotate: false
-  xy: 221, 6
+  xy: 1365, 622
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -326,23 +298,23 @@ UnitIcons/Aca Yboty
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Arpia
+UnitIcons/Colorado
   rotate: false
-  xy: 4, 186
+  xy: 828, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Colorado
+UnitIcons/Criollo Cannon
   rotate: false
-  xy: 1036, 802
+  xy: 1244, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/First of Line
   rotate: false
-  xy: 1614, 694
+  xy: 1541, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -384,21 +356,7 @@ UnitIcons/Peruvian Legion
   index: -1
 UnitIcons/Pracinha
   rotate: false
-  xy: 420, 135
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rabona
-  rotate: false
-  xy: 628, 594
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Rurales
-  rotate: false
-  xy: 636, 170
+  xy: 1109, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
