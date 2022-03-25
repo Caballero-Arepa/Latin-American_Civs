@@ -10,7 +10,7 @@
 		"science": 5,
 		"specialistSlots": {"Scientist": 1},
 		"uniqueTo": "Venezuela",
-		"uniques": ["[+1 Science] Per [2] Population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
   },
   {
 		"name": "Saltpeter Office",
