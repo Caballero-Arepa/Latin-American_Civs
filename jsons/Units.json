@@ -96,6 +96,18 @@
 	      "promotions": ["Great Generals I"],
 		"attackSound": "shot",
    },
+	{
+		"name": "Cascavel",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking", "Ignores terrain cost", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 /*  {
 	      "name": "Rabona",
 	      "unitType": "Scout",
