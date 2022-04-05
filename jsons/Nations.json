@@ -69,7 +69,7 @@
 		"hateYes": ["No... *But I have no option...* Fine, I will regret this.", "This is so embarazing"],
 				
 		"uniqueName": "Ethnic Diversity",
-		"uniques": ["Provides 1 happiness per 2 additional social policies adopted","[+1 Happiness] from every [Courthouse]"],
+		"uniques": ["Provides 1 happiness per 2 additional social policies adopted","[+1 Happiness, +1 Culture] from every [Courthouse]"],
 
 		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"]
 	},
@@ -105,17 +105,18 @@
 		"hateNo": "I hate that.",
 		"hateYes": "I will get rid of this as soon as possible.",
 
-		"uniqueName": "Amazonian Forest",
-		"uniques": ["[+1 Culture] from every [Jungle]", "[+2 Culture] from every [Lumber mill] once [Acoustics] is discovered"],
+		"uniqueName": "Heavy Jungles",
+		"uniques": ["[+1 Culture] from every [Jungle]","[+1 Culture, +1 Production] from every [Marsh]",
+			    "[+2 Culture] from every [Lumber mill] once [Acoustics] is discovered"],
 
-		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
                             "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"]
 
         },
 	{
 		"name": "Colombia",
-		"leaderName": "Paula Santander",
+		"leaderName": "Francisco de Paula Santander",
 		"adjective": ["Colombians"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
@@ -185,7 +186,8 @@
 		"hateYes": "This is ridiculous",
 
 		"uniqueName": "Mining Riches",
-		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]"],
+		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
+			   "[+1 Gold] from every [Mine] <during a Golden Age>", "[-15]% Golden Age length"],
 
 		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
             },
@@ -265,7 +267,7 @@
              },
 	{
 		"name": "Paraguay",
-		"leaderName": "Gaspar Rodriguez",
+		"leaderName": "Gaspar Rodriguez de Francia",
 		"adjective": ["Paraguayans"],
                 "outerColor": [173,161,161],
 		"innerColor": [0,56,168],
@@ -274,10 +276,10 @@
     		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "Good day you may have. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they dont actually exist - no matter how big it was, they survived. From, winning to Spanish Empire, to battling agaist a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
+		"startIntroPart1": "Good day you may have, loved 'Karaí Guasú'. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they dont actually exist - no matter how big it was, they survived. From, winning to Spanish Empire, to battling agaist a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
 		"startIntroPart2": "Good President, will you protect your people against all odds? Can you make a civilization that can Resist the pass of time?!",
 
-		"introduction":  "Greetings. I am Gaspar Rodrigez, avenger of the rightful and defender of my people. Who are you?",
+		"introduction":  "Greetings. I am known as Doctor Francia, avenger of the rightful and defender of my people. Who are you?",
 		"declaringWar": "I hate your idea of justice. When justice needs to be done, I am more than willing to do it.",
 		"attacked": "If war is what you want, war you will have.",
 		"afterPeace": "Finally, the people may have rest. But I believe this is not over...",
