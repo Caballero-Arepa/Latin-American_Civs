@@ -112,4 +112,11 @@
 				"[+1 Food] from [Mountain] tiles [in this city]",
 				"Must have an owned [Plantation] within [3] tiles"],
 	},
+	{
+		"name": "Public Veterinary",
+		"requiredTech": "Fertilizer",
+		"maintenance": 2,
+		"uniqueTo": "El Salvador",
+		"uniques": ["[+1 Food, +1 Culture] from [Pasture] tiles [in this city]", "Cost increases by [35] per owned city"],
+	},
 ]

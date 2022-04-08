@@ -191,9 +191,9 @@
 
 		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
             },
-/*	{
+	{
 	"name": "Ecuador",
-//	"leaderName": "Leader Name",
+	"leaderName": "Leader Name",
 	"adjective": ["Ecuatorian"],
 	"outerColor": [1,57,150],
 	"innerColor": [245,217,0],
@@ -232,8 +232,8 @@
 	"name": "El Salvador",
 	"leaderName": "Nayib Bukelele",
 	"adjective": ["Salvatorian"],
-//	"outerColor": [3,2,1],
-//	"innerColor": [1,2,3],
+	"outerColor": [173,161,161],
+	"innerColor": [0,56,168],
 
 	"startBias": ["Coast","Avoid [Tundra]","Avoid [Desert]"],
 //	"preferredVictoryType": "Victory type",
@@ -264,7 +264,7 @@
 			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]"],
 
 	"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
-	},  */
+	},  
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",

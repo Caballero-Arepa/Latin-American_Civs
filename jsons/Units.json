@@ -82,23 +82,11 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Can build [Pasture] improvements on tiles"],
 		"attackSound": "horse",
    },
-         {
-	      "name": "Pracinha",
-	      "unitType": "Melee",
-	      "uniqueTo": "Brazil",
-	      "replaces": "Infantry"
-	      "movement": 2,
-	      "strength": 72,
-	      "cost": 375,
-	      "requiredTech": "Plastics",
-	      "obsoleteTech": "Mobile Tactics",
-	      "upgradesTo": "Mechanized Infantry",
-	      "promotions": ["Great Generals I"],
-		"attackSound": "shot",
-   },
 	{
 		"name": "Cascavel",
 		"unitType": "Armored",
+		"uniqueTo": "Brazil",
+		"replaces": "Tank",
 		"movement": 5,
 		"strength": 70,
 		"cost": 375,
@@ -195,5 +183,21 @@
 		"upgradesTo": "Great War Infantry",
 		"uniques": ["Can pass through impassable tiles"],
 		"attackSound": "shot",
+	},
+
+	{
+		"name": "Tarqui Grenadiers",
+		"unitType": "Mounted",
+		"uniqueTo": "Ecuador",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>", "Never appears as a Barbarian unit","[+15]% Strength when stacked with [Great General]","[+30]% Strength decreasing with distance from the capital"],
+		"attackSound": "horse"
 	},
 ]
