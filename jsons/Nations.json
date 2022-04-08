@@ -40,7 +40,7 @@
      {
                 "name": "Bolivia",
 		"leaderName": "Manuel Isidoro Belzu",
-		"adjective": ["Bolivians"],
+		"adjective": ["Bolivian"],
 		"outerColor": [228,148,27],
 		"innerColor": [10,121,52],
 
@@ -107,7 +107,7 @@
 
 		"uniqueName": "Heavy Jungles",
 		"uniques": ["[+1 Culture] from every [Jungle]","[+1 Culture, +1 Production] from every [Marsh]",
-			    "[+2 Culture] from every [Lumber mill] once [Acoustics] is discovered"],
+			    "[+2 Culture] from every [Lumber mill] <after discovering [Acoustics]>"],
 
 		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
@@ -117,7 +117,7 @@
 	{
 		"name": "Colombia",
 		"leaderName": "Francisco de Paula Santander",
-		"adjective": ["Colombians"],
+		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
 
@@ -191,16 +191,16 @@
 
 		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
             },
-//	{
-//	"name": "Ecuador",
+/*	{
+	"name": "Ecuador",
 //	"leaderName": "Leader Name",
-//	"adjective": ["Ecuatorian"],
-//	"outerColor": [1,57,150],
-//	"innerColor": [245,217,0],
+	"adjective": ["Ecuatorian"],
+	"outerColor": [1,57,150],
+	"innerColor": [245,217,0],
 
-//	"startBias": ["Hill", "Mountain", "Coast"],
-//	"preferredVictoryType": "Diplomatic",
-//	"favoredReligion": "Christianity",
+	"startBias": ["Hill", "Mountain", "Coast"],
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Christianity",
 
 //	"startIntroPart1": "intro",
 //	"startIntroPart2": "close",
@@ -222,11 +222,49 @@
 //	"hateNo": "  ",
 //	"hateYes": "  ",
 		
-//	"uniqueName": "Unique Name",
-//	"uniques": ["Nation Unique"],
+	"uniqueName": "Galapagos Islands",
+	"uniques": ["[30]% [Gold] from every [Water resource]", "[+1 Science] from [Water resource] <after discovering [Flight]>",
+			"[+1 Culture] from every [Coast]", "[+2 Culture, +1 Food] from every [Mountain]", "[+1 Science] from [Mountain] <after discovering [Flight]>"],
 
-//	"cities": ["Quito","Guayaquil","Esmeraldas","Riobamba","Loja","Ambato","Cuenca","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
-//	},
+	"cities": ["Quito","Guayaquil","Esmeraldas","Riobamba","Loja","Ambato","Cuenca","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
+	},
+       {
+	"name": "El Salvador",
+	"leaderName": "Nayib Bukelele",
+	"adjective": ["Salvatorian"],
+//	"outerColor": [3,2,1],
+//	"innerColor": [1,2,3],
+
+	"startBias": ["Coast","Avoid [Tundra]","Avoid [Desert]"],
+//	"preferredVictoryType": "Victory type",
+	"favoredReligion": "Christianity",
+
+//	"startIntroPart1": "intro",
+//	"startIntroPart2": "close",
+
+//	"introduction": "Speech?",
+//	"declaringWar": "Frase",
+//	"attacked": "Frase",
+//	"afterPeace": "Frase",
+//	"defeated": "Speech",
+
+//	"neutralHello": "Greetings",
+//	"hateHello": "frase",
+
+//	"tradeRequest": "Asking for trade",
+//	"neutralLetsHearIt": "  ",
+//	"hateLetsHearIt": "  ",
+//	"neutralNo": "  ",
+//	"neutralYes": "  ",
+//	"hateNo": "  ",
+//	"hateYes": "  ",
+		
+	"uniqueName": "Territorial Control Plan",
+	"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]"],
+
+	"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
+	},  */
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
@@ -268,7 +306,7 @@
 	{
 		"name": "Paraguay",
 		"leaderName": "Gaspar Rodriguez de Francia",
-		"adjective": ["Paraguayans"],
+		"adjective": ["Paraguayan"],
                 "outerColor": [173,161,161],
 		"innerColor": [0,56,168],
 
