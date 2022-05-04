@@ -10,14 +10,14 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "Good day it is, Julio, you, unlike others, did great things for Argentina, a prideful nation with good prowess. Argentina came from the provinces of the De La Plata river, who broke free from Spain into their own path. Conquering the Mapuches, they expanded their territory, and after that, their economy grew more and more, until becoming one of the best in Latin America. Altough not being very successful in war, Argentina today is stable and periodically good.",
+		"startIntroPart1": "Good day it is, Julio, you, unlike others, did great things for Argentina, a prideful nation with good prowess. Argentina came from the provinces of the 'de La Plata river', who broke free from Spain into their own path. Conquering the Mapuches, they expanded their territory, and after that, their economy grew more and more, until becoming one of the best in Latin America. Although not being very successful in war, Argentina today is stable and periodically good.",
 		"startIntroPart2": "President, your people call you to bring good to the country. Will you make a civilization that can stand the pass of time?",
 		
-		"introduction": "I am julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
+		"introduction": "I am Julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
 		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
 		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
 		"afterPeace": "Although we are at peace, I still want to see you defeated.",
-		"defeated": "You are just another nation, this victory will not change that, because I actually gaved up.",
+		"defeated": "You are just another nation, this victory will not change that, because I actually gave up.",
 
 		"neutralHello": "Good morning.",
 		"hateHello": "Will you treat me how I deserve?!",
@@ -84,7 +84,7 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "Hail to the great emperor of Brazil, the great nation born from Portuguese and natives. The grand nation of Brazil was built upon the Portuguese use of slaves, but at difference with others, they integrated them into their culture, the Portuguese language. Together, mestizos and natives, got themselves independence from Portugal and formed the Empire of Brazil. With cunning diplomacy, fierce force, and resource abundance, Brazil managed to become one of the best in Latin America, with all his resources and culture, certainly they are powerful.",
+		"startIntroPart1": "Hail to the great emperor of Brazil, the great nation born from Portuguese and natives. The grand nation of Brazil was built upon the Portuguese use of slaves, but in difference with others, they integrated them into their culture, the Portuguese language. Together, mestizos and natives, got themselves independence from Portugal and formed the Empire of Brazil. With cunning diplomacy, fierce force, and resource abundance, Brazil managed to become one of the best in Latin America, with all his resources and culture, certainly they are powerful.",
 		"startIntroPart2": "Come back, dear emperor, your people call you to crush their enemies, and outshine their rivals. Do you accept the challenge? Will you make of Brazil the best in the world? Can you make a civilization that can stand the pass of time?",
 
 
@@ -97,7 +97,7 @@
 		"neutralHello": "Bom dia",
 		"hateHello": "WHAT do you want?",
 
-		"tradeRequest": "I'm happy to anounce this trade offer.",
+		"tradeRequest": "I'm happy to announce this trade offer.",
 		"neutralLetsHearIt": "Let's see what you have to say.",
 		"hateLetsHearIt": ["Say it fast, come on.", "I don't want to even see you, but ok."],
 		"neutralNo": "I will decline.",
@@ -116,7 +116,7 @@
         },
 	{
 		"name": "Colombia",
-		"leaderName": "Francisco de Paula Santander",
+		"leaderName": "Francisco Paula Santander",
 		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
@@ -125,20 +125,20 @@
   	        "preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "Be welcomed, president. You lead the beautiful and rich nation of Colombia, a country with great cultural and biodiversity. ... 3 had been the attempts to break free - getting terribly punished in the process - but with determination, Colombia managed independence with the help of Simon Bolivar, to later join his ambitious project of the Gran Colombia. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Colombia ought to help others, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Colombia to achieve greatness.",
-		"startIntroPart2": "President Santander, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
+		"startIntroPart1": "Be welcomed, president. You lead the beautiful and rich nation of Colombia, a country with great cultural and biodiversity.\nThe attempts to break free got terribly punished,  but with unity and strength, Colombia managed independence with the help of Simon Bolivar, to later form his ambitious project of the Gran Colombia. Since the start we had a ton of great political division, which brought many, many problems and conflicts, but despite all the troubles, Colombia ought to help others, no matter what. The conflicts didn't cease until the early 21st century, where the sun finally rises over Colombia to achieve greatness.",
+		"startIntroPart2": "President Santander, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triumph over the adversities? Can you build a civilization that can stand the pass of time?",
 
 
 		"introduction":  "Greetings! I'm Santander. This is Colombia, my wonderful land. Want a coffee?",
-		"declaringWar": "We must do this, to free your opressed people from your hands.",
+		"declaringWar": "I must do this, only to free your opressed people from your hands.",
 		"attacked": "You will see how fruitless this will be for you. Wait and see.",
 		"afterPeace": "The path to peace is often long and tortuous, but the reward is always invaluable",
 		"defeated":  "I hope you treat my people good, they've had enough.",
 
 		"neutralHello": "Hello There.",
-		"hateHello": "Assh, what do you want??",
+		"hateHello": "*Asshh*, What do you want??",
 
-		"tradeRequest": "I thought you might be intested in this...",
+		"tradeRequest": "This will help you in your situation.",
 		"neutralLetsHearIt": "Ok, let's see.",
 		"hateLetsHearIt": ["What good can you offer?", "Argh, so annoying."],
 		"neutralNo": ["It's not worth it.", "No thank you."],
@@ -164,22 +164,22 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "Hello there, general O'Higgins, great hero of the independence of Chile, one of the longest and more prosperous countries in latin america. Your role in the independence campaign was undeniably crucial. Chile has stand firm and secure behind the Andes, and in between the deserts of Atacama and Patagonia. The abundance of minerals makes Chile very wealthy, but more than resources, their leader ship has been of good will. Chile has demonstrated to his rivals of what he is capable of, so...",
+		"startIntroPart1": "Hello there, general O'Higgins, great hero of the independence of Chile, one of the longest and more prosperous countries in Latin America. Your role in the independence campaign was undeniably crucial. Chile has stood firm and secure behind the Andes, and in between the deserts of Atacama and Patagonia. The abundance of minerals makes Chile very wealthy, but more than resources, their leadership has been of good will. Chile has demonstrated to his rivals of what he is capable of, so...",
 		"startIntroPart2": "...Mighty hero, will you take the lead and propel Chile to his best? Can you defeat your enemies with swiftness and power? Can you build a civilization that can stand the pass of time?",
 
 
 		"introduction": "Welcome to our lands. I hope that our nations grow strong and in peace.",
-		"declaringWar": "If it´s necesary to cross the mountains to destroy you, my army is willing to do it.",
+		"declaringWar": "If it's necesary to cross the mountains to destroy you, my army is willing to do it.",
 		"attacked": "From the desert to the Patagonia, we will defend our homeland whatever it costs",
-		"afterPeace": "You see? The Chilean Spirit is strong and firm. Don't try this again.",
-		"defeated": "We haven´t managed to defend our homeland. This lands are now yours. Goodbye.",
+		"afterPeace": "You see? The Chilean spirit is strong and firm. Don't try this again.",
+		"defeated": "We haven't managed to defend our homeland. This lands are now yours...",
 
 		"neutralHello": "Greetings to your people",
 		"hateHello": "Could you have at least have some respect to my nation?!",
 
-                "tradeRequest": "Let´s negotiate, we have resources that interest both of us",
+                "tradeRequest": "Let's negotiate, we have resources that interest both of us",
 		"neutralLetsHearIt": "May trade be fruitful.",
-		"hateLetsHearIt": "What could you offer, if even you coould?",
+		"hateLetsHearIt": "What could you offer, if even you could?",
 		"neutralNo": ["Perhaps something else", "Not right now"],
 		"neutralYes": ["This will make of a great deal", "Surely"],
 		"hateNo": "How could you think I would accept that!?",
@@ -193,28 +193,28 @@
             },
 	{
 	"name": "Ecuador",
-	"leaderName": "Leader Name",
+	"leaderName": "Eloy Alfaro",
 	"adjective": ["Ecuatorian"],
 	"outerColor": [1,57,150],
 	"innerColor": [245,217,0],
 
-	"startBias": ["Hill", "Mountain", "Coast"],
+	"startBias": ["Mountain", "Coast"],
 	"preferredVictoryType": "Cultural",
 	"favoredReligion": "Christianity",
 
-//	"startIntroPart1": "intro",
-//	"startIntroPart2": "close",
+	"startIntroPart1": "Good day, general Delgado, you are here to lead once again your beloved nation, the nation on top of the peaks of the Andes, the nation with many wonders and resources, the belly button of the world, the nation of the Ecuador.\nEcuador stands over the ruins of the ancient Incan cities, razed by the Spanish, from which the provinces of Quito and Guayaquil fought together with Bolivar to end their oppression and tyranny. After the unfortunate collapse of Gran Colombia, Guayaquil and Quito formed the union of the Ecuador, a nation that would face lots of troubles, - Multiple aggressions from Peru, internal rebellions... - but a nation that would overcome those adversities and keep moving forward, and remain prosperous and wonderful.",
+	"startIntroPart2": "Eloy Alfaro, are you willing to lead the central nation once more? Will you bring great progress to the people once again? Can you build a civilization that can stand the pass of time?",
 
-//	"introduction": "Speech?",
-//	"declaringWar": "Frase",
-//	"attacked": "May our sovereignity and independence remain intact!",
-//	"afterPeace": "Frase",
-//	"defeated": "Speech",
+	"introduction": "Greetings, before we start, may our frontiers may be drawn, so peace between us can dawn.",
+	"declaringWar": "Your ambiguity kills me! This mess can't be let to continue on anymore.",
+	"attacked": "May our sovereignty and independence remain intact!",
+	"afterPeace": "At last  you realize, that my nation can not be subjugated.",
+	"defeated": "How dare you conquer my people, only to oppress it? Your tyranny shall be overthrown.",
 
-//	"neutralHello": "Greetings",
-//	"hateHello": "frase",
+	"neutralHello": "How have you been?",
+	"hateHello": "When will you stop asking for pathetic stuff?",
 
-//	"tradeRequest": "Asking for trade",
+	"tradeRequest": "The nation proposes you the following deal:",
 //	"neutralLetsHearIt": "  ",
 //	"hateLetsHearIt": "  ",
 //	"neutralNo": "  ",
@@ -223,12 +223,12 @@
 //	"hateYes": "  ",
 		
 	"uniqueName": "Galapagos Islands",
-	"uniques": ["[30]% [Gold] from every [Water resource]", "[+1 Science] from [Water resource] <after discovering [Flight]>",
-			"[+1 Culture] from every [Coast]", "[+2 Culture, +1 Food] from every [Mountain]", "[+1 Science] from [Mountain] <after discovering [Flight]>"],
+	"uniques": ["[30]% [Gold] from every [Water resource]", 
+			"[+1 Culture] from every [Coast]","[+1 Science] from every [Water resource] <after discovering [Flight]>","[+1 Science] from every [Atoll] <after discovering [Flight]>"],
 
-	"cities": ["Quito","Guayaquil","Esmeraldas","Riobamba","Loja","Ambato","Cuenca","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
+	"cities": ["Quito","Guayaquil","Cuenca","Esmeraldas","Riobamba","Loja","Ambato","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
 	},
-       {
+/*       {
 	"name": "El Salvador",
 	"leaderName": "Nayib Bukelele",
 	"adjective": ["Salvatorian"],
@@ -264,29 +264,29 @@
 			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]"],
 
 	"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
-	},  
+	},*/
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 		"outerColor": [0,104,71],
-		"innerColor": [165,92,56],
+		"innerColor": [206,119,78],
 
 		"startBias": ["Avoid [Tundra]", "Hill"],
         	"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "Ay! Greetings mr. president. You lead the famous and cultured nation of Mexico. On the ruins of Tenoctitlan, the Aztec capital, and on top of the lake, Mexico city stands on what was one of the empires crushed by the spanish. A heroic independence did not give stability to the wonderful nation, as it's political conflict lead to many unfortunate events, but when it's needed Mexico unites against foreign agressors and do the best they can. Even with internal struggles, and bad geography, Mexico is one of the most influential cultures of America.",
-		"startIntroPart2": "Oh great leader of the Mexican republic, your people desperately call you, they call you to bring them once again peace, and glory as well. Will you help your people? Will you transform this nation into the best? Will you create a civilization that stands the test of time?",
+		"startIntroPart1": "Ay! Greetings Mr. president. You lead the famous and cultured nation of Mexico. On the ruins of Tenochtitlan, the Aztec capital, and on top of the lake, Mexico City stands on what was one of the empires crushed by the Spanish. A heroic independence did not give stability to the wonderful nation, as it's political conflict lead to many unfortunate events, but when it's needed Mexico unites against foreign aggressors and do the best they can. Even with internal struggles, and bad geography, Mexico is one of the most influential cultures of America.",
+		"startIntroPart2": "Oh, great leader of the Mexican republic, your people desperately call you, they call you to bring them once again peace, and glory as well. Will you help your people? Can you transform this nation into the best? Will you create a civilization that stands the test of time?",
 		
 		"introduction": "Good morning, I'm Benito Juarez. Come with me and see my nation.",
 		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
-		"attacked": "Mexicans! Prepare to defend our homeland!",
+		"attacked": "*Mexicans! Prepare to defend our homeland!*",
 		"afterPeace": "You vile empire, see how you couldn't defeat us? Ha!",
-		"defeated": "Nooo, why? Everything I did was for our motherland...",
+		"defeated": "Nooo, why? Everything I did was for our fatherland...",
 
 		"neutralHello": "Good day amigo.",
-		"hateHello": "Arghh no, go away.",
+		"hateHello": "*Arghh*, no, go away.",
 
 		"tradeRequest": "Could you accept this trade offer?",
 		"neutralLetsHearIt": "Alrigth let's see:",
@@ -297,7 +297,7 @@
 		"hateYes": ["You give me no alternative!", "I have a bad feeling of this..."],
 
 		"uniqueName": "Day of the Death",
-                "uniques": ["[+2 Culture] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
+                "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
 
                 "cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
                             "Merida","Cancun","Chihuahua","Durango","Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
@@ -305,7 +305,7 @@
              },
 	{
 		"name": "Paraguay",
-		"leaderName": "Gaspar Rodriguez de Francia",
+		"leaderName": "Gaspar R. Francia",
 		"adjective": ["Paraguayan"],
                 "outerColor": [173,161,161],
 		"innerColor": [0,56,168],
@@ -314,13 +314,13 @@
     		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "Good day you may have, loved 'Karaí Guasú'. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they dont actually exist - no matter how big it was, they survived. From, winning to Spanish Empire, to battling agaist a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
-		"startIntroPart2": "Good President, will you protect your people against all odds? Can you make a civilization that can Resist the pass of time?!",
+		"startIntroPart1": "Good day you may have, loved 'Karaí Guasú'. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they don't actually exist - no matter how big it was, they survived. From, winning against the Spanish Empire, to battling against a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
+		"startIntroPart2": "Good President, will you protect your people against all odds? Can you make a civilization that can RESIST the pass of time?!",
 
-		"introduction":  "Greetings. I am known as Doctor Francia, avenger of the rightful and defender of my people. Who are you?",
+		"introduction":  "Greetings. I am known as Doctor Francia, avenger of the rightful and defender of my people. Be welcomed",
 		"declaringWar": "I hate your idea of justice. When justice needs to be done, I am more than willing to do it.",
 		"attacked": "If war is what you want, war you will have.",
-		"afterPeace": "Finally, the people may have rest. But I believe this is not over...",
+		"afterPeace": "Finally, the people may have rest. But I believe this is (unfortunately) not over...",
 		"defeated": "We did our best, we resisted until the end, however... you won.",
 
 		"neutralHello": "Welcome and welcome again.",
@@ -335,7 +335,7 @@
 		"hateYes": "How is it possible to bare this 'deal'?",
 
 		"uniqueName": "Guarani Strenght",
-		"uniques": ["[+2 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",],
+		"uniques": ["[+2 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
 
 		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",]
 	},
@@ -350,7 +350,7 @@
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 	        
-	        "startIntroPart1": "Mr. President, welcome. Has you know, you lead the great, ancient, cultural nation of the Peru. The nations dates back to the mighty Incas, after being colonised. The colony was one of the major ones for the spanish - and that wasn't for no reason -. The ungrateful spaniards wasted all the money, increased taxes, and combined with many other things, Peru rebelled. After a failed attempt, the joint effort of Simon Bolivar, and most importantly, San Martin, gave the freedom to the Peruvians, which continued to exploit their mineral riches, and culture abundance.",
+	        "startIntroPart1": "Mr. President, welcome.  As you know, you lead the great, ancient, cultural nation of the Peru. The nation dates back to the mighty Incas, after being colonized. The colony was one of the major ones for the Spanish - and that wasn't for no reason -. The ungrateful Spaniards wasted all the money, increased taxes, and combined with many other things, Peru rebelled. After a failed attempt, the joint effort of Simon Bolivar, and most importantly, San Martín, gave the freedom to the Peruvians, which continued to exploit their mineral riches, and culture abundance.",
 	        "startIntroPart2": "Great governor, your people want to further expand their culture and get more prestige. Will you accept the offer? Can you make a civilization that can stand the pass of time?",
 
 		"introduction": "Greetings. I am Martin Vizcarra, president of Perú. I hope you can become a valuable ally.",
@@ -386,19 +386,19 @@
 //		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "Colonel Marcos Perez Jimenez, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fisher men. But our republican history starts when, Francisco de Miranda, a great excellent general, and Simon Bolivar, a venezuelan strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independece would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the venezuelan richness would have a rise in the middle of the 20th century, thanks to their resources.",
-		"startIntroPart2": "Colonel! Your people call you, and express their affect, it's time to achieve what we have been waiting for years, it's time to bring back the glory that Venezuela deserves! Do you accept the challenge, your highnes? Can you build a civilization that can stand the pass of time?",
+		"startIntroPart1": "Colonel Marcos Perez Jimenez, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fishermen. But our republican history starts when, Francisco de Miranda, a great excellent general, and Simon Bolivar, a Venezuelan strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independence would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the Venezuelan richness would have a rise in the middle of the 20th century, thanks to their resources.",
+		"startIntroPart2": "Colonel! Your people call you, and express their affect, it's time to achieve what we have been waiting for years, it's time to bring back the glory that Venezuela deserves! Do you accept the challenge, your highness? Can you build a civilization that can stand the pass of time?",
 
-		"introduction": "A pleasure to meet you, I am Marco Pérez, governor of Venezuela. I hope we get along.",
-		"declaringWar": "Your nation is a danger for our sovereignty.",
-		"attacked": "Expect a ferocious battle, which you won´t win.",
+		"introduction": "A pleasure to meet you, I am Pérez Jimenez, governor of Venezuela. I hope we get along.",
+		"declaringWar": "Your nation is a danger to our sovereignty.",
+		"attacked": "Expect a ferocious battle, which you won't win.",
 		"afterPeace": "I hope your imperialist manners are gone after this.",
 		"defeated": "I have failed you Venezuela!... I have failed you.",
 
 		"neutralHello": "Can I offer you something?",
 		"hateHello": "What do you want, foreigner?!",
 
-		"tradeRequest": "I hope you accept this; ¡it´s practically a gift!",
+		"tradeRequest": "I hope you accept this. It's practically a gift!",
 		"neutralLetsHearIt": "Yes, let's do buisness.",
 		"hateLetsHearIt": "Just so you know, if you want oil, it will be very hard.",
 		"neutralNo": ["Nah", "Why not something else?"],
@@ -413,16 +413,96 @@
 	},
 	{
 		"name": "Uruguay",
-		"startBias": ["Coast"],
 		"adjective": ["Uruguayan"],
 		"cityStateType": "Maritime",
-		"outerColor": [0, 0, 0],
-		"innerColor": [63,72,204],
+		"outerColor": [0,10,0],
+		"innerColor": [52,101,216],
 
-		"declaringWar": "We have no choice. War it must be.",
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "Well, hi! Neighbor? I hope we get along.",
+		"declaringWar": "We have no choice. War, must be.",
 		"attacked": "Very well, this will not be fruitful for you.",
+		"afterPeace": "Thank you for putting an end to this storm of doom.",
 		"defeated": "We were too weak to protect ourselves, how could we imagine otherwise",
 
+		"neutralHello": "Hi!",
+		"hateHello": "Hi...",
+
 		"cities": ["Montevideo"]
+	},
+	{
+		"name": "Guyana",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "We are the sovereign nation of Guyana. May our trade commence.",
+		"declaringWar": "You are a danger... that's what says my lord...",
+		"attacked": "No no no, this can't be happening!",
+		"afterPeace": "Ufff, that was close...",
+		"defeated": "Noo, m-my sovereignty...",
+
+		"neutralHello": "Greetings",
+		"hateHello": "What do you want, you bully?",
+
+		"cities": ["Georgetown"]
+	},
+	{
+	
+		"name": "Suriname",
+		"cityStateType": "Maritime",
+		"outerColor": [0,10,0],
+		"innerColor": [75,169,81],
+
+		"startBias": ["Coast"],
+
+		"introduction": "What do my eyes see? A friend?!",
+		"declaringWar": "I'm being forced to do this. Can we be friends again afterwards?",
+		"attacked": "Nope, nope, it was not a friend... Help!!!",
+		"afterPeace": "Great! This madness is over. Can we be friends again?",
+		"defeated": "Now it's sealed that you are a bad guy",
+
+		"neutralHello": "Hello my friend!",
+		"hateHello": "No friend I see here, only danger. Go away",
+
+		"cities": ["Paramaribo"]
+	},
+	{
+		"name": "Guiana",
+		"cityStateType": "Mercantile",
+		"outerColor": [0,0,10],
+		"innerColor": [77,192,175],
+
+		"startBias": ["Coast","Jungle"],
+		"favoredReligion": "Christianity",
+
+		"defeated": "Oh well... new owner I guess...",
+
+		"cities": ["Cayenne"]
+	},
+	{
+		"name": "Puerto Rico",
+		"adjective": ["Puerto-Rican"],
+		"cityStateType": "Mercantile",
+		"outerColor": [10,0,0],
+		"innerColor": [205,57,69],
+
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "Buenas! How are you? Let's start trading!",
+		"declaringWar": "Your attempts of destruction are not forgiven",
+		"attacked": "What do you have to offer to us, if any?",
+		"defeated": "I only hope that you bring prosperity to us, at least.",
+
+		"neutralHello": "Buenas :)",
+		"hateHello": "Go away! YA!",
+
+		"cities": ["San Juan"]
 	},
 ]
