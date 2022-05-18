@@ -96,10 +96,9 @@
 		"cost": 200,
 		"hurryCostModifier": -40,
 		"maintenance": 1,
-		"cityStrength": 10,
+		"cityStrength": 20,
 		"uniqueTo": "Paraguay",
 		"uniques": ["Unlocked with [Oligarchy]",
-				"+[15]% Strength <when fighting units from a Civilization with more Cities than you>",
 				"[+1 Culture] <after discovering [Combined Arms]>",
 				"Destroyed when the city is captured"],
 		
