@@ -160,4 +160,17 @@
 		"uniques": ["Can pass through impassable tiles"],
 		"attackSound": "shot",
 	},
+	{ //Venezuela's
+		"name": "Mixed Militia",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 20,
+		"requiredTech": "Banking",
+		"obsoleteTech": "Scientific Theory",
+		"upgradesTo": "Rifleman",
+		"uniqueTo": "Venezuela",
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "Can build [Land] improvements on tiles", "May upgrade to [Crossbowman] through ruins-like effects"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "shot",
+	},
 ]
