@@ -53,8 +53,7 @@
 		"culture": 1,
 		"production": 1,
 		"uniqueTo": "Colombia",
-		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in this city]",
-				"[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
+		"uniques": ["[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
 				"[+1 Food] from [Mountain] tiles [in this city]",
 				"Must have an owned [Plantation] within [3] tiles","Destroyed when the city is captured"],
 	},
@@ -69,13 +68,13 @@
 			    "[+2 Culture] <after discovering [Dynamite]>","[+3 Culture] <after discovering [Telecommunications]>",
 			    "Cost increases by [20] per owned city"],
 	},
-/*	{ //El Salvador's
+	{ //El Salvador's
 		"name": "Public Veterinary",
 		"requiredTech": "Fertilizer",
 		"maintenance": 2,
 		"uniqueTo": "El Salvador",
 		"uniques": ["[+1 Food, +1 Culture] from [Pasture] tiles [in this city]", "Cost increases by [50] per owned city"],
-	},*/
+	},
 	{ //Mexico's
 		"name": "Chapultepec Castle",
 		"isNationalWonder": true,

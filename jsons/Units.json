@@ -2,7 +2,7 @@
           { //Argentina's
 		"name": "Gaucho",
 		"unitType": "Mounted",
-		"replaces": "Lancer"
+		"replaces": "Lancer",
 		"movement": 5,
 		"strength": 25,
 		"cost": 180,
@@ -18,7 +18,7 @@
 	{ //Bolivia's
 		"name": "Colorado",
 		"unitType": "Gunpowder",
-		"replaces": "Rifleman"
+		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 34,
 		"cost": 225,

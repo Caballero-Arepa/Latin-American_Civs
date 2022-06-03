@@ -44,7 +44,7 @@
 		"outerColor": [228,148,27],
 		"innerColor": [10,121,52],
 
-		"startBias": ["Hill", "Forest", "Avoid [Coast]"],
+		"startBias": ["Mountain",],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
@@ -183,7 +183,7 @@
 		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
 		"uniqueName": "Colombian Coffee Region & Paramos",
-		"uniques": ["Double quantity of [Coffee] produced","[+3 Food] from every [Mountain]"],
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in this city]","Double quantity of [Coffee] produced","[+4 Food] from every [Mountain]"/*"[+1 Food] from [Farm] tiles <within [1] tiles of a [Mountain]>","[+1 Food] from [Farm] tiles <within [1] tiles of a [Mountain]> <after discovering [Civil Service]>"*/],
 
 		"cities": ["Bogota","Cartagena","Medellin","Barranquilla","Cali","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
 				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Monteria","Pasto","Manizales","Armenia",
@@ -226,30 +226,30 @@
 
 		"cities": ["Quito","Guayaquil","Cuenca","Esmeraldas","Riobamba","Loja","Ambato","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
 	},
-/*       {
+	{
 	"name": "El Salvador",
 	"leaderName": "Nayib Bukelele",
 	"adjective": ["Salvatorian"],
 	"outerColor": [173,161,161],
 	"innerColor": [0,56,168],
 
-	"startBias": ["Coast","Avoid [Tundra]","Avoid [Desert]"],
+	"startBias": ["Coast"],
 //	"preferredVictoryType": "Victory type",
 	"favoredReligion": "Christianity",
 
-//	"startIntroPart1": "intro",
-//	"startIntroPart2": "close",
+	"startIntroPart1": "Order! Welcome strog lider, Nayib, you are here to end the decades of conflict and criminal activity in Salvador, 'the Tom Thumb of America', which has had no rest from criminals on it's history.",
+	"startIntroPart2": "Now it is in your job to bring peace and prosperity to the little nation. Now, can you do it? Will you take the right economic decisions? Can you build a civilization that can stand the pass of time?",
 
-//	"introduction": "Speech?",
-//	"declaringWar": "Frase",
-//	"attacked": "Frase",
-//	"afterPeace": "Frase",
-//	"defeated": "Speech",
+		"introduction": "Hi hi, I'm Nayib Bukele, bringer of order to my people.",
+		"declaringWar": "Your land is a caos, it needs to be tied up.",
+		"attacked": "Ah, so you were the one cooperating with the criminal, aren't you? So good that you face off.",
+		"afterPeace": "Keep away your conflictive manners of my land.",
+		"defeated": "May you govern better than I did.",
 
-//	"neutralHello": "Greetings",
-//	"hateHello": "frase",
+		"neutralHello": "Hi, how are ya?",
+		"hateHello": "Out!",
 
-//	"tradeRequest": "Asking for trade",
+		"tradeRequest": "This will bring prosperity!",
 //	"neutralLetsHearIt": "  ",
 //	"hateLetsHearIt": "  ",
 //	"neutralNo": "  ",
@@ -262,7 +262,7 @@
 			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]"],
 
 	"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
-	},*/
+	},
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
@@ -270,7 +270,7 @@
 		"outerColor": [0,104,71],
 		"innerColor": [206,119,78],
 
-		"startBias": ["Avoid [Tundra]", "Hill"],
+		"startBias": ["Hill"],
         	"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
@@ -306,7 +306,7 @@
 		"leaderName": "Gaspar R. Francia",
 		"adjective": ["Paraguayan"],
                 "outerColor": [173,161,161],
-		"innerColor": [0,56,168],
+		"innerColor": [190,0,57],
 
 		"startBias": ["River","Plains","Forest"],
     		"preferredVictoryType": "Cultural",
