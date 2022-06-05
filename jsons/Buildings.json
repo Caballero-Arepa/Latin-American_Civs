@@ -47,15 +47,15 @@
 	},
 	{ //Colombia's
 		"name": "Coffee Hacienda",
-		"requiredTech": "Guilds",
+		"requiredTech": "Economics",
 		"maintenance": 2,
 		"food": 1,
 		"culture": 1,
 		"production": 1,
 		"uniqueTo": "Colombia",
 		"uniques": ["[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
-				"[+1 Food] from [Mountain] tiles [in this city]",
-				"Must have an owned [Plantation] within [3] tiles","Destroyed when the city is captured"],
+				"[+1 Food] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>",
+				"Destroyed when the city is captured"],
 	},
 	{ //Ecuador's
 		"name": "Main Square",
