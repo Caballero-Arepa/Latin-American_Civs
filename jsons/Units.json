@@ -169,7 +169,7 @@
 		"obsoleteTech": "Ballistics",
 		"upgradesTo": "Crossbowman",
 		"uniqueTo": "Venezuela",
-		"uniques": ["Unlocked with [Collective Rule]","[+20]% Strength <vs [Barbarian] units>","Can build [Land] improvements on tiles",
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>","Can build [Land] improvements on tiles",
 			    "May upgrade to [Archer] through ruins-like effects"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "shot",
