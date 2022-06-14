@@ -166,6 +166,7 @@
 		"replaces": "Scout",
 		"movement": 2,
 		"strength": 7,
+		"cost": 40,
 		"obsoleteTech": "Ballistics",
 		"upgradesTo": "Crossbowman",
 		"uniqueTo": "Venezuela",
