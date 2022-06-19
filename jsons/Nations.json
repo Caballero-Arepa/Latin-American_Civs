@@ -221,8 +221,8 @@
 //	"hateYes": "  ",
 		
 		"uniqueName": "Galapagos Islands",
-		"uniques": ["[30]% [Gold] from every [Water resource]", 
-			"[+1 Culture] from every [Coast]","[+1 Science] from every [Water resource] <after discovering [Flight]>","[+1 Science] from every [Atoll] <after discovering [Flight]>"],
+		"uniques": ["[+50]% [Gold] from every [Water resource]", 
+			"[+1 Culture] from every [Coast]","[+2 Science] from every [Atoll] <after discovering [Biology]>"],
 
 		"cities": ["Quito","Guayaquil","Cuenca","Esmeraldas","Riobamba","Loja","Ambato","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
 	},
