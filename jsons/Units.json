@@ -105,7 +105,7 @@
 		"cost": 375,
 		"requiredResource": "Oil",
 		"requiredTech": "Radar",
-		"obsoleteTech": "Plastics",
+		"obsoleteTech": "Lasers",
 		"upgradesTo": "Jet Fighter",
 		"promotions": ["Bombardment I"],
 		"uniqueTo": "Mexico",
