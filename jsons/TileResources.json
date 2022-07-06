@@ -35,6 +35,11 @@
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1,"gold": 1},
 	},
+	{
+		"name": "Cuban Cigars", //Unique to Cuba, doesn't spawn on map
+		"resourceType": "Luxury",
+		"gold": 1
+	},
 		{
 		"name": "Rubber", 
 		"resourceType": "Luxury",
