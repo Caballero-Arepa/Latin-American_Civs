@@ -2,6 +2,6 @@
 
 {
 		"name": "Guerrillero ability",
-		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May withdraw before melee ([80]%)","May enter foreign tiles without open borders"]
+		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May withdraw before melee ([80]%)"]
 	},
 ]
