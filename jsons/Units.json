@@ -77,6 +77,20 @@
 		"promotions": ["Morale", "Charge"],
 		"attackSound": "horse",
 	},
+	{//Cuba's
+		"name": "Guerrillero",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Cuba",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 240,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Guerrillero ability"],
+		"attackSound": "shot"
+	},
 	{ //Ecuador's
 		"name": "Tarqui Grenadiers",
 		"unitType": "Mounted",
@@ -112,6 +126,34 @@
 		"uniques": ["[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>",
 			    "[+35]% Strength <vs [Fighter] units>"],
 		"attackSound": "machinegun",
+	},
+	{//Panama's
+		"name": "Fuerza Publica",
+		"replaces": "Infantry",
+		"uniqueTo": "Panama",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["[+50]% Strength decreasing with distance from the capital","Limited to [5] per Civilization"]
+		"attackSound": "shot"
+	},
+	{//Panama's
+		"name": "Buccaneer",
+		"unitType": "Melee Water",
+		"replaces": "Privateer",
+		"uniqueTo": "Panama",
+		"movement": 5,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I"],
+		"uniques": ["May capture killed [Water] units","Can move after attacking"],
+		"attackSound": "cannon"
 	},
 	{ //Paraguay's
 		"name": "Aca Yboty",

@@ -57,6 +57,45 @@
 				"[+1 Food] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>",
 				"Destroyed when the city is captured"],
 	},
+	{//Cuba's
+		"name": "Torcedores",
+		"replaces": "Bank",
+		"uniqueTo": "Cuba",
+		"gold": 0,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"uniques": ["Provides [1] [Cuban Cigars]","[+2 Gold] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Trade unions",
+		"uniqueTo": "Cuba",
+		"hurryCostModifier": -100,
+		"cost": 1,
+		"requiredBuilding": "Factory",
+		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Free education",
+		"uniqueTo": "Cuba",
+		"hurryCostModifier": -100,
+		"cost": 1,
+		"requiredBuilding": "Public School",
+		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Free healthcare",
+		"uniqueTo": "Cuba",
+		"hurryCostModifier": -100,
+		"cost": 1,
+		"requiredBuilding": "Hospital",
+		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
+		"requiredTech": "Biology"
+	},
 	{ //Ecuador's
 		"name": "Main Square",
 		"replaces": "Monument",
