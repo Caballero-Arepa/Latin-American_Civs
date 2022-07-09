@@ -193,20 +193,24 @@
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
 		"adjective": ["Cuban"],
+		"outerColor": [77, 120, 77],
+		"innerColor": [204, 13, 13],
+
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-            "startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "All glory to the revolution! We are ready for your comeback, mighty Castro - the unkillable leader - Now, take part in this and take the Cuban revolution to the next step. As you know, the splendid island of Cuba is full of cultural richness and a prosperous land. After the liberation from first the Spanish empire, and then the American overlords, Cuba broke free from foreign rule to forge its own destiny.",
+		"startIntroPart2": "Now loco, are you ready to begin to voyage to spread freedom to the peoples? Can you build a civilization that can stand the pass of time?",
+
+		"introduction": "Welcome to Cuba, where education is a human right.",
 		"declaringWar": "Why should some be miserably poor, so that others can be hugely rich?",
 		"attacked": "A revolution is a struggle to the death...",
 		"defeated": "I'm not attached to anything, it' my duty to do my duty. I always thought I would die with the boots on.",
-		"introduction": "Welcome to Cuba, where education is a human right.",
 		"neutralHello": "Hello.",
 		"hateHello": "Go away!",
 		"tradeRequest": "Please, sit down and have a cigar. I've something to offer.",
-		"outerColor": [77, 120, 77],
-		"innerColor": [204, 13, 13],
-            "favoredReligion": "Christianity",
+
 		"uniqueName": "Long live the Revolution!",
 		"uniques": ["Receive a free Social Policy each time you complete a Factory, Public School or Hospital in the capital"],
 		"cities": ["Havana","Santiago de Cuba","Camaguey","Holguin","Guantanamo","Santa Clara","Las Tunas","Bayamo","Cienfuegos","Pinar del Rio","Matanzas","Ciego de Avila","Sancti Spiritus","Manzanillo","Cardenas","Palma Soriano","Moa","Florida","Moron","Nueva Gerona"]
@@ -233,14 +237,7 @@
 
 		"neutralHello": "How have you been?",
 		"hateHello": "When will you stop asking for pathetic stuff?",
-
 		"tradeRequest": "The nation proposes you the following deal:",
-//	"neutralLetsHearIt": "  ",
-//	"hateLetsHearIt": "  ",
-//	"neutralNo": "  ",
-//	"neutralYes": "  ",
-//	"hateNo": "  ",
-//	"hateYes": "  ",
 		
 		"uniqueName": "Galapagos Islands",
 		"uniques": ["[+50]% [Gold] from every [Water resource]", 
@@ -249,18 +246,18 @@
 		"cities": ["Quito","Guayaquil","Cuenca","Esmeraldas","Riobamba","Loja","Ambato","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
 	},
 	{
-	"name": "El Salvador",
-	"leaderName": "Nayib Bukelele",
-	"adjective": ["Salvatorian"],
-	"outerColor": [173,161,161],
-	"innerColor": [0,56,168],
+		"name": "El Salvador",
+		"leaderName": "Nayib Bukelele",
+		"adjective": ["Salvatorian"],
+		"outerColor": [173,161,161],
+		"innerColor": [0,56,168],
 
-	"startBias": ["Coast"],
+		"startBias": ["Coast"],
 //	"preferredVictoryType": "Victory type",
-	"favoredReligion": "Christianity",
+		"favoredReligion": "Christianity",
 
-	"startIntroPart1": "Order! Welcome strog lider, Nayib, you are here to end the decades of conflict and criminal activity in Salvador, 'the Tom Thumb of America', which has had no rest from criminals on it's history.",
-	"startIntroPart2": "Now it is in your job to bring peace and prosperity to the little nation. Now, can you do it? Will you take the right economic decisions? Can you build a civilization that can stand the pass of time?",
+		"startIntroPart1": "Order! Welcome strog lider, Nayib, you are here to end the decades of conflict and criminal activity in Salvador, 'the Tom Thumb of America', which has had no rest from criminals on it's history.",
+		"startIntroPart2": "Now it is in your job to bring peace and prosperity to the little nation. Now, can you do it? Will you take the right economic decisions? Can you build a civilization that can stand the pass of time?",
 
 		"introduction": "Hi hi, I'm Nayib Bukele, bringer of order to my people.",
 		"declaringWar": "Your land is a caos, it needs to be tied up.",
@@ -270,20 +267,13 @@
 
 		"neutralHello": "Hi, how are ya?",
 		"hateHello": "Out!",
-
 		"tradeRequest": "This will bring prosperity!",
-//	"neutralLetsHearIt": "  ",
-//	"hateLetsHearIt": "  ",
-//	"neutralNo": "  ",
-//	"neutralYes": "  ",
-//	"hateNo": "  ",
-//	"hateYes": "  ",
 		
-	"uniqueName": "Territorial Control Plan",
-	"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+		"uniqueName": "Territorial Control Plan",
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
 			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]"],
 
-	"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
+		"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
 	},
 	{
                 "name": "Mexico",
@@ -326,11 +316,17 @@
 	{
 		"name": "Panama",
 		"leaderName": "Belisario P. Barahona",
-		"adjective": ["Panamanian"],
+		"adjective": ["Panamenian"],
+		"outerColor": [225, 225, 225],
+		"innerColor": [0, 94, 184],
+
+		"favoredReligion": "Christianity",
 		"startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Diplomatic",
-            "startIntroPart1": " ",
-		"startIntroPart2": " ",
+
+		"startIntroPart1": "Welcome again, Belisario, to take the pilot seat of the nation of Panama, one that broke free from their overlords who forgot about them. Once free, the nation has become one of the most important in the world, sitting right through the connection of two oceans, making it essential to global economy.",
+		"startIntroPart2": "Belisario Barahona, are you ready to launch the nation to heights never seen before? Can you make a civilization that can stand the pass of time?",
+
 		"declaringWar": "Prepare for war!",
 		"attacked": "The World will hear of this...",
 		"defeated": "Congrats.",
@@ -338,11 +334,10 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I have an offer you can't decline.",
-		"outerColor": [225, 225, 225],
-		"innerColor": [0, 94, 184],
-            "favoredReligion": "Christianity",
+
 		"uniqueName": "The Panama Canal",
 		"uniques": ["[+4 Gold] from every [Merchant]"],
+
 		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"]
 	},
 	{
@@ -377,7 +372,7 @@
 		"hateYes": "How is it possible to bare this 'deal'?",
 
 		"uniqueName": "Guarani Strenght",
-		"uniques": ["[+2 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
+		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
 
 		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",]
 	},
