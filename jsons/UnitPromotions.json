@@ -1,7 +1,11 @@
 [
 
+	{
+		"name": "[Jungla] ability",
+		"uniques": ["[+33]% Strength <when fighting in [Hill] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>", "Ignores terrain cost"]
+	},
 {
 		"name": "Guerrillero ability",
-		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May withdraw before melee ([80]%)","May enter foreign tiles without open borders"]
+		"uniques": ["May withdraw before melee ([80]%)","May enter foreign tiles without open borders"]
 	},
 ]
