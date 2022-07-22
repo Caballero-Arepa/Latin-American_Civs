@@ -190,6 +190,39 @@
 				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Arauca","Yopal","Buga","Sogamoso","San Andres","Leticia"]
 	},
 	{
+		"name": "Costa Rica",
+		"leaderName": "Juan Mora Porras",
+		"adjective": ["Costarican"],
+	        "outerColor": [252,209,22],
+		"innerColor": [1,57,150],
+
+		"startBias": ["Coast","Grassland","Mounatain"],
+  	        "preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
+		
+//	"startIntroPart1": ".",
+//	"startIntroPart2": ".",
+
+//	"introduction":  "Greetings! I'm Santander. This is Colombia, my wonderful land. Want a coffee?",
+//	"declaringWar": "I must do this, only to free your opressed people from your hands.",
+//	"attacked": "You will see how fruitless this will be for you. Wait and see.",
+//	"afterPeace": "The path to peace is often long and tortuous, but the reward is always invaluable",
+//	"defeated":  "I hope you treat my people good, they've had enough.",
+
+//	"neutralHello": "Hello there.",
+//	"hateHello": "*Asshh*, What do you want??",
+
+//		"tradeRequest": "This will help you in your situation.",
+
+		"uniqueName": "The Reserves of the Volcanoes",
+		"uniques": ["[+1 Food, +1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
+			   "[+1 Gold, +1 Culture] from [Camp] tiles [in all cities]","[+1 Gold, +1 Culture] from [Pasture] tiles [in all cities]"],
+
+		"cities": ["San Jose", "Alajuela", "Barranca", "Limón", "Liberia", "Cartago", "Coco", "Tamarido","Naranjo","Cañas","Arenal",
+			   "Los Chiles","Quesada","Guácimo","Siquierres", "Matina", "Atalanta", "Uatsi", "Katsi", "San Isidro", "Quepos",
+			   "Dominical", "Palmar Sur", "Drake", "San Vito", "Kiménez","Corredo"]
+	},
+	{
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
 		"adjective": ["Cuban"],
