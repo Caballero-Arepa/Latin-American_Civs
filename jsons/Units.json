@@ -89,6 +89,20 @@
 		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units"],
 		"promotions": ["Guerrillero ability"],
 		"attackSound": "shot"
+        },
+        { //Costa Rica's
+                "name": "Patriot Farmer",
+	        "replaces": "Longswordsman",
+	        "unitType": "Sword",
+	        "movement": 2,
+	        "strength": 18,
+	        "cost": 75,
+	        "hurryCostModifier": 40,
+	        "requiredTech": "Metal ",
+	        "obsoleteTech": "Steel",
+          	"upgradesTo": "Longswordsman",
+	        "uniqueTo": "Costa Rica",
+	        "uniques": ["pendientes"]
 	},
 	{ //Ecuador's
 		"name": "Tarqui Grenadiers",
