@@ -84,7 +84,7 @@
 	        "cost": 75,
 	        "requiredTech": "Metal Casting",
 	        "obsoleteTech": "Gundpowder",
-	        "upgradesTo": "",
+	        "upgradesTo": "Musketman",
 	        "uniqueTo": "Costa Rica",
 	        "uniques": ["pendiente"]
 
