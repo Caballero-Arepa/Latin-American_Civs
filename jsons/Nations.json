@@ -190,6 +190,35 @@
 				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Arauca","Yopal","Buga","Sogamoso","San Andres","Leticia"]
 	},
 	{
+                "name": "Costa Rica",
+                "leaderName": "Juan Mora Porras",
+                "adjective": ["Costa Rican"],
+                "outerColor": [204,20,36],
+                "innerColor": [4,28,124],
+
+                "startBias": ["Jungle","Coast","Forest"],
+                "preferredVictoryType": "Cultural",
+                "favoredReligion": "Christianity",
+        
+                "startIntroPart1": "Pendiente",
+                "startIntroPart2": "Pendiente",
+  
+                "introduction":  "Greetings, welcome to our rich and beautiful land. Pura vida!",
+                "declaringWar": "Your nation menaces the peace and sovereignty of our country. Prepare for war.",
+                "attacked": "Fine, ticos will rise in arms to defende the peace of our nation.",
+                "afterPeace": "I hope these catastrophic events would never happen between our countries again.",
+                "defeated": "You have destroyed our idyll of harmony and peace. May god judge your actions against the people of Costa Rica.",
+
+                "neutralHello": "Welcome amigo!",
+                "hateHello": "Did you lose something?",
+                "tradeRequest": "This deal will bring prosperity to our nations",
+
+                "uniqueName": "Volcanic Gift",
+                "uniques": ["[+1 Food, +1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles"],
+
+                "cities": ["San Jose","Alajuela","Cartago","Heredia","Puntarenas","Guanacaste","Limón","Santa Cruz", "Esparza","Aserri","Quepos","Parrita"]
+        },
+        {
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
 		"adjective": ["Cuban"],
