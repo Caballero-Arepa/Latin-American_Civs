@@ -56,6 +56,17 @@
 		"uniques": ["[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
 				"[+1 Food] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>",
 				"Destroyed when the city is captured"],
+        },
+        { //Costa Rica's
+                "name": "Ecotouristic Hotel",
+		"cost": pendiente,
+		"hurryCostModifier": ,
+		"requiredTech": "Biology",
+		"maintenance": 3,
+		"gold": 5,
+		"happiness": 2,
+		"uniqueTo": "Costa Rica",
+		"uniques": ["[+15]% Gold <after discovering [Flight]>", "[+1 Gold] from every [Forest, Coast] tiles [in this city]"], 
 	},
 	{//Cuba's
 		"name": "Torcedores",
