@@ -89,7 +89,7 @@
 				"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
 				"[+20]% Strength <when fighting in [Friendly Land] tiles>","[-100]% Strength <when fighting in [Foreign Land] tiles>",
 			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"]
-
+	},
 	{//Cuba's
 		"name": "Guerrillero",
 		"replaces": "Great War Infantry",
