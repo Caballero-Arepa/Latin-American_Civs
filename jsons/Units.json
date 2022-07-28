@@ -80,13 +80,15 @@
 	        "replaces": "Longswordsman",
 	        "unitType": "Sword",
 	        "movement": 2,
-	        "strength": 18,
-	        "cost": 75,
-	        "requiredTech": "Metal Casting",
-	        "obsoleteTech": "Gundpowder",
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
 	        "upgradesTo": "Musketman",
 	        "uniqueTo": "Costa Rica",
-	        "uniques": ["pendiente"]
+	        "uniques": ["Unable to capture cities","Cost increases by [10] per owned city","[-75]% Gold cost of upgrading",
+				"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+				"[+20]% Strength <when fighting in [Friendly Land] tiles>","[-100]% Strength <when fighting in [Foreign Land] tiles>",
+			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"]
 
 	{//Cuba's
 		"name": "Guerrillero",
