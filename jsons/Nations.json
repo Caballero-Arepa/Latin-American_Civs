@@ -193,10 +193,10 @@
                 "name": "Costa Rica",
                 "leaderName": "Juan Mora Porras",
                 "adjective": ["Costarican"],
-                "outerColor": [204,20,36],
-                "innerColor": [4,28,124],
+                "outerColor": [67,48,89],
+                "innerColor": [241,56,79],
 
-                "startBias": ["Coast","Jungle","Mounatain"],
+                "startBias": ["Coast","Jungle","Mountain"],
                 "preferredVictoryType": "Cultural",
                 "favoredReligion": "Christianity",
         
@@ -214,7 +214,7 @@
                 "tradeRequest": "This deal will bring prosperity to our nations",
 
                 "uniqueName": "The Reserves of the Volcanoes",
-                "uniques": ["[+1 Food, +1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
+                "uniques": ["[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>",
 			   "[+1 Gold, +1 Culture] from [Camp] tiles [in all cities]","[+1 Gold, +1 Culture] from [Pasture] tiles [in all cities]"],
 
                 "cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",

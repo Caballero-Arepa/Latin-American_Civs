@@ -68,12 +68,10 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 70,
-		"cost": 395,
-		"hurryCostModifier": 50,
+		"cost": 375,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["[+35]% Strength <vs [Barbarian] units>"],
 		"promotions": ["[Jungla] ability"],
 		"attackSound": "shot",
         }
@@ -87,7 +85,7 @@
 		"requiredTech": "Steel",
 	        "upgradesTo": "Musketman",
 	        "uniqueTo": "Costa Rica",
-	        "uniques": ["Unable to capture cities","Cost increases by [10] per owned city","[-75]% Gold cost of upgrading",
+	        "uniques": ["Unable to capture cities","[-75]% Gold cost of upgrading",
 				"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
 				"[+20]% Strength <when fighting in [Friendly Land] tiles>","[-100]% Strength <when fighting in [Foreign Land] tiles>",
 			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"]

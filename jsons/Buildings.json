@@ -66,7 +66,8 @@
 		"gold": 3,
 		"percentStatBonus": {"gold": 25},
 		"uniqueTo": "Costa Rica",
-		"uniques": ["[+15]% [Gold] <after discovering [Flight]>", "[+1 Gold] from every [Forest, Coast] tiles [in this city]",
+		"uniques": ["[+1 Gold] from every [Forest] tiles [in this city]","[+1 Gold] from every [Coast] tiles [in this city]",
+			   "[+15]% [Gold] <after discovering [Flight]>",
 			   "[+5 Culture, +5 Gold] <after discovering [Ecology]>"],
 	},
 	{//Cuba's
@@ -149,12 +150,12 @@
 		"maintenance": 1,
 		"cityStrength": 20,
 		"uniqueTo": "Paraguay",
-		"uniques": ["Only available <after adopting [Oligarchy]>",
+		"uniques": ["Unlocked with [Oligarchy]",
 				"[+1 Culture] <after discovering [Combined Arms]>",
 				"Destroyed when the city is captured"],
 		
 	},
-	{
+	{ //Paraguay's
 		"name": "Jesuit Hacienda",
 		"replaces": "Windmill",
 		"requiredBuilding": "Monument",
