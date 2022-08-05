@@ -136,12 +136,12 @@
 		"maintenance": 1,
 		"cityStrength": 20,
 		"uniqueTo": "Paraguay",
-		"uniques": ["Unlocked with [Oligarchy]",
+		"uniques": ["Only available <after adopting [Oligarchy]>",
 				"[+1 Culture] <after discovering [Combined Arms]>",
 				"Destroyed when the city is captured"],
 		
 	},
-	{ //Paraguay's
+	{
 		"name": "Jesuit Hacienda",
 		"replaces": "Windmill",
 		"requiredBuilding": "Monument",
