@@ -12,7 +12,8 @@
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Anti-Tank Gun",
 		"uniqueTo": "Argentina",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Can build [Pasture] improvements on tiles"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"promotions": ["[Gaucho] ability"],
 		"attackSound": "horse",
    },
 	{ //Bolivia's
@@ -58,7 +59,7 @@
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"uniqueTo": "Chile",
-		"uniques": ["[+35]% Strength <vs cities> <when attacking>", "Double movement in [Coast]"],
+		"promotions": ["[Liberator Scuadron] ability"],
 		"attackSound": "shipguns",
 	},
 	{ //Colombia's
@@ -86,9 +87,9 @@
 	        "upgradesTo": "Musketman",
 	        "uniqueTo": "Costa Rica",
 	        "uniques": ["Unable to capture cities","[-75]% Gold cost of upgrading",
-				"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
-				"[+20]% Strength <when fighting in [Friendly Land] tiles>","[-100]% Strength <when fighting in [Foreign Land] tiles>",
-			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"]
+				"[-100]% Strength <when fighting in [Foreign Land] tiles>",
+			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"],
+		"promotions": ["[Campesino Patriota] ability"],
 	},
 	{//Cuba's
 		"name": "Guerrillero",
@@ -117,8 +118,8 @@
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
 		"uniqueTo": "Ecuador",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>",
-			    "[+15]% Strength when stacked with [Great General]","[+30]% Strength decreasing with distance from the capital"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
+		"promotions": ["[Tarqui Grenadiers] ability"],
 		"attackSound": "horse"
 	},
            { //Mexico's
@@ -206,7 +207,7 @@
 		"name": "Patriot Army",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
-		"movement": 3,
+		"movement": 2,
 		"strength": 34,
 		"cost": 220,
 		"requiredTech": "Rifling",
@@ -214,6 +215,7 @@
 		"upgradesTo": "Great War Infantry",
 		"uniqueTo": "Venezuela",
 		"uniques": ["Can pass through impassable tiles"],
+		"promotions": ["[Tarqui Grenadiers] ability"],
 		"attackSound": "shot",
 	},
 	{ //Venezuela's
