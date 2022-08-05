@@ -72,7 +72,8 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"promotions": ["[Jungla] ability"],
+		"uniques": ["[+35]% Strength <vs [Barbarian] units>"],
+		"promotions": ["[Jungla] ability","Woodsman"],
 		"attackSound": "shot",
 	},
 	{//Cuba's
