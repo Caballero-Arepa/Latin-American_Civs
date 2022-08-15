@@ -147,7 +147,7 @@
 
 		"uniqueName": "Mining Riches",
 		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
-			   "[+1 Gold] from every [Mine] <during a Golden Age>", "[-15]% Golden Age length"],
+			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
 
 		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
             },
@@ -183,12 +183,44 @@
 		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
 		"uniqueName": "Colombian Coffee Region & Paramos",
-		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced","[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>"],
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced","[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Civil Service]>"],
 
 		"cities": ["Bogota","Cartagena","Medellin","Barranquilla","Cali","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
 				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Monteria","Pasto","Manizales","Armenia",
 				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Arauca","Yopal","Buga","Sogamoso","San Andres","Leticia"]
 	},
+	{
+                "name": "Costa Rica",
+                "leaderName": "Juan Mora Porras",
+                "adjective": ["Costarican"],
+                "outerColor": [67,48,89],
+                "innerColor": [241,56,79],
+
+                "startBias": ["Coast","Jungle","Mountain"],
+                "preferredVictoryType": "Cultural",
+                "favoredReligion": "Christianity",
+        
+                "startIntroPart1": "Don Juanito, nickname that stayed for the posterity as a token of affection from the 'ticos' to your heroic actions, those that remarked the name of the Republic of Costa Rica in the highest spots of the American continent. Your succesful campaign against William Walker's freebooters in 1857 and your innumerable socio-economic contributions brought wellness and peace to Costa Rica, you governed over this small nation in the heart of Central America, surrounded by it's leafy jungles, majestic forests and volcanic chains, always full of life and diversity of all types, and you turned it into a prosperity path and a progress symbol of Central America.",
+                "startIntroPart2": "Don Juanito, the costa rican people need you, once again, to follow the path of greatness. ¿Can you lead the ticos to the glory? ¿Can you make a civilization that stand the test of time?",
+                
+                "introduction":  "Greetings, welcome to our rich coasts and beautiful land. Pura vida!",
+                "declaringWar": "Your nation menaces the peace and sovereignty of our country. Prepare for war.",
+                "attacked": "Fine, ticos will rise in arms to defende the peace of our nation.",
+                "afterPeace": "I hope these catastrophic events never to happen between our countries again.",
+                "defeated": "You have destroyed our idyll of harmony and peace. May god judge your actions against the people of Costa Rica.",
+
+                "neutralHello": "Welcome amigo!",
+                "hateHello": "Did you lose something?",
+                "tradeRequest": "This deal will bring prosperity to our nations",
+
+                "uniqueName": "The Reserves of the Volcanoes",
+                "uniques": ["[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>",
+			   "[+1 Gold, +1 Culture] from [Camp] tiles [in all cities]","[+1 Gold, +1 Culture] from [Pasture] tiles [in all cities]"],
+
+                "cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",
+			   "Siquierres","Matina","Atalanta","Uatsi","Katsi","San Isidro","Quepos","Dominical","Palmar Sur","Drake","San Vito",
+			   "Puerto Kiménez","Corredor"]
+        },
 	{
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
@@ -444,7 +476,10 @@
 		"hateYes": "This very well could be a shame to the nation.",
 
 		"uniqueName": "Oil Power",
-                "uniques": ["Double quantity of [Oil] produced","[+2 Gold, +1 Happiness] from every [Oil well]", "Receive free [Great General] when you discover [Military Science]"],
+                "uniques": ["Double quantity of [Oil] produced",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>",
+			"[+2 Gold, +2 Production] from every [Oil well]",
+			"Receive free [Great General] when you discover [Military Science]"],
 
                 "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
 	},
