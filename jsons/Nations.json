@@ -147,7 +147,7 @@
 
 		"uniqueName": "Mining Riches",
 		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
-			   "[+1 Gold] from every [Mine] <during a Golden Age>", "[-15]% Golden Age length"],
+			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
 
 		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
             },
@@ -183,7 +183,7 @@
 		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
 		"uniqueName": "Colombian Coffee Region & Paramos",
-		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced","[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>"],
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced","[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Civil Service]>"],
 
 		"cities": ["Bogota","Cartagena","Medellin","Barranquilla","Cali","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
 				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Monteria","Pasto","Manizales","Armenia",
@@ -476,7 +476,10 @@
 		"hateYes": "This very well could be a shame to the nation.",
 
 		"uniqueName": "Oil Power",
-                "uniques": ["Double quantity of [Oil] produced","[+2 Gold, +1 Happiness] from every [Oil well]", "Receive free [Great General] when you discover [Military Science]"],
+                "uniques": ["Double quantity of [Oil] produced",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>",
+			"[+2 Gold, +2 Production] from every [Oil well]",
+			"Receive free [Great General] when you discover [Military Science]"],
 
                 "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
 	},

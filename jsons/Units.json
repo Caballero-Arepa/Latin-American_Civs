@@ -3,7 +3,7 @@
 		"name": "Gaucho",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
-		"movement": 5,
+		"movement": 4,
 		"strength": 25,
 		"cost": 180,
 		"hurryCostModifier": 25,
@@ -42,7 +42,8 @@
 		"obsoleteTech": "Lasers",
 		"upgradesTo": "Modern Armor",
 		"uniqueTo": "Brazil",
-		"uniques": ["Can move after attacking", "Ignores terrain cost"],
+		"uniques": ["Can move after attacking"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "tankshot"
 	},
 	{ //Chile's
@@ -69,7 +70,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 70,
-		"cost": 375,
+		"cost": 400,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
@@ -105,7 +106,7 @@
 		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units"],
 		"promotions": ["Guerrillero ability"],
 		"attackSound": "shot"
- 	},
+	},
 	{ //Ecuador's
 		"name": "Tarqui Grenadiers",
 		"unitType": "Mounted",
@@ -119,7 +120,7 @@
 		"upgradesTo": "Landship",
 		"uniqueTo": "Ecuador",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
-		"promotions": ["[Tarqui Grenadiers] ability"],
+		"promotions": ["[Tarqui Grenadiers] ability","Home Sweet Home"],
 		"attackSound": "horse"
 	},
            { //Mexico's
@@ -209,13 +210,13 @@
 		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 34,
-		"cost": 220,
+		"cost": 245,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"uniqueTo": "Venezuela",
 		"uniques": ["Can pass through impassable tiles"],
-		"promotions": ["[Tarqui Grenadiers] ability"],
+		"promotions": ["[Patriot Army] ability","Great Generals I","Shock I"],
 		"attackSound": "shot",
 	},
 	{ //Venezuela's

@@ -9,6 +9,11 @@
                 "culture": 5,
 		"specialistSlots": {"Artist": 3},
 		"uniqueTo": "Argentina",
+		"civilopediaText": [
+			{
+				"text": "The most iconic music from the platine nation, this romantic and dramatic dances, played mainly by the accordion or piano. Birthed in the Golden Age, its characteristic moves make it the emblem of Argentina."
+			}
+		]
 	},
 	{ //Bolivia's
 		"name": "Folkloric Comparse",
@@ -32,6 +37,11 @@
 		"specialistSlots": {"Artist": 1},
 		"uniqueTo": "Brazil",
 		"uniques": ["[+1 Happiness] per [4] population [in this city]","[+100]% [Culture] [in this city] <during a Golden Age>"],
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{ //Chile's
 		"name": "Saltpeter Office",
@@ -44,6 +54,11 @@
 		"specialistSlots": {"Engineer": 1},
 		"uniqueTo": "Chile",
 		"uniques": ["Must be next to [Desert]", "[+2 Production] from [Salt] tiles [in this city]"],
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{ //Colombia's
 		"name": "Coffee Hacienda",
@@ -56,6 +71,11 @@
 		"uniques": ["[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
 				"[+1 Food] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>",
 				"Destroyed when the city is captured"],
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
         },
         { //Costa Rica's
                 "name": "Ecotouristic Hotel",
@@ -69,6 +89,11 @@
 		"uniques": ["[+1 Gold] from every [Forest] tiles [in this city]","[+1 Gold] from every [Coast] tiles [in this city]",
 			   "[+15]% [Gold] <after discovering [Flight]>",
 			   "[+5 Culture, +5 Gold] <after discovering [Ecology]>"],
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{//Cuba's
 		"name": "Torcedores",
@@ -80,7 +105,12 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"uniques": ["Provides [1] [Cuban Cigars]","[+2 Gold] from [Plantation] tiles [in this city]"],
-		"requiredTech": "Banking"
+		"requiredTech": "Banking",
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{
 		"name": "Trade unions",
@@ -89,7 +119,12 @@
 		"cost": 1,
 		"requiredBuilding": "Factory",
 		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
-		"requiredTech": "Industrialization"
+		"requiredTech": "Industrialization",
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{
 		"name": "Free education",
@@ -98,7 +133,12 @@
 		"cost": 1,
 		"requiredBuilding": "Public School",
 		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
-		"requiredTech": "Education"
+		"requiredTech": "Education",
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{
 		"name": "Free healthcare",
@@ -107,7 +147,12 @@
 		"cost": 1,
 		"requiredBuilding": "Hospital",
 		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
-		"requiredTech": "Biology"
+		"requiredTech": "Biology",
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{ //Ecuador's
 		"name": "Main Square",
@@ -117,9 +162,15 @@
 		"culture": 2,
 		"uniqueTo": "Ecuador",
 		"uniques": ["[+2 Culture, +1 Food] from [Mountain] tiles [in this city]",
+			    "[+1 Culture] from [Hill] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
 			    "[+1 Science] from [Mountain] tiles [in this city] <after discovering [Flight]>",
 			    "[+2 Culture] <after discovering [Dynamite]>","[+3 Culture] <after discovering [Telecommunications]>",
 			    "Cost increases by [20] per owned city"],
+		"civilopediaText": [
+			{
+				"text": "The classical main squares of Ecuador, dating back to the colonial times, are between the best conserved of all Hispanic America, with over 300 years of existence, these plazas are a magnificent piece of history alive."
+			}
+		]
 	},
 	{ //El Salvador's
 		"name": "Public Veterinary",
@@ -127,6 +178,11 @@
 		"maintenance": 2,
 		"uniqueTo": "El Salvador",
 		"uniques": ["[+1 Food, +1 Culture] from [Pasture] tiles [in this city]", "Cost increases by [50] per owned city"],
+		"civilopediaText": [
+			{
+				"text": "Text"
+			}
+		]
 	},
 	{ //Mexico's
 		"name": "Chapultepec Castle",
@@ -140,7 +196,12 @@
 		"cityHealth": 30,
 		"uniqueTo": "Mexico",
 		"uniques": ["New [Military] units start with [10] Experience [in this city]",
-				"Provides a [Castle] in your first [4] cities for free","Destroyed when the city is captured"],
+				"Provides a [Castle] in your first [4] cities for free"],
+		"civilopediaText": [
+			{
+				"text": "The patriotic castle on the Mexican capital, is a symbol of power and national pride, as it was literally the last bastion of patriotic resistance against the aggressors of the north. The impressive architecture and its privileged position make it a wonder of Mexico."
+			}
+		]
 	},
 	{ //Paraguay's
 		"name": "Criollo Cannon",
@@ -150,10 +211,14 @@
 		"maintenance": 1,
 		"cityStrength": 20,
 		"uniqueTo": "Paraguay",
-		"uniques": ["Unlocked with [Oligarchy]",
+		"uniques": ["Only available <after adopting [Oligarchy]>",
 				"[+1 Culture] <after discovering [Combined Arms]>",
 				"Destroyed when the city is captured"],
-		
+		"civilopediaText": [
+			{
+				"text": "This valiant gunners fought with 'tooth and nail' to defend their fatherland from 3 antagonist nations at the same time, managing impressive victories that give the people pride."
+			}
+		]
 	},
 	{ //Paraguay's
 		"name": "Jesuit Hacienda",
@@ -166,6 +231,12 @@
 		"specialistSlots": {"Engineer": 1},
 		"uniqueTo": "Paraguay",
 		"uniques": ["[+1 Culture] from [River] tiles [in this city]","Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
+		"civilopediaText": [
+			{
+				"text": "These Haciendas were formed by migrating Jesuits, and they were one of the reasons for the native people of Paraguay, the Guaranís, remained strong and gave Paraguay its culture, so much so, that the Guaraní is almost as much spoken as Spanish.
+"
+			}
+		]
 	},
 	{ //Peru's
 		"name": "Peruvian Restaurant",
@@ -178,6 +249,11 @@
 		"gold": 1,
 		"percentStatBonus": {"culture": 25},
 		"uniqueTo": "Peru",
+		"civilopediaText": [
+			{
+				"text": "The globally famous Peruvian cuisine, dating back to Incan times, is the shiny jewel of Andean dishes. Featuring the Cuy and the ceviche, Peruvian food is to admire."
+			}
+		]
 	},
 	{ //Venezuela's
 		"name": "Latinity School",
@@ -187,9 +263,14 @@
 		"cost": 300,
 		"hurryCostModifier": 50,
 		"maintenance": 3,
-		"science": 5,
+		"science": 6,
 		"specialistSlots": {"Scientist": 2},
 		"uniqueTo": "Venezuela",
 		"uniques": ["[+1 Science] per [2] population [in this city]","Destroyed when the city is captured"],
+		"civilopediaText": [
+			{
+				"text": "Founded by the Spaniards, the Latinity Schools were meant to teach the locals the Spanish language, and to read, write and the Catholic religion. These institutions played a mayor role in assimilating the natives."
+			}
+		]
 	},
 ]
