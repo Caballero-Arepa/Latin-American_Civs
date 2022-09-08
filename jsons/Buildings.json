@@ -27,6 +27,10 @@
 		"specialistSlots": {"Artist": 2},
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniqueTo": "Bolivia",
+		"civilopediaText": [
+			{
+				"text": "A complete carnival composed of many ethnicities celebrating and enjoying together under one banner, the Bolivian nation."
+			}
 	},
 	{ //Brasil's
 		"name": "Sambadrome",
@@ -39,7 +43,7 @@
 		"uniques": ["[+1 Happiness] per [4] population [in this city]","[+100]% [Culture] [in this city] <during a Golden Age>"],
 		"civilopediaText": [
 			{
-				"text": "Text"
+				"text": "The most folkloric of the musical genres of Brazil is danced and spectated in these paths. Full of dances, decorated wagons, choreographed shows and loud music, it is truly a spectacle."
 			}
 		]
 	},
@@ -56,7 +60,7 @@
 		"uniques": ["Must be next to [Desert]", "[+2 Production] from [Salt] tiles [in this city]"],
 		"civilopediaText": [
 			{
-				"text": "Text"
+				"text": "These offices offered job and asylum to workers from all over the world who came to the driest desert to extract the valuable Nitratine. On the Atacama Desert, these posts were pivotal for the economy of whom controlled it, very important."
 			}
 		]
 	},
@@ -73,7 +77,7 @@
 				"Destroyed when the city is captured"],
 		"civilopediaText": [
 			{
-				"text": "Text"
+				"text": "Located in the mountains, the long-lasting culture of Coffee plantation has made the people there experts on the matter. Here is where the magic happens, where Colombia gets the best quality of Coffee in the world."
 			}
 		]
         },
@@ -91,7 +95,7 @@
 			   "[+5 Culture, +5 Gold] <after discovering [Ecology]>"],
 		"civilopediaText": [
 			{
-				"text": "Text"
+				"text": "Pioneers on the ecotourism, added with the Costa Rican landscapes and Caribbean shores, makes of them a great destiny for holiday vacation."
 			}
 		]
 	},
@@ -106,11 +110,6 @@
 		"requiredBuilding": "Market",
 		"uniques": ["Provides [1] [Cuban Cigars]","[+2 Gold] from [Plantation] tiles [in this city]"],
 		"requiredTech": "Banking",
-		"civilopediaText": [
-			{
-				"text": "Text"
-			}
-		]
 	},
 	{
 		"name": "Trade unions",
@@ -120,11 +119,6 @@
 		"requiredBuilding": "Factory",
 		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
 		"requiredTech": "Industrialization",
-		"civilopediaText": [
-			{
-				"text": "Text"
-			}
-		]
 	},
 	{
 		"name": "Free education",
@@ -134,11 +128,6 @@
 		"requiredBuilding": "Public School",
 		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
 		"requiredTech": "Education",
-		"civilopediaText": [
-			{
-				"text": "Text"
-			}
-		]
 	},
 	{
 		"name": "Free healthcare",
@@ -148,11 +137,6 @@
 		"requiredBuilding": "Hospital",
 		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
 		"requiredTech": "Biology",
-		"civilopediaText": [
-			{
-				"text": "Text"
-			}
-		]
 	},
 	{ //Ecuador's
 		"name": "Main Square",
@@ -168,7 +152,7 @@
 			    "Cost increases by [20] per owned city"],
 		"civilopediaText": [
 			{
-				"text": "The classical main squares of Ecuador, dating back to the colonial times, are between the best conserved of all Hispanic America, with over 300 years of existence, these plazas are a magnificent piece of history alive."
+				"text": "The classical main squares of Ecuador, dating back to the pre-colonial times, are between the best conserved of all Hispanic America, with over 300 years of existence, these plazas are a magnificent piece of history alive."
 			}
 		]
 	},
@@ -180,7 +164,7 @@
 		"uniques": ["[+1 Food, +1 Culture] from [Pasture] tiles [in this city]", "Cost increases by [50] per owned city"],
 		"civilopediaText": [
 			{
-				"text": "Text"
+				"text": "One of the best animal healthcare program of all has allowed the pets of the people to be a lot happier, and their owners too."
 			}
 		]
 	},
