@@ -159,7 +159,7 @@
 		"innerColor": [1,57,150],
 
 		"startBias": ["Hill","Jungle"],
-  	        "preferredVictoryType": "Cultural",
+//  	        "preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Be welcomed, president. You lead the beautiful and rich nation of Colombia, a country with great cultural and biodiversity.\nThe attempts to break free got terribly punished,  but with unity and strength, Colombia managed independence with the help of Simon Bolivar, to later form his ambitious project of the Gran Colombia. Since the start we had a ton of great political division, which brought many, many problems and conflicts, but despite all the troubles, Colombia ought to help others, no matter what. The conflicts didn't cease until the early 21st century, where the sun finally rises over Colombia to achieve greatness.",
@@ -285,7 +285,7 @@
 		"innerColor": [0,56,168],
 
 		"startBias": ["Coast"],
-//	"preferredVictoryType": "Victory type",
+	"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
 		"startIntroPart1": "Order! Welcome strog lider, Nayib, you are here to end the decades of conflict and criminal activity in Salvador, 'the Tom Thumb of America', which has had no rest from criminals on it's history.",
@@ -315,7 +315,7 @@
 		"innerColor": [206,119,78],
 
 		"startBias": ["Hill"],
-        	"preferredVictoryType": "Cultural",
+        	"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 
 		"startIntroPart1": "Ay! Greetings Mr. president. You lead the famous and cultured nation of Mexico. On the ruins of Tenochtitlan, the Aztec capital, and on top of the lake, Mexico City stands on what was one of the empires crushed by the Spanish. A heroic independence did not give stability to the wonderful nation, as it's political conflict lead to many unfortunate events, but when it's needed Mexico unites against foreign aggressors and do the best they can. Even with internal struggles, and bad geography, Mexico is one of the most influential cultures of America.",
