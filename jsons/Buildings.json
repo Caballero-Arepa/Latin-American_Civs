@@ -95,7 +95,7 @@
 			   "[+5 Culture, +5 Gold] <after discovering [Ecology]>"],
 		"civilopediaText": [
 			{
-				"text": "Pioneers on the ecotourism, added with the Costa Rican landscapes and Caribbean shores, makes of them a great destiny for holiday vacation."
+				"text": "Pioneers on the ecotourism buisness, added with the Costa Rican landscapes and Caribbean shores, makes of them a great destiny for holiday vacation."
 			}
 		]
 	},
@@ -183,7 +183,7 @@
 				"Provides a [Castle] in your first [4] cities for free"],
 		"civilopediaText": [
 			{
-				"text": "The patriotic castle on the Mexican capital, is a symbol of power and national pride, as it was literally the last bastion of patriotic resistance against the aggressors of the north. The impressive architecture and its privileged position make it a wonder of Mexico."
+				"text": "The patriotic castle on the Mexican capital, is a symbol of power and national pride, as it was quite literally the last bastion of patriotic resistance against the aggressors of the north. The impressive architecture and its privileged position make it a wonder of Mexico."
 			}
 		]
 	},
@@ -235,7 +235,7 @@
 		"uniqueTo": "Peru",
 		"civilopediaText": [
 			{
-				"text": "The globally famous Peruvian cuisine, dating back to Incan times, is the shiny jewel of Andean dishes. Featuring the Cuy and the ceviche, Peruvian food is to admire."
+				"text": "The globally famous Peruvian cuisine, dating back to Incan times, is the shiny jewel of Quechua dishes. Featuring the Cuy and the Ceviche, Peruvian food is to admire."
 			}
 		]
 	},
@@ -253,7 +253,7 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]","Destroyed when the city is captured"],
 		"civilopediaText": [
 			{
-				"text": "Founded by the Spaniards, the Latinity Schools were meant to teach the locals the Spanish language, and to read, write and the Catholic religion. These institutions played a mayor role in assimilating the natives."
+				"text": "Founded by the Spaniards, the Latinity Schools were meant to teach the locals the Spanish language, to read, write and the Catholic religion. These institutions played a mayor role in assimilating the natives."
 			}
 		]
 	},
