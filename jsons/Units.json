@@ -16,7 +16,7 @@
 		"promotions": ["[Gaucho] ability"],
 		"civilopediaText": [
 			{
-				"text": "Men mounted on horse, the skilled Gauchos from the Northern plains were masters at the livestock work, which were the cogs behind the important livestock economy. Good warriors as well, fighting for independence and conquering the Patagonia."
+				"text": "Men mounted on horse, the skilled Gauchos from the Northern river plains were masters at the livestock work, who were the cogs behind the important livestock economy. Good warriors as well, fighting for independence and conquering the Patagonia for Argentina."
 			}
 		],
 		"attackSound": "horse",
@@ -35,7 +35,7 @@
 		"promotions": ["Woodsman"],
 		"civilopediaText": [
 			{
-				"text": "This elite and ferrous unit is not to be underestimated. Their homeland is the only thing they strive for, having a great performance on the wars, although it was not enough for the bad government tactics."
+				"text": "This elite and ferrous unit is not to be underestimated. Their homeland is the only thing they strive for, having a great performance on the wars, although it was not enough for the bad government's strategy."
 			}
 		],
 		"attackSound": "shot",
@@ -78,7 +78,7 @@
 		"promotions": ["[Liberator Scuadron] ability"],
 		"civilopediaText": [
 			{
-				"text": "The patriotic sail men of the squadrons defeated both the Spanish and Peruvian fleets against expectations. They don't fear nor the Pacific nor a heavy Ironclad."
+				"text": "The patriotic sail men of the squadrons defeated both the Spanish and Peruvian fleets against expectations. They don't fear nor the terrific Pacific nor a heavy Ironclad."
 			}
 		],
 		"attackSound": "shipguns",
@@ -97,8 +97,7 @@
 		"promotions": ["[Jungla] ability"],
 		"civilopediaText": [
 			{
-				"text": "The best elite commando units of, arguably, the world, they specialize in Jungle combat and anti-narcotraffic operations. Along with their 'brothers', the 'Lanceros', they prove their skill by winning 11/16 times the championships.
-"
+				"text": "The best elite commando units of, arguably, the hemisphere, they specialize in Jungle combat and anti-narcotraffic operations. These spec ops units excel at headhunting, annd they continue to prove their skill to this very day."
 			}
 		],
 		"attackSound": "shot",
@@ -119,7 +118,7 @@
 		"promotions": ["[Campesino Patriota] ability"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "Drafted patriotic men willing to give it all for their country's sovereignty. Going through volcanic chains, jungles and forest, these brave warriors fought to the bitter end to give their country hope."
 			}
 		],
 	},
@@ -138,7 +137,7 @@
 		"promotions": ["Guerrillero ability"],
 		"civilopediaText": [
 			{
-				"text": "These sons of a mother fought on all corners of the world to spread their beloved revolution and founding countless guerrilla groups to be feared, from South America to Africa."
+				"text": "These sons of a mother fought on all corners of the world to spread their beloved revolution and founding countless guerrilla groups to be feared, from South America to Africa, causing terror and chaos to the inhabiants."
 			}
 		],
 		"attackSound": "shot"
@@ -159,7 +158,7 @@
 		"promotions": ["[Tarqui Grenadiers] ability","Home Sweet Home"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "Their show of discipline elevated them to be the elite cavalry of equatorial nation. Having fought on harsh terrain, the grenadiers didn't break their discipline."
 			}
 		],
 		"attackSound": "horse"
@@ -184,7 +183,7 @@
 			    "[+35]% Strength <vs [Fighter] units>"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "Fierce pilots who trained and fought with the US against a common enemy, the Empire of Japan. Battling with the unstoppable warriors of Japan on the Pacific Ocean, the brave men earned their respect and marked high the name of their country."
 			}
 		],
 		"attackSound": "machinegun",
@@ -203,7 +202,7 @@
 		"uniques": ["[+50]% Strength decreasing with distance from the capital","Limited to [5] per Civilization"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "missing text"
 			}
 		],
 		"attackSound": "shot"
@@ -222,7 +221,7 @@
 		"uniques": ["May capture killed [Water] units","Can move after attacking"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "missing text"
 			}
 		],
 		"attackSound": "cannon"
@@ -243,7 +242,7 @@
 				"[+20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "Courageous horsemen who fought to the bitter end, on harsh biomes, climate and conditions, but nevertheless their lion courage made all their acts heroic."
 			}
 		],
 		"attackSound": "horse",
@@ -265,7 +264,7 @@
 		"uniques": ["Ignores terrain cost"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "Marching on the Andes is no easy task, even less when you are forced to in order to capture the mayor population centers. But these units did the task as hard as it was."
 			}
 		],
 		"attackSound": "shot",
@@ -285,7 +284,7 @@
 		"promotions": ["[Patriot Army] ability","Great Generals I","Shock I"],
 		"civilopediaText": [
 			{
-				"text": "text"
+				"text": "From a rag-tag arm, to one of the most professional ones on the continent, soldiers from three countries join together to earn freedom for their people and the rest of the continent."
 			}
 		],
 		"attackSound": "shot",
@@ -305,7 +304,7 @@
 		"promotions": ["Ignore terrain cost"],
 		"civilopediaText": [
 			{
-				"text": "Mixed groups of natives and Spaniards created to do a variety of jobs: Scout the lands, militia defense against aggressive groups, exercise dominion of the territories, develop infrastructure projects, etc."
+				"text": "Mixed groups of natives and Spaniards created to do a variety of jobs: Patrol the lands, defense against aggressive groups, exercise dominion of the territories, develop infrastructure projects, etc."
 			}
 		],
 		"attackSound": "shot",
