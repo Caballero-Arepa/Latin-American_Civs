@@ -64,19 +64,27 @@
 		"name": "Coffee Hacienda",
 		"requiredTech": "Economics",
 		"maintenance": 2,
-		"food": 1,
-		"culture": 1,
-		"production": 1,
 		"uniqueTo": "Colombia",
 		"uniques": ["[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
-				"[+1 Food] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>",
-				"Destroyed when the city is captured"],
+			"Creates a [Coffee Hacienda ] improvement on a specific tile",
+			"Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
 		"civilopediaText": [
 			{
 				"text": "Text"
 			}
 		]
         },
+/*	{ //Colombia's
+		"name": "Coffee Growers Committee",
+		"isNationalWonder": true,
+		"requiredTech": "Replaceable Parts",
+		"cost": 767,
+		"maintenance": 2,
+		"uniqueTo": "Colombia",
+		"uniques": ["[+1 Production] from [Plantation] tiles [in all cities]","[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda ] tiles [in all cities]",
+			"Consumes [4] [Coffee]","Provides [4] [Colombian Coffee]",
+			"[-3 Happiness]","Destroyed when the city is captured"],
+        },*/
         { //Costa Rica's
                 "name": "Ecotouristic Hotel",
 		"replaces": "Stock Exchange",
