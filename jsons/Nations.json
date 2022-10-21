@@ -365,7 +365,7 @@
 
 		"favoredReligion": "Christianity",
 		"startBias": ["Coast", "Jungle"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Welcome again, Belisario, to take the pilot seat of the nation of Panama, one that broke free from their overlords who forgot about them. Once free, the nation has become one of the most important in the world, sitting right through the connection of two oceans, making it essential to global economy.",
 		"startIntroPart2": "Belisario Barahona, are you ready to launch the nation to heights never seen before? Can you make a civilization that can stand the pass of time?",
@@ -378,8 +378,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "I have an offer you can't decline.",
 
-		"uniqueName": "The Panama Canal",
-		"uniques": ["[+4 Gold] from every [Merchant]"],
+		"uniqueName": "Bridge of the World",
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Harbor]","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",],
 
 		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"]
 	},

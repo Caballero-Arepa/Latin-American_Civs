@@ -1,5 +1,5 @@
 [
-          { //Argentina's
+    { //Argentina's
 		"name": "Gaucho",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
@@ -76,23 +76,23 @@
 		"obsoleteTech": "Mobile Tactics",
 		"promotions": ["[Jungla] ability"],
 		"attackSound": "shot",
-        }
-     	{//Costa Rica's
-                "name": "Campesino Patriota",
-	        "replaces": "Longswordsman",
-	        "unitType": "Sword",
-	        "movement": 2,
+   },
+    { //Costa Rica's
+        "name": "Campesino Patriota",
+	    "replaces": "Longswordsman",
+	    "unitType": "Sword",
+	    "movement": 2,
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
-	        "upgradesTo": "Musketman",
-	        "uniqueTo": "Costa Rica",
-	        "uniques": ["Unable to capture cities","[-75]% Gold cost of upgrading",
+	    "upgradesTo": "Musketman",
+	    "uniqueTo": "Costa Rica",
+	    "uniques": ["Unable to capture cities","[-75]% Gold cost of upgrading",
 				"[-100]% Strength <when fighting in [Foreign Land] tiles>",
-			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"],
+				"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"],
 		"promotions": ["[Campesino Patriota] ability"],
 	},
-	{//Cuba's
+	{  //Cuba's
 		"name": "Guerrillero",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Cuba",
@@ -123,7 +123,7 @@
 		"promotions": ["[Tarqui Grenadiers] ability","Home Sweet Home"],
 		"attackSound": "horse"
 	},
-           { //Mexico's
+    { //Mexico's
 		"name": "201 Scuadron",
 		"replaces": "Fighter",
 		"unitType": "Fighter",
@@ -143,7 +143,7 @@
 			    "[+35]% Strength <vs [Fighter] units>"],
 		"attackSound": "machinegun",
 	},
-	{//Panama's
+/*	{ //Panama's
 		"name": "Fuerza Publica",
 		"replaces": "Infantry",
 		"uniqueTo": "Panama",
@@ -157,7 +157,7 @@
 		"uniques": ["[+50]% Strength decreasing with distance from the capital","Limited to [5] per Civilization"]
 		"attackSound": "shot"
 	},
-	{//Panama's
+	{ //Panama's
 		"name": "Buccaneer",
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
@@ -170,7 +170,7 @@
 		"promotions": ["Coastal Raider I"],
 		"uniques": ["May capture killed [Water] units","Can move after attacking"],
 		"attackSound": "cannon"
-	},
+	},*/
 	{ //Paraguay's
 		"name": "Aca Yboty",
 		"replaces": "Landship",

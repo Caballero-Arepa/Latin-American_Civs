@@ -1,12 +1,12 @@
 [
-          { //Argentina's
-                "name": "Tango Theatre",
+    { //Argentina's
+        "name": "Tango Theatre",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
-                "happiness": 1,
-                "culture": 5,
+        "happiness": 1,
+        "culture": 5,
 		"specialistSlots": {"Artist": 3},
 		"uniqueTo": "Argentina",
 		"civilopediaText": [
@@ -73,7 +73,7 @@
 				"text": "Text"
 			}
 		]
-        },
+    },
 /*	{ //Colombia's
 		"name": "Coffee Growers Committee",
 		"isNationalWonder": true,
@@ -84,9 +84,9 @@
 		"uniques": ["[+1 Production] from [Plantation] tiles [in all cities]","[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda ] tiles [in all cities]",
 			"Consumes [4] [Coffee]","Provides [4] [Colombian Coffee]",
 			"[-3 Happiness]","Destroyed when the city is captured"],
-        },*/
-        { //Costa Rica's
-                "name": "Ecotouristic Hotel",
+    },*/
+    { //Costa Rica's
+        "name": "Ecotouristic Hotel",
 		"replaces": "Stock Exchange",
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
@@ -103,7 +103,7 @@
 			}
 		]
 	},
-	{//Cuba's
+	{ //Cuba's
 		"name": "Torcedores",
 		"replaces": "Bank",
 		"uniqueTo": "Cuba",
@@ -208,6 +208,39 @@
 		"civilopediaText": [
 			{
 				"text": "The patriotic castle on the Mexican capital, is a symbol of power and national pride, as it was literally the last bastion of patriotic resistance against the aggressors of the north. The impressive architecture and its privileged position make it a wonder of Mexico."
+			}
+		]
+	},
+	{ //Panama´s
+		"name": "Colon Free Port",
+		"isNationalWonder": true,
+		"replaces": "National Epic",
+		"requiredTech": "Steam Power",
+		"cost": 420,
+		"uniqueTo": "Panama",
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Production] from every [Trading post] [in this city]",
+			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]",
+			"+4 Gold, +1 Culture"],
+		"greatPersonPoints": {"Merchant": 1},
+		"civilopediaText": [
+			{
+				"text": ""
+			}
+		]
+	},
+	{ //Panama´s
+		"name": "The Panama Canal",
+		"isWonder": true,
+		"requiredTech": "Refrigeration",
+		"cost": 1200,
+		"uniqueTo": "Panama",
+		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
+			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles <in cities with a [Harbor]>",
+			"+1 Culture","Creates a [Panama Canal] improvement on a specific tile",],
+		"greatPersonPoints": {"Engineer": 1},
+		"civilopediaText": [
+			{
+				"text": ""
 			}
 		]
 	},
