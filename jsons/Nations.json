@@ -5,6 +5,7 @@
 		"adjective": ["Argentine"],
 		"outerColor": [116, 172, 223],
 		"innerColor": [246, 180, 14],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
@@ -43,6 +44,7 @@
 		"adjective": ["Bolivian"],
 		"outerColor": [228,148,27],
 		"innerColor": [10,121,52],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Mountain",],
 		"preferredVictoryType": "Cultural",
@@ -79,6 +81,7 @@
                 "adjective": ["Brazilian"],
 		"outerColor": [0,155,58],
 		"innerColor": [254,223,0],
+		"spyNames": ["Joao"],
 
                 "startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Scientific",
@@ -119,6 +122,7 @@
 		"adjective": ["Chilean"],
 		"outerColor": [213,43,30],
 		"innerColor": [30,30,100],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Coast", "Desert"],
 		"preferredVictoryType": "Domination",
@@ -157,6 +161,7 @@
 		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
+		"spyNames": ["Camilo"],
 
 		"startBias": ["Hill","Jungle"],
 //  	        "preferredVictoryType": "Cultural",
@@ -195,6 +200,7 @@
                 "adjective": ["Costarican"],
                 "outerColor": [67,48,89],
                 "innerColor": [241,56,79],
+		"spyNames": ["Juan"],
 
                 "startBias": ["Coast","Jungle","Mountain"],
                 "preferredVictoryType": "Cultural",
@@ -227,6 +233,7 @@
 		"adjective": ["Cuban"],
 		"outerColor": [77, 120, 77],
 		"innerColor": [204, 13, 13],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
@@ -253,6 +260,7 @@
 		"adjective": ["Ecuatorian"],
 		"outerColor": [1,57,150],
 		"innerColor": [245,217,0],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Mountain", "Coast"],
 		"preferredVictoryType": "Cultural",
@@ -283,6 +291,7 @@
 		"adjective": ["Salvatorian"],
 		"outerColor": [173,161,161],
 		"innerColor": [0,56,168],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Coast"],
 	"preferredVictoryType": "Cultural",
@@ -313,6 +322,7 @@
 		"adjective": ["Mexican"],
 		"outerColor": [0,104,71],
 		"innerColor": [206,119,78],
+		"spyNames": ["Juancho"],
 
 		"startBias": ["Hill"],
         	"preferredVictoryType": "Diplomatic",
@@ -351,10 +361,11 @@
 		"adjective": ["Panamenian"],
 		"outerColor": [225, 225, 225],
 		"innerColor": [0, 94, 184],
+		"spyNames": ["Juan"],
 
 		"favoredReligion": "Christianity",
 		"startBias": ["Coast", "Jungle"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Welcome again, Belisario, to take the pilot seat of the nation of Panama, one that broke free from their overlords who forgot about them. Once free, the nation has become one of the most important in the world, sitting right through the connection of two oceans, making it essential to global economy.",
 		"startIntroPart2": "Belisario Barahona, are you ready to launch the nation to heights never seen before? Can you make a civilization that can stand the pass of time?",
@@ -367,8 +378,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "I have an offer you can't decline.",
 
-		"uniqueName": "The Panama Canal",
-		"uniques": ["[+4 Gold] from every [Merchant]"],
+		"uniqueName": "Bridge of the World",
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Harbor]","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",],
 
 		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"]
 	},
@@ -378,6 +389,7 @@
 		"adjective": ["Paraguayan"],
                 "outerColor": [173,161,161],
 		"innerColor": [190,0,57],
+		"spyNames": ["Rodrigez"],
 
 		"startBias": ["River","Plains","Forest"],
     		"preferredVictoryType": "Cultural",
@@ -414,6 +426,7 @@
 		"adjective": "Peruvian",
 		"outerColor": [217,16,35],
 		"innerColor": [255,255,255],
+		"spyNames": ["Pedro"],
 
 		"startBias": ["Hill","Coast"],
 		"preferredVictoryType": "Cultural",
@@ -450,6 +463,7 @@
 		"adjective": ["Venezuelan"],
 		"outerColor": [127,0,40],
 		"innerColor": [245,217,0],
+		"spyNames": ["Simón"],
 
 		"startBias": ["Plains","Coast"],
 //		"preferredVictoryType": "Scientific",
