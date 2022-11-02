@@ -188,7 +188,7 @@
 		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
 		"uniqueName": "Colombian Coffee Region & Paramos",
-		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced","[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Civil Service]>"],
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced <after discovering [Fertilizer]>","[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Civil Service]>"],
 
 		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
 				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Pasto","Manizales","Armenia","Arauca",
