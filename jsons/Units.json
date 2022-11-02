@@ -14,6 +14,11 @@
 		"uniqueTo": "Argentina",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"promotions": ["[Gaucho] ability"],
+		"civilopediaText": [
+			{
+				"text": "Men mounted on horse, the skilled Gauchos from the Northern river plains were masters at the livestock work, who were the cogs behind the important livestock economy. Good warriors as well, fighting for independence and conquering the Patagonia for Argentina."
+			}
+		],
 		"attackSound": "horse",
    },
 	{ //Bolivia's
@@ -28,6 +33,11 @@
 		"upgradesTo": "Great War Infantry",
 		"uniqueTo": "Bolivia",
 		"promotions": ["Woodsman"],
+		"civilopediaText": [
+			{
+				"text": "This elite and ferrous unit is not to be underestimated. Their homeland is the only thing they strive for, having a great performance on the wars, although it was not enough for the bad government's strategy."
+			}
+		],
 		"attackSound": "shot",
    },
 	{ //Brasil's
@@ -44,6 +54,11 @@
 		"uniqueTo": "Brazil",
 		"uniques": ["Can move after attacking"],
 		"promotions": ["Ignore terrain cost"],
+		"civilopediaText": [
+			{
+				"text": "Arguably the best piece of military equipment made in Latin America. The EE-09 Cascavel is a tank but on wheels, but a dangerous tank for the enemy, allowing it more agility and versatility in the rough terrains of the continent."
+			}
+		],
 		"attackSound": "tankshot"
 	},
 	{ //Chile's
@@ -61,6 +76,11 @@
 		"upgradesTo": "Battleship",
 		"uniqueTo": "Chile",
 		"promotions": ["[Liberator Scuadron] ability"],
+		"civilopediaText": [
+			{
+				"text": "The patriotic sail men of the squadrons defeated both the Spanish and Peruvian fleets against expectations. They don't fear nor the terrific Pacific nor a heavy Ironclad."
+			}
+		],
 		"attackSound": "shipguns",
 	},
 	{ //Colombia's
@@ -75,6 +95,11 @@
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"promotions": ["[Jungla] ability"],
+		"civilopediaText": [
+			{
+				"text": "The best elite commando units of, arguably, the hemisphere, they specialize in Jungle combat and anti-narcotraffic operations. These spec ops units excel at headhunting, annd they continue to prove their skill to this very day."
+			}
+		],
 		"attackSound": "shot",
         }
      	{//Costa Rica's
@@ -91,6 +116,11 @@
 				"[-100]% Strength <when fighting in [Foreign Land] tiles>",
 			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"],
 		"promotions": ["[Campesino Patriota] ability"],
+		"civilopediaText": [
+			{
+				"text": "Drafted patriotic men willing to give it all for their country's sovereignty. Going through volcanic chains, jungles and forest, these brave warriors fought to the bitter end to give their country hope."
+			}
+		],
 	},
 	{//Cuba's
 		"name": "Guerrillero",
@@ -105,6 +135,11 @@
 		"obsoleteTech": "Plastics",
 		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units"],
 		"promotions": ["Guerrillero ability"],
+		"civilopediaText": [
+			{
+				"text": "These sons of a mother fought on all corners of the world to spread their beloved revolution and founding countless guerrilla groups to be feared, from South America to Africa, causing terror and chaos to the inhabiants."
+			}
+		],
 		"attackSound": "shot"
 	},
 	{ //Ecuador's
@@ -121,6 +156,11 @@
 		"uniqueTo": "Ecuador",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
 		"promotions": ["[Tarqui Grenadiers] ability","Home Sweet Home"],
+		"civilopediaText": [
+			{
+				"text": "Their show of discipline elevated them to be the elite cavalry of equatorial nation. Having fought on harsh terrain, the grenadiers didn't break their discipline."
+			}
+		],
 		"attackSound": "horse"
 	},
            { //Mexico's
@@ -141,6 +181,11 @@
 		"uniqueTo": "Mexico",
 		"uniques": ["[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>",
 			    "[+35]% Strength <vs [Fighter] units>"],
+		"civilopediaText": [
+			{
+				"text": "Fierce pilots who trained and fought with the US against a common enemy, the Empire of Japan. Battling with the unstoppable warriors of Japan on the Pacific Ocean, the brave men earned their respect and marked high the name of their country."
+			}
+		],
 		"attackSound": "machinegun",
 	},
 	{//Panama's
@@ -154,7 +199,12 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["[+50]% Strength decreasing with distance from the capital","Limited to [5] per Civilization"]
+		"uniques": ["[+50]% Strength decreasing with distance from the capital","Limited to [5] per Civilization"],
+		"civilopediaText": [
+			{
+				"text": "missing text"
+			}
+		],
 		"attackSound": "shot"
 	},
 	{//Panama's
@@ -169,6 +219,11 @@
 		"upgradesTo": "Destroyer",
 		"promotions": ["Coastal Raider I"],
 		"uniques": ["May capture killed [Water] units","Can move after attacking"],
+		"civilopediaText": [
+			{
+				"text": "missing text"
+			}
+		],
 		"attackSound": "cannon"
 	},
 	{ //Paraguay's
@@ -185,6 +240,11 @@
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities>",
 				"[-20]% Strength <vs [Armored] units>",
 				"[+20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>"],
+		"civilopediaText": [
+			{
+				"text": "Courageous horsemen who fought to the bitter end, on harsh biomes, climate and conditions, but nevertheless their lion courage made all their acts heroic."
+			}
+		],
 		"attackSound": "horse",
 	},
 	{ //Peru's
@@ -202,6 +262,11 @@
 		"upgradesTo": "Machine Gun",
 		"uniqueTo": "Peru",
 		"uniques": ["Ignores terrain cost"],
+		"civilopediaText": [
+			{
+				"text": "Marching on the Andes is no easy task, even less when you are forced to in order to capture the mayor population centers. But these units did the task as hard as it was."
+			}
+		],
 		"attackSound": "shot",
    },
 	{ //Venezuela's
@@ -217,6 +282,11 @@
 		"uniqueTo": "Venezuela",
 		"uniques": ["Can pass through impassable tiles"],
 		"promotions": ["[Patriot Army] ability","Great Generals I","Shock I"],
+		"civilopediaText": [
+			{
+				"text": "From a rag-tag arm, to one of the most professional ones on the continent, soldiers from three countries join together to earn freedom for their people and the rest of the continent."
+			}
+		],
 		"attackSound": "shot",
 	},
 	{ //Venezuela's
@@ -232,6 +302,11 @@
 		"uniques": ["[+20]% Strength <vs [Barbarian] units>","Can build [Land] improvements on tiles",
 			    "May upgrade to [Archer] through ruins-like effects"],
 		"promotions": ["Ignore terrain cost"],
+		"civilopediaText": [
+			{
+				"text": "Mixed groups of natives and Spaniards created to do a variety of jobs: Patrol the lands, defense against aggressive groups, exercise dominion of the territories, develop infrastructure projects, etc."
+			}
+		],
 		"attackSound": "shot",
      },
 ]
