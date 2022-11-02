@@ -203,32 +203,32 @@
 		"name": "Colon Free Port",
 		"isNationalWonder": true,
 		"replaces": "National Epic",
-		"requiredTech": "Steam Power",
+		"requiredTech": "Dynamite",
 		"cost": 420,
 		"uniqueTo": "Panama",
 		"uniques": ["[+1 Gold] from each Trade Route","[+1 Production] from every [Trading post] [in this city]",
 			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]",
 			"+4 Gold, +1 Culture"],
-		"greatPersonPoints": {"Merchant": 1},
+		"greatPersonPoints": {"Merchant": 2},
 		"civilopediaText": [
 			{
-				"text": ""
+				"text": "Set in a crucial step in navigation of the interoceanic waterway going to the canal, the Free Trade Zone is the biggest in the American continent and second largest in the world, becoming a strategic commerce point from Asia to the Americas."
 			}
 		]
 	},
 	{ //Panama´s
 		"name": "The Panama Canal",
 		"isWonder": true,
-		"requiredTech": "Refrigeration",
+		"requiredTech": "Steam Power",
 		"cost": 1200,
 		"uniqueTo": "Panama",
 		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
 			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles <in cities with a [Harbor]>",
 			"+1 Culture","Creates a [Panama Canal] improvement on a specific tile",],
-		"greatPersonPoints": {"Engineer": 1},
+		"greatPersonPoints": {"Engineer": 2},
 		"civilopediaText": [
 			{
-				"text": ""
+				"text": "Arguably the most important canals on the planet, located at the isthmus of Panama, this impressive works manage to transport ships from ocean to ocean, elevating them over 20 meters and then bringing them down to the other side, saving you from 10,000 miles of sea travel."
 			}
 		]
 	},
@@ -262,8 +262,7 @@
 		"uniques": ["[+1 Culture] from [River] tiles [in this city]","Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
 		"civilopediaText": [
 			{
-				"text": "These Haciendas were formed by migrating Jesuits, and they were one of the reasons for the native people of Paraguay, the Guaranís, remained strong and gave Paraguay its culture, so much so, that the Guaraní is almost as much spoken as Spanish.
-"
+				"text": "These Haciendas were formed by migrating Jesuits, and they were one of the reasons for the native people of Paraguay, the Guaranís, remained strong and gave Paraguay its culture, so much so, that the Guaraní is almost as much spoken as Spanish."
 			}
 		]
 	},
