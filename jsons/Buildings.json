@@ -1,12 +1,12 @@
 [
     { //Argentina's
-        "name": "Tango Theatre",
+		"name": "Tango Theatre",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
-        "happiness": 1,
-        "culture": 5,
+		"happiness": 1,
+		"culture": 5,
 		"specialistSlots": {"Artist": 3},
 		"uniqueTo": "Argentina",
 		"civilopediaText": [
@@ -62,12 +62,16 @@
 	},
 	{ //Colombia's
 		"name": "Coffee Hacienda",
+		"replaces": "Windmill",
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"uniqueTo": "Colombia",
 		"uniques": ["[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
-			"Creates a [Coffee Hacienda ] improvement on a specific tile",
-			"Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
+			    "Creates a [Coffee Hacienda ] improvement on a specific tile",
+			    "[+1 Production, +1 Culture, +1 Gold, +1 Food] from [Coffee Hacienda ] tiles [in this city]",
+			    "+1 Coffee from Coffee Hacienda","+1 Food from Hacienda for every adjacent plantation to it",
+			    "Cannot be build on Desert, Tundra nor Snow, only at Grassland or Plains Hills",
+			    "Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
 		"civilopediaText": [
 			{
 				"text": "Text"
