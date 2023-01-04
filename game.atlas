@@ -11,7 +11,14 @@ BuildingIcons/Chapultepec Castle
   orig: 169, 174
   offset: 0, 0
   index: -1
-BuildingIcons/Coffee Hacienda
+BuildingIcons/Coffee Axis
+  rotate: false
+  xy: 1452, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Coffee Hacienda
   rotate: false
   xy: 1452, 814
   size: 200, 200
@@ -265,21 +272,21 @@ ResourceIcons/Rubber
   index: -1
 TileSets/FantasyHex/Tiles/Capybara
   rotate: false
-  xy: 1976, 804
+  xy: 1997, 372
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Capybara+Pasture
   rotate: false
-  xy: 1997, 368
+  xy: 427, 86
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cocoa
   rotate: false
-  xy: 1219, 154
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -293,30 +300,37 @@ TileSets/FantasyHex/Tiles/Coffee
   index: -1
 TileSets/FantasyHex/Tiles/Coffee+Plantation
   rotate: false
-  xy: 44, 4
+  xy: 1997, 336
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jungle Hills
   rotate: false
-  xy: 1997, 292
+  xy: 1997, 296
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rubber
   rotate: false
-  xy: 1997, 252
+  xy: 1997, 220
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rubber+Lumber mill
   rotate: false
-  xy: 1997, 212
+  xy: 1627, 150
   size: 32, 32
   orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vigilance Post
+  rotate: false
+  xy: 627, 90
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Aca Yboty
@@ -326,51 +340,79 @@ TileSets/FantasyHex/Units/Aca Yboty
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Campesino Patriota
+  rotate: false
+  xy: 1976, 804
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Cascavel
   rotate: false
-  xy: 427, 90
+  xy: 1507, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Colorado
   rotate: false
-  xy: 1997, 332
+  xy: 467, 90
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gaucho
   rotate: false
-  xy: 467, 90
+  xy: 1547, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Liberator Scuadron
-  rotate: false
-  xy: 1259, 154
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Patriot Army
+TileSets/FantasyHex/Units/Jungla
   rotate: false
   xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Peruvian Legion
+TileSets/FantasyHex/Units/Liberator Scuadron
   rotate: false
   xy: 507, 90
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Mixed Militia
+  rotate: false
+  xy: 1587, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mixed Militia-2
+  rotate: false
+  xy: 124, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Patriot Army
+  rotate: false
+  xy: 1997, 260
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Peruvian Legion
+  rotate: false
+  xy: 547, 90
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Tarqui Grenadier
   rotate: false
-  xy: 1299, 154
+  xy: 587, 90
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -431,30 +473,58 @@ TileSets/HexaRealm/Tiles/Coffee
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Coffee+Plantation
+TileSets/HexaRealm/Tiles/Coffee Hacienda
   rotate: false
   xy: 931, 126
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Jungle Hills
+TileSets/HexaRealm/Tiles/Coffee Hacienda-Industrial era
   rotate: false
   xy: 1003, 126
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Rubber
+TileSets/HexaRealm/Tiles/Coffee+Plantation
   rotate: false
   xy: 1075, 126
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Rubber+Lumber mill
+TileSets/HexaRealm/Tiles/Flood plains
   rotate: false
   xy: 1147, 126
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Jungle Hills
+  rotate: false
+  xy: 1219, 126
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rubber
+  rotate: false
+  xy: 1291, 126
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rubber+Lumber mill
+  rotate: false
+  xy: 1363, 126
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Vigilance Post
+  rotate: false
+  xy: 1435, 126
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
