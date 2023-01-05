@@ -71,7 +71,7 @@
 		"hateYes": ["No... *But I have no option...* Fine, I will regret this.", "This is so embarazing"],
 				
 		"uniqueName": "Ethnic Diversity",
-		"uniques": ["Provides 1 happiness per 2 additional social policies adopted","[+1 Happiness, +1 Culture] from every [Courthouse]"],
+		"uniques": ["[+1 Happiness] per [2] social policies adopted","[+1 Happiness, +1 Culture] from every [Courthouse]"],
 
 		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"]
 	},
@@ -157,7 +157,7 @@
             },
 	{
 		"name": "Colombia",
-		"leaderName": "Francisco Paula Santander",
+		"leaderName": "Francisco P. Santander",
 		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
@@ -187,8 +187,8 @@
 		"hateNo": ["Oh God, unacceptable", "This is unbearable."],
 		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
-		"uniqueName": "Colombian Coffee Region & Paramos",
-		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced <after discovering [Fertilizer]>","[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Civil Service]>"],
+		"uniqueName": "Colombian Coffee Region",
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in this city] <with [1] to [6] neighboring [Coffee Hacienda] tiles>"],
 
 		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
 				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Pasto","Manizales","Armenia","Arauca",
@@ -220,8 +220,7 @@
                 "tradeRequest": "This deal will bring prosperity to our nations",
 
                 "uniqueName": "The Reserves of the Volcanoes",
-                "uniques": ["[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>",
-			   "[+1 Gold, +1 Culture] from [Camp] tiles [in all cities]","[+1 Gold, +1 Culture] from [Pasture] tiles [in all cities]"],
+                "uniques": ["[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>"],
 
                 "cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",
 			   "Siquierres","Matina","Atalanta","Uatsi","Katsi","San Isidro","Quepos","Dominical","Palmar Sur","Drake","San Vito",
@@ -349,7 +348,7 @@
 		"hateYes": ["You give me no alternative!", "I have a bad feeling of this..."],
 
 		"uniqueName": "Day of the Death",
-                "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
+                "uniques": ["[+1 Culture, +1 Food] from every [Trading post] <while the empire is happy>", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
 
                 "cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
                             "Merida","Cancun","Chihuahua","Durango","Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
@@ -391,7 +390,7 @@
 		"innerColor": [190,0,57],
 		"spyNames": ["Rodrigez"],
 
-		"startBias": ["River","Plains","Forest"],
+		"startBias": ["River","Plains"],
     		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		

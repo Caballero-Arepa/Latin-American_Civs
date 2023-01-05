@@ -71,11 +71,10 @@
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"uniqueTo": "Colombia",
-		"uniques": ["[+1 Gold, +1 Culture] from [Coffee] tiles [in this city]",
-			    "Creates a [Coffee Hacienda] improvement on a specific tile",
-			    "[+1 Production, +1 Culture, +1 Gold, +1 Food] from [Coffee Hacienda] tiles [in this city]",
-			    "+1 Coffee from Coffee Hacienda","+1 Food from Hacienda for every adjacent plantation to it",
-			    "Cannot be build on Desert, Tundra nor Snow, only at Grassland or Plains Hills",
+		"uniques": ["Creates a [Coffee Hacienda] improvement on a specific tile",
+			    "+1 Coffee from Coffee Hacienda",
+			    "[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda] tiles [in this city]",
+			    "The Hacienda Cannot be build on Desert, Tundra nor Snow, only at Grassland/Plains Hills",
 			    "Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
 		"civilopediaText": [
 			{
@@ -104,8 +103,7 @@
 		"percentStatBonus": {"gold": 25},
 		"uniqueTo": "Costa Rica",
 		"uniques": ["[+1 Gold] from every [Forest] tiles [in this city]","[+1 Gold] from every [Coast] tiles [in this city]",
-			   "[+15]% [Gold] <after discovering [Flight]>",
-			   "[+5 Culture, +5 Gold] <after discovering [Ecology]>"],
+			   "[+15]% [Gold] <after discovering [Flight]>"],
 		"civilopediaText": [
 			{
 				"text": "Pioneers on the ecotourism buisness, added with the Costa Rican landscapes and Caribbean shores, makes of them a great destiny for holiday vacation."
@@ -158,10 +156,9 @@
 		"hurryCostModifier": 40,
 		"culture": 2,
 		"uniqueTo": "Ecuador",
-		"uniques": ["[+2 Culture, +1 Food] from [Mountain] tiles [in this city]",
-			    "[+1 Culture] from [Hill] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-			    "[+1 Science] from [Mountain] tiles [in this city] <after discovering [Flight]>",
-			    "[+2 Culture] <after discovering [Dynamite]>","[+3 Culture] <after discovering [Telecommunications]>",
+		"uniques": ["[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>",
+			    "[+1 Science] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Flight]>",
+			    "[+2 Culture] <after discovering [Dynamite]>",
 			    "Cost increases by [20] per owned city"],
 		"civilopediaText": [
 			{
@@ -257,10 +254,11 @@
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"production": 2,
+		"culture": 1,
 		"percentStatBonus": {"food": 5},
 		"specialistSlots": {"Engineer": 1},
 		"uniqueTo": "Paraguay",
-		"uniques": ["[+1 Culture] from [River] tiles [in this city]","Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
+		"uniques": ["[+1 Culture] from [River] tiles [in this city]","[+10]% Production when constructing [All] buildings [in this city]"],
 		"civilopediaText": [
 			{
 				"text": "These Haciendas were formed by migrating Jesuits, and they were one of the reasons for the native people of Paraguay, the Guaranís, remained strong and gave Paraguay its culture, so much so, that the Guaraní is almost as much spoken as Spanish."
@@ -292,7 +290,7 @@
 		"cost": 300,
 		"hurryCostModifier": 50,
 		"maintenance": 3,
-		"science": 6,
+		"science": 5,
 		"specialistSlots": {"Scientist": 2},
 		"uniqueTo": "Venezuela",
 		"uniques": ["[+1 Science] per [2] population [in this city]","Destroyed when the city is captured"],

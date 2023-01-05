@@ -112,7 +112,7 @@
 		"requiredTech": "Steel",
 	    "upgradesTo": "Musketman",
 	    "uniqueTo": "Costa Rica",
-	    "uniques": ["Unable to capture cities","[-75]% Gold cost of upgrading",
+	    "uniques": ["Unable to capture cities",
 				"[-100]% Strength <when fighting in [Foreign Land] tiles>",
 				"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"],
 		"promotions": ["[Campesino Patriota] ability"],
@@ -281,7 +281,7 @@
 		"upgradesTo": "Great War Infantry",
 		"uniqueTo": "Venezuela",
 		"uniques": ["Can pass through impassable tiles"],
-		"promotions": ["[Patriot Army] ability","Great Generals I","Shock I"],
+		"promotions": ["[Patriot Army] ability","Great Generals I"],
 		"civilopediaText": [
 			{
 				"text": "From a rag-tag arm, to one of the most professional ones on the continent, soldiers from three countries join together to earn freedom for their people and the rest of the continent."
@@ -294,9 +294,9 @@
 		"unitType": "Scout",
 		"replaces": "Scout",
 		"movement": 2,
-		"strength": 7,
-		"cost": 40,
-		"obsoleteTech": "Ballistics",
+		"strength": 5,
+		"cost": 50,
+		"obsoleteTech": "Scientific Theory",
 		"upgradesTo": "Crossbowman",
 		"uniqueTo": "Venezuela",
 		"uniques": ["[+20]% Strength <vs [Barbarian] units>","Can build [Land] improvements on tiles",

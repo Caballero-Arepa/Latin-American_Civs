@@ -15,8 +15,8 @@
 		"name": "Coffee Hacienda",
 		"uniqueTo": "Colombia",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"uniques": ["[+1 Food] for each adjacent [Plantation]","Provides [1] [Coffee]",
-			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles",
+		"uniques": ["Provides [1] [Coffee]",
+			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Does not need removal of [Jungle]",
 			"Great Improvement","Will not be displayed in Civilopedia",
 			"Pillaging this improvement yields approximately [+57 Gold]",
 		]
