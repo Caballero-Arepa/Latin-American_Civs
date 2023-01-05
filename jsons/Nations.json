@@ -452,7 +452,7 @@
 		"hateYes": ["This may be worst deal in the history of deals...", "*frustation noises*", "This should be ilegal. ..."],
 
 		"uniqueName": "Peruvian Gastronomy",
-		"uniques": ["[+1 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
+		"uniques": ["[+2 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
 
 		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"]
   },
@@ -490,8 +490,8 @@
 
 		"uniqueName": "Oil Power",
                 "uniques": ["Double quantity of [Oil] produced",
-			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>",
-			"[+2 Gold, +2 Production] from every [Oil well]",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>",
+			"[+2 Gold, +2 Production] from every [Oil]",
 			"Receive free [Great General] when you discover [Military Science]"],
 
                 "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
