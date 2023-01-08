@@ -81,7 +81,7 @@
 		"innerColor": [254,223,0],
 
                 "startBias": ["Coast", "Jungle"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
 		"startIntroPart1": "Hail to the great emperor of Brazil, the great nation born from Portuguese and natives. The grand nation of Brazil was built upon the Portuguese use of slaves, but in difference with others, they integrated them into their culture, the Portuguese language. Together, mestizos and natives, got themselves independence from Portugal and formed the Empire of Brazil. With cunning diplomacy, fierce force, and resource abundance, Brazil managed to become one of the best in Latin America, with all his resources and culture, certainly they are powerful.",
@@ -380,7 +380,7 @@
 		"innerColor": [190,0,57],
 
 		"startBias": ["River","Plains","Forest"],
-    		"preferredVictoryType": "Cultural",
+    		"preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Good day you may have, loved 'Karaí Guasú'. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they don't actually exist - no matter how big it was, they survived. From, winning against the Spanish Empire, to battling against a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
@@ -452,7 +452,7 @@
 		"innerColor": [245,217,0],
 
 		"startBias": ["Plains","Coast"],
-//		"preferredVictoryType": "Scientific",
+//		"preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Colonel Marcos Perez Jimenez, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fishermen. But our republican history starts when, Francisco de Miranda, a great excellent general, and Simon Bolivar, a Venezuelan strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independence would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the Venezuelan richness would have a rise in the middle of the 20th century, thanks to their resources.",
