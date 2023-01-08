@@ -1,5 +1,5 @@
 [
-          { //Argentina's
+    { //Argentina's
 		"name": "Gaucho",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
@@ -101,20 +101,20 @@
 			}
 		],
 		"attackSound": "shot",
-        }
-     	{//Costa Rica's
-                "name": "Campesino Patriota",
-	        "replaces": "Longswordsman",
-	        "unitType": "Sword",
-	        "movement": 2,
+   },
+    { //Costa Rica's
+        "name": "Campesino Patriota",
+	    "replaces": "Longswordsman",
+	    "unitType": "Sword",
+	    "movement": 2,
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
-	        "upgradesTo": "Musketman",
-	        "uniqueTo": "Costa Rica",
-	        "uniques": ["Unable to capture cities","[-75]% Gold cost of upgrading",
+	    "upgradesTo": "Musketman",
+	    "uniqueTo": "Costa Rica",
+	    "uniques": ["Unable to capture cities",
 				"[-100]% Strength <when fighting in [Foreign Land] tiles>",
-			"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"],
+				"[+15]% Strength <during the [Renaissance era]>","[+62]% Strength <during the [Industrial era]>","[+139]% Strength <during the [Modern era]>"],
 		"promotions": ["[Campesino Patriota] ability"],
 		"civilopediaText": [
 			{
@@ -122,7 +122,7 @@
 			}
 		],
 	},
-	{//Cuba's
+	{  //Cuba's
 		"name": "Guerrillero",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Cuba",
@@ -163,7 +163,7 @@
 		],
 		"attackSound": "horse"
 	},
-           { //Mexico's
+    { //Mexico's
 		"name": "201 Scuadron",
 		"replaces": "Fighter",
 		"unitType": "Fighter",
@@ -188,7 +188,7 @@
 		],
 		"attackSound": "machinegun",
 	},
-	{//Panama's
+/*	{ //Panama's
 		"name": "Fuerza Publica",
 		"replaces": "Infantry",
 		"uniqueTo": "Panama",
@@ -207,7 +207,7 @@
 		],
 		"attackSound": "shot"
 	},
-	{//Panama's
+	{ //Panama's
 		"name": "Buccaneer",
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
@@ -225,7 +225,7 @@
 			}
 		],
 		"attackSound": "cannon"
-	},
+	},*/
 	{ //Paraguay's
 		"name": "Aca Yboty",
 		"replaces": "Landship",
@@ -281,7 +281,7 @@
 		"upgradesTo": "Great War Infantry",
 		"uniqueTo": "Venezuela",
 		"uniques": ["Can pass through impassable tiles"],
-		"promotions": ["[Patriot Army] ability","Great Generals I","Shock I"],
+		"promotions": ["[Patriot Army] ability","Great Generals I"],
 		"civilopediaText": [
 			{
 				"text": "From a rag-tag arm, to one of the most professional ones on the continent, soldiers from three countries join together to earn freedom for their people and the rest of the continent."
@@ -294,9 +294,9 @@
 		"unitType": "Scout",
 		"replaces": "Scout",
 		"movement": 2,
-		"strength": 7,
-		"cost": 40,
-		"obsoleteTech": "Ballistics",
+		"strength": 5,
+		"cost": 50,
+		"obsoleteTech": "Scientific Theory",
 		"upgradesTo": "Crossbowman",
 		"uniqueTo": "Venezuela",
 		"uniques": ["[+20]% Strength <vs [Barbarian] units>","Can build [Land] improvements on tiles",

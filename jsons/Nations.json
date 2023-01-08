@@ -5,6 +5,7 @@
 		"adjective": ["Argentine"],
 		"outerColor": [116, 172, 223],
 		"innerColor": [246, 180, 14],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
@@ -43,6 +44,7 @@
 		"adjective": ["Bolivian"],
 		"outerColor": [228,148,27],
 		"innerColor": [10,121,52],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Mountain",],
 		"preferredVictoryType": "Cultural",
@@ -69,7 +71,7 @@
 		"hateYes": ["No... *But I have no option...* Fine, I will regret this.", "This is so embarazing"],
 				
 		"uniqueName": "Ethnic Diversity",
-		"uniques": ["Provides 1 happiness per 2 additional social policies adopted","[+1 Happiness, +1 Culture] from every [Courthouse]"],
+		"uniques": ["[+1 Happiness] per [2] social policies adopted","[+1 Happiness, +1 Culture] from every [Courthouse]"],
 
 		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"]
 	},
@@ -79,6 +81,7 @@
                 "adjective": ["Brazilian"],
 		"outerColor": [0,155,58],
 		"innerColor": [254,223,0],
+		"spyNames": ["Joao"],
 
                 "startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Scientific",
@@ -119,6 +122,7 @@
 		"adjective": ["Chilean"],
 		"outerColor": [213,43,30],
 		"innerColor": [30,30,100],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Coast", "Desert"],
 		"preferredVictoryType": "Domination",
@@ -153,10 +157,11 @@
             },
 	{
 		"name": "Colombia",
-		"leaderName": "Francisco Paula Santander",
+		"leaderName": "Francisco P. Santander",
 		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
+		"spyNames": ["Camilo"],
 
 		"startBias": ["Hill","Jungle"],
 //  	        "preferredVictoryType": "Cultural",
@@ -182,12 +187,12 @@
 		"hateNo": ["Oh God, unacceptable", "This is unbearable."],
 		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
-		"uniqueName": "Colombian Coffee Region & Paramos",
-		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in all cities]","Double quantity of [Coffee] produced","[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Civil Service]>"],
+		"uniqueName": "Colombian Coffee Region",
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in this city] <with [1] to [6] neighboring [Coffee Hacienda] tiles>"],
 
-		"cities": ["Bogota","Cartagena","Medellin","Barranquilla","Cali","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
-				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Monteria","Pasto","Manizales","Armenia",
-				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Arauca","Yopal","Buga","Sogamoso","San Andres","Leticia"]
+		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
+				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Pasto","Manizales","Armenia","Arauca",
+				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Monteria","Yopal","Buga","Sogamoso","San Andres","Leticia"]
 	},
 	{
                 "name": "Costa Rica",
@@ -195,6 +200,7 @@
                 "adjective": ["Costarican"],
                 "outerColor": [67,48,89],
                 "innerColor": [241,56,79],
+		"spyNames": ["Juan"],
 
                 "startBias": ["Coast","Jungle","Mountain"],
                 "preferredVictoryType": "Cultural",
@@ -214,8 +220,7 @@
                 "tradeRequest": "This deal will bring prosperity to our nations",
 
                 "uniqueName": "The Reserves of the Volcanoes",
-                "uniques": ["[+1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>",
-			   "[+1 Gold, +1 Culture] from [Camp] tiles [in all cities]","[+1 Gold, +1 Culture] from [Pasture] tiles [in all cities]"],
+                "uniques": ["[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>"],
 
                 "cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",
 			   "Siquierres","Matina","Atalanta","Uatsi","Katsi","San Isidro","Quepos","Dominical","Palmar Sur","Drake","San Vito",
@@ -227,6 +232,7 @@
 		"adjective": ["Cuban"],
 		"outerColor": [77, 120, 77],
 		"innerColor": [204, 13, 13],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
@@ -253,6 +259,7 @@
 		"adjective": ["Ecuatorian"],
 		"outerColor": [1,57,150],
 		"innerColor": [245,217,0],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Mountain", "Coast"],
 		"preferredVictoryType": "Cultural",
@@ -283,6 +290,7 @@
 		"adjective": ["Salvatorian"],
 		"outerColor": [173,161,161],
 		"innerColor": [0,56,168],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Coast"],
 	"preferredVictoryType": "Cultural",
@@ -313,6 +321,7 @@
 		"adjective": ["Mexican"],
 		"outerColor": [0,104,71],
 		"innerColor": [206,119,78],
+		"spyNames": ["Juancho"],
 
 		"startBias": ["Hill"],
         	"preferredVictoryType": "Diplomatic",
@@ -339,7 +348,7 @@
 		"hateYes": ["You give me no alternative!", "I have a bad feeling of this..."],
 
 		"uniqueName": "Day of the Death",
-                "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
+                "uniques": ["[+1 Culture, +1 Food] from every [Trading post] <while the empire is happy>", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
 
                 "cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
                             "Merida","Cancun","Chihuahua","Durango","Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
@@ -351,10 +360,11 @@
 		"adjective": ["Panamenian"],
 		"outerColor": [225, 225, 225],
 		"innerColor": [0, 94, 184],
+		"spyNames": ["Juan"],
 
 		"favoredReligion": "Christianity",
 		"startBias": ["Coast", "Jungle"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Welcome again, Belisario, to take the pilot seat of the nation of Panama, one that broke free from their overlords who forgot about them. Once free, the nation has become one of the most important in the world, sitting right through the connection of two oceans, making it essential to global economy.",
 		"startIntroPart2": "Belisario Barahona, are you ready to launch the nation to heights never seen before? Can you make a civilization that can stand the pass of time?",
@@ -367,8 +377,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "I have an offer you can't decline.",
 
-		"uniqueName": "The Panama Canal",
-		"uniques": ["[+4 Gold] from every [Merchant]"],
+		"uniqueName": "The Bridge of the World",
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Harbor]","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",],
 
 		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"]
 	},
@@ -378,8 +388,9 @@
 		"adjective": ["Paraguayan"],
                 "outerColor": [173,161,161],
 		"innerColor": [190,0,57],
+		"spyNames": ["Rodrigez"],
 
-		"startBias": ["River","Plains","Forest"],
+		"startBias": ["River","Plains"],
     		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
@@ -414,6 +425,7 @@
 		"adjective": "Peruvian",
 		"outerColor": [217,16,35],
 		"innerColor": [255,255,255],
+		"spyNames": ["Pedro"],
 
 		"startBias": ["Hill","Coast"],
 		"preferredVictoryType": "Cultural",
@@ -440,7 +452,7 @@
 		"hateYes": ["This may be worst deal in the history of deals...", "*frustation noises*", "This should be ilegal. ..."],
 
 		"uniqueName": "Peruvian Gastronomy",
-		"uniques": ["[+1 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
+		"uniques": ["[+2 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
 
 		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"]
   },
@@ -450,6 +462,7 @@
 		"adjective": ["Venezuelan"],
 		"outerColor": [127,0,40],
 		"innerColor": [245,217,0],
+		"spyNames": ["Simón"],
 
 		"startBias": ["Plains","Coast"],
 //		"preferredVictoryType": "Scientific",
@@ -477,8 +490,8 @@
 
 		"uniqueName": "Oil Power",
                 "uniques": ["Double quantity of [Oil] produced",
-			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil well] tiles>",
-			"[+2 Gold, +2 Production] from every [Oil well]",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>",
+			"[+2 Gold, +2 Production] from every [Oil]",
 			"Receive free [Great General] when you discover [Military Science]"],
 
                 "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
