@@ -221,7 +221,7 @@
 		"cost": 1200,
 		"uniqueTo": "Panama",
 		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
-			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles <in cities with a [Harbor]>",
+			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
 			"+1 Culture","Creates a [Panama Canal] improvement on a specific tile",],
 		"greatPersonPoints": {"Engineer": 2},
 		"civilopediaText": [
