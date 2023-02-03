@@ -291,21 +291,21 @@ ResourceIcons/Rubber
   orig: 400, 400
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Aca Yboty
+TileSets/AbsoluteUnits/Units/Aca Yboty
   rotate: false
   xy: 436, 75
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Jungla
+TileSets/AbsoluteUnits/Units/Jungla
   rotate: false
   xy: 521, 75
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Patriot Army
+TileSets/AbsoluteUnits/Units/Patriot Army
   rotate: false
   xy: 606, 75
   size: 77, 65
