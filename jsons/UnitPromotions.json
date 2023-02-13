@@ -1,7 +1,30 @@
 [
-
-{
+	{
+		"name": "[Gaucho] ability",
+		"uniques": ["[1] Movement","Can build [Pasture] improvements on tiles"]
+	},
+	{
+		"name": "[Liberator Scuadron] ability",
+		"uniques": ["[+35]% Strength <vs cities> <when attacking>", "Double movement in [Coast]"]
+	},
+	{
+		"name": "[Jungla] ability",
+		"uniques": ["[+33]% Strength <when fighting in [Jungle] tiles>", "Ignores terrain cost"]
+	},
+	{
+		"name": "[Campesino Patriota] ability",
+		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>","[+20]% Strength <when fighting in [Friendly Land] tiles>"]
+	},
+	{
 		"name": "Guerrillero ability",
-		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May withdraw before melee ([80]%)"]
+		"uniques": ["May withdraw before melee ([60]%)","May enter foreign tiles without open borders"]
+	},
+	{
+		"name": "[Tarqui Grenadiers] ability",
+		"uniques": ["[+15]% Strength when stacked with [Great General]"]
+	},
+	{
+		"name": "[Patriot Army] ability",
+		"uniques": ["[1] Movement"]
 	},
 ]

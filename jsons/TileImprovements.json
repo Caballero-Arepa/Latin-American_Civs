@@ -1,13 +1,34 @@
 [
-/*	{
+	{
 		"name": "Vigilance Post",
 		"uniqueTo": "El Salvador",
 		"techRequired": "Economics",
+		"replaces": "Fort",
 		"gold": 2,
 		"production": 1,
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Hill","Forest","Jungle"],
 		"turnsToBuild": 9,
 		"uniques": ["Gives a defensive bonus of [25]%", "Adjacent enemy units ending their turn take [10] damage",
 				"Costs [1] gold per turn when in your territory"],
-	},*/
+	},
+	{
+		"name": "Coffee Hacienda",
+		"uniqueTo": "Colombia",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"uniques": ["Provides [1] [Coffee]",
+			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Does not need removal of [Jungle]",
+			"Great Improvement","Will not be displayed in Civilopedia",
+			"Pillaging this improvement yields approximately [+57 Gold]",
+		]
+	},
+	{
+		"name": "Panama Canal",
+		"uniqueTo": "Panama",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
+		"uniques": ["[+1 Gold] for each adjacent [Coast]"
+			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles",
+			"Removes removable features when built", "Costs [1] gold per turn when in your territory",
+			"Great Improvement","Will not be displayed in Civilopedia","Unpillagable","Irremovable"
+		],
+	},
 ]

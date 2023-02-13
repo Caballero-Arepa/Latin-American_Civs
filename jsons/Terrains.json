@@ -35,7 +35,7 @@
 	"occursOn": ["Plains","Grassland","Hill"],
 	"uniques": ["Rough terrain",
 			"Blocks line-of-sight from tiles at same elevation",
-			"Resistant to nukes", "Can be destroyed by nukes",
+			"[25]% Chance to be destroyed by nukes",
 			"Doesn't generate naturally"]
 	},
 ]

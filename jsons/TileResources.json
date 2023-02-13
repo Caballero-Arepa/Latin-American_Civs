@@ -35,6 +35,11 @@
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1,"gold": 1},
 	},
+		{
+		"name": "Colombian Coffee", //Unique to Colombia, doesn't spawn on the map
+		"resourceType": "Luxury",
+		"gold": 1,
+	},
 	{
 		"name": "Cuban Cigars", //Unique to Cuba, doesn't spawn on map
 		"resourceType": "Luxury",
@@ -48,5 +53,13 @@
 		"gold": 1,
 		"improvement": "Lumber mill",
 		"improvementStats": {"food": -2,"production": 1,"gold": 1},
+	},
+	{
+		"name": "Capybara",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"food": 1},
 	},
 ]

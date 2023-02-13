@@ -5,6 +5,7 @@
 		"adjective": ["Argentine"],
 		"outerColor": [116, 172, 223],
 		"innerColor": [246, 180, 14],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
@@ -43,8 +44,9 @@
 		"adjective": ["Bolivian"],
 		"outerColor": [228,148,27],
 		"innerColor": [10,121,52],
+		"spyNames": ["Juan"],
 
-		"startBias": ["Hill", "Forest", "Avoid [Coast]"],
+		"startBias": ["Mountain",],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
@@ -69,7 +71,7 @@
 		"hateYes": ["No... *But I have no option...* Fine, I will regret this.", "This is so embarazing"],
 				
 		"uniqueName": "Ethnic Diversity",
-		"uniques": ["Provides 1 happiness per 2 additional social policies adopted","[+1 Happiness, +1 Culture] from every [Courthouse]"],
+		"uniques": ["[+1 Happiness] per [2] social policies adopted","[+1 Happiness, +1 Culture] from every [Courthouse]"],
 
 		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"]
 	},
@@ -79,6 +81,7 @@
                 "adjective": ["Brazilian"],
 		"outerColor": [0,155,58],
 		"innerColor": [254,223,0],
+		"spyNames": ["Joao"],
 
                 "startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Scientific",
@@ -119,6 +122,7 @@
 		"adjective": ["Chilean"],
 		"outerColor": [213,43,30],
 		"innerColor": [30,30,100],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Coast", "Desert"],
 		"preferredVictoryType": "Domination",
@@ -147,19 +151,20 @@
 
 		"uniqueName": "Mining Riches",
 		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
-			   "[+1 Gold] from every [Mine] <during a Golden Age>", "[-15]% Golden Age length"],
+			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
 
 		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
             },
 	{
 		"name": "Colombia",
-		"leaderName": "Francisco Paula Santander",
+		"leaderName": "Francisco P. Santander",
 		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
+		"spyNames": ["Camilo"],
 
 		"startBias": ["Hill","Jungle"],
-  	        "preferredVictoryType": "Cultural",
+//  	        "preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Be welcomed, president. You lead the beautiful and rich nation of Colombia, a country with great cultural and biodiversity.\nThe attempts to break free got terribly punished,  but with unity and strength, Colombia managed independence with the help of Simon Bolivar, to later form his ambitious project of the Gran Colombia. Since the start we had a ton of great political division, which brought many, many problems and conflicts, but despite all the troubles, Colombia ought to help others, no matter what. The conflicts didn't cease until the early 21st century, where the sun finally rises over Colombia to achieve greatness.",
@@ -182,31 +187,68 @@
 		"hateNo": ["Oh God, unacceptable", "This is unbearable."],
 		"hateYes": ["I won't tolerate this anymore in the future.", "I could be lynched for this!"],
 
-		"uniqueName": "Colombian Coffee Region & Paramos",
-		"uniques": ["Double quantity of [Coffee] produced","[+3 Food] from every [Mountain]"],
+		"uniqueName": "Colombian Coffee Region",
+		"uniques": ["[+1 Food, +1 Culture] from [Plantation] tiles [in this city] <with [1] to [6] neighboring [Coffee Hacienda] tiles>"],
 
-		"cities": ["Bogota","Cartagena","Medellin","Barranquilla","Cali","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
-				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Monteria","Pasto","Manizales","Armenia",
-				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Arauca","Yopal","Buga","Sogamoso","San Andres","Leticia"]
+		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
+				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Pasto","Manizales","Armenia","Arauca",
+				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Monteria","Yopal","Buga","Sogamoso","San Andres","Leticia"]
 	},
+	{
+                "name": "Costa Rica",
+                "leaderName": "Juan Mora Porras",
+                "adjective": ["Costarican"],
+                "outerColor": [67,48,89],
+                "innerColor": [241,56,79],
+		"spyNames": ["Juan"],
+
+                "startBias": ["Coast","Jungle","Mountain"],
+                "preferredVictoryType": "Cultural",
+                "favoredReligion": "Christianity",
+        
+                "startIntroPart1": "Don Juanito, nickname that stayed for the posterity as a token of affection from the 'ticos' to your heroic actions, those that remarked the name of the Republic of Costa Rica in the highest spots of the American continent. Your succesful campaign against William Walker's freebooters in 1857 and your innumerable socio-economic contributions brought wellness and peace to Costa Rica, you governed over this small nation in the heart of Central America, surrounded by it's leafy jungles, majestic forests and volcanic chains, always full of life and diversity of all types, and you turned it into a prosperity path and a progress symbol of Central America.",
+                "startIntroPart2": "Don Juanito, the costa rican people need you, once again, to follow the path of greatness. ¿Can you lead the ticos to the glory? ¿Can you make a civilization that stand the test of time?",
+                
+                "introduction":  "Greetings, welcome to our rich coasts and beautiful land. Pura vida!",
+                "declaringWar": "Your nation menaces the peace and sovereignty of our country. Prepare for war.",
+                "attacked": "Fine, ticos will rise in arms to defende the peace of our nation.",
+                "afterPeace": "I hope these catastrophic events never to happen between our countries again.",
+                "defeated": "You have destroyed our idyll of harmony and peace. May god judge your actions against the people of Costa Rica.",
+
+                "neutralHello": "Welcome amigo!",
+                "hateHello": "Did you lose something?",
+                "tradeRequest": "This deal will bring prosperity to our nations",
+
+                "uniqueName": "The Reserves of the Volcanoes",
+                "uniques": ["[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>"],
+
+                "cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",
+			   "Siquierres","Matina","Atalanta","Uatsi","Katsi","San Isidro","Quepos","Dominical","Palmar Sur","Drake","San Vito",
+			   "Puerto Kiménez","Corredor"]
+        },
 	{
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
 		"adjective": ["Cuban"],
+		"outerColor": [77, 120, 77],
+		"innerColor": [204, 13, 13],
+		"spyNames": ["Juan"],
+
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-            "startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "All glory to the revolution! We are ready for your comeback, mighty Castro - the unkillable leader - Now, take part in this and take the Cuban revolution to the next step. As you know, the splendid island of Cuba is full of cultural richness and a prosperous land. After the liberation from first the Spanish empire, and then the American overlords, Cuba broke free from foreign rule to forge its own destiny.",
+		"startIntroPart2": "Now loco, are you ready to begin to voyage to spread freedom to the peoples? Can you build a civilization that can stand the pass of time?",
+
+		"introduction": "Welcome to Cuba, where education is a human right.",
 		"declaringWar": "Why should some be miserably poor, so that others can be hugely rich?",
 		"attacked": "A revolution is a struggle to the death...",
 		"defeated": "I'm not attached to anything, it' my duty to do my duty. I always thought I would die with the boots on.",
-		"introduction": "Welcome to Cuba, where education is a human right.",
 		"neutralHello": "Hello.",
 		"hateHello": "Go away!",
 		"tradeRequest": "Please, sit down and have a cigar. I've something to offer.",
-		"outerColor": [77, 120, 77],
-		"innerColor": [204, 13, 13],
-            "favoredReligion": "Christianity",
+
 		"uniqueName": "Long live the Revolution!",
 		"uniques": ["Receive a free Social Policy each time you complete a Factory, Public School or Hospital in the capital"],
 		"cities": ["Havana","Santiago de Cuba","Camaguey","Holguin","Guantanamo","Santa Clara","Las Tunas","Bayamo","Cienfuegos","Pinar del Rio","Matanzas","Ciego de Avila","Sancti Spiritus","Manzanillo","Cardenas","Palma Soriano","Moa","Florida","Moron","Nueva Gerona"]
@@ -217,6 +259,7 @@
 		"adjective": ["Ecuatorian"],
 		"outerColor": [1,57,150],
 		"innerColor": [245,217,0],
+		"spyNames": ["Juan"],
 
 		"startBias": ["Mountain", "Coast"],
 		"preferredVictoryType": "Cultural",
@@ -233,14 +276,7 @@
 
 		"neutralHello": "How have you been?",
 		"hateHello": "When will you stop asking for pathetic stuff?",
-
 		"tradeRequest": "The nation proposes you the following deal:",
-//	"neutralLetsHearIt": "  ",
-//	"hateLetsHearIt": "  ",
-//	"neutralNo": "  ",
-//	"neutralYes": "  ",
-//	"hateNo": "  ",
-//	"hateYes": "  ",
 		
 		"uniqueName": "Galapagos Islands",
 		"uniques": ["[+50]% [Gold] from every [Water resource]", 
@@ -248,52 +284,47 @@
 
 		"cities": ["Quito","Guayaquil","Cuenca","Esmeraldas","Riobamba","Loja","Ambato","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
 	},
-/*       {
-	"name": "El Salvador",
-	"leaderName": "Nayib Bukelele",
-	"adjective": ["Salvatorian"],
-	"outerColor": [173,161,161],
-	"innerColor": [0,56,168],
+	{
+		"name": "El Salvador",
+		"leaderName": "Nayib Bukelele",
+		"adjective": ["Salvatorian"],
+		"outerColor": [173,161,161],
+		"innerColor": [0,56,168],
+		"spyNames": ["Juan"],
 
-	"startBias": ["Coast","Avoid [Tundra]","Avoid [Desert]"],
-//	"preferredVictoryType": "Victory type",
-	"favoredReligion": "Christianity",
+		"startBias": ["Coast"],
+	"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
 
-//	"startIntroPart1": "intro",
-//	"startIntroPart2": "close",
+		"startIntroPart1": "Order! Welcome strog lider, Nayib, you are here to end the decades of conflict and criminal activity in Salvador, 'the Tom Thumb of America', which has had no rest from criminals on it's history.",
+		"startIntroPart2": "Now it is in your job to bring peace and prosperity to the little nation. Now, can you do it? Will you take the right economic decisions? Can you build a civilization that can stand the pass of time?",
 
-//	"introduction": "Speech?",
-//	"declaringWar": "Frase",
-//	"attacked": "Frase",
-//	"afterPeace": "Frase",
-//	"defeated": "Speech",
+		"introduction": "Hi hi, I'm Nayib Bukele, bringer of order to my people.",
+		"declaringWar": "Your land is a caos, it needs to be tied up.",
+		"attacked": "Ah, so you were the one cooperating with the criminal, aren't you? So good that you face off.",
+		"afterPeace": "Keep away your conflictive manners of my land.",
+		"defeated": "May you govern better than I did.",
 
-//	"neutralHello": "Greetings",
-//	"hateHello": "frase",
-
-//	"tradeRequest": "Asking for trade",
-//	"neutralLetsHearIt": "  ",
-//	"hateLetsHearIt": "  ",
-//	"neutralNo": "  ",
-//	"neutralYes": "  ",
-//	"hateNo": "  ",
-//	"hateYes": "  ",
+		"neutralHello": "Hi, how are ya?",
+		"hateHello": "Out!",
+		"tradeRequest": "This will bring prosperity!",
 		
-	"uniqueName": "Territorial Control Plan",
-	"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
+		"uniqueName": "Territorial Control Plan",
+		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
 			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]"],
 
-	"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
-	},*/
+		"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
+	},
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 		"outerColor": [0,104,71],
 		"innerColor": [206,119,78],
+		"spyNames": ["Juancho"],
 
-		"startBias": ["Avoid [Tundra]", "Hill"],
-        	"preferredVictoryType": "Cultural",
+		"startBias": ["Hill"],
+        	"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 
 		"startIntroPart1": "Ay! Greetings Mr. president. You lead the famous and cultured nation of Mexico. On the ruins of Tenochtitlan, the Aztec capital, and on top of the lake, Mexico City stands on what was one of the empires crushed by the Spanish. A heroic independence did not give stability to the wonderful nation, as it's political conflict lead to many unfortunate events, but when it's needed Mexico unites against foreign aggressors and do the best they can. Even with internal struggles, and bad geography, Mexico is one of the most influential cultures of America.",
@@ -317,7 +348,7 @@
 		"hateYes": ["You give me no alternative!", "I have a bad feeling of this..."],
 
 		"uniqueName": "Day of the Death",
-                "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
+                "uniques": ["[+1 Culture, +1 Food] from every [Trading post] <while the empire is happy>", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
 
                 "cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
                             "Merida","Cancun","Chihuahua","Durango","Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
@@ -326,11 +357,18 @@
 	{
 		"name": "Panama",
 		"leaderName": "Belisario P. Barahona",
-		"adjective": ["Panamanian"],
+		"adjective": ["Panamenian"],
+		"outerColor": [225, 225, 225],
+		"innerColor": [0, 94, 184],
+		"spyNames": ["Juan"],
+
+		"favoredReligion": "Christianity",
 		"startBias": ["Coast", "Jungle"],
-		"preferredVictoryType": "Diplomatic",
-            "startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Welcome again, Belisario, to take the pilot seat of the nation of Panama, one that broke free from their overlords who forgot about them. Once free, the nation has become one of the most important in the world, sitting right through the connection of two oceans, making it essential to global economy.",
+		"startIntroPart2": "Belisario Barahona, are you ready to launch the nation to heights never seen before? Can you make a civilization that can stand the pass of time?",
+
 		"declaringWar": "Prepare for war!",
 		"attacked": "The World will hear of this...",
 		"defeated": "Congrats.",
@@ -338,11 +376,10 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I have an offer you can't decline.",
-		"outerColor": [225, 225, 225],
-		"innerColor": [0, 94, 184],
-            "favoredReligion": "Christianity",
-		"uniqueName": "The Panama Canal",
-		"uniques": ["[+4 Gold] from every [Merchant]"],
+
+		"uniqueName": "The Bridge of the World",
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Harbor]","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",],
+
 		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"]
 	},
 	{
@@ -350,9 +387,10 @@
 		"leaderName": "Gaspar R. Francia",
 		"adjective": ["Paraguayan"],
                 "outerColor": [173,161,161],
-		"innerColor": [0,56,168],
+		"innerColor": [190,0,57],
+		"spyNames": ["Rodrigez"],
 
-		"startBias": ["River","Plains","Forest"],
+		"startBias": ["River","Plains"],
     		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
@@ -377,7 +415,7 @@
 		"hateYes": "How is it possible to bare this 'deal'?",
 
 		"uniqueName": "Guarani Strenght",
-		"uniques": ["[+2 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
+		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
 
 		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",]
 	},
@@ -387,6 +425,7 @@
 		"adjective": "Peruvian",
 		"outerColor": [217,16,35],
 		"innerColor": [255,255,255],
+		"spyNames": ["Pedro"],
 
 		"startBias": ["Hill","Coast"],
 		"preferredVictoryType": "Cultural",
@@ -413,7 +452,7 @@
 		"hateYes": ["This may be worst deal in the history of deals...", "*frustation noises*", "This should be ilegal. ..."],
 
 		"uniqueName": "Peruvian Gastronomy",
-		"uniques": ["[+1 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
+		"uniques": ["[+2 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
 
 		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"]
   },
@@ -423,6 +462,7 @@
 		"adjective": ["Venezuelan"],
 		"outerColor": [127,0,40],
 		"innerColor": [245,217,0],
+		"spyNames": ["Simón"],
 
 		"startBias": ["Plains","Coast"],
 //		"preferredVictoryType": "Scientific",
@@ -449,7 +489,10 @@
 		"hateYes": "This very well could be a shame to the nation.",
 
 		"uniqueName": "Oil Power",
-                "uniques": ["Double quantity of [Oil] produced","[+2 Gold, +1 Happiness] from every [Oil well]", "Receive free [Great General] when you discover [Military Science]"],
+                "uniques": ["Double quantity of [Oil] produced",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>",
+			"[+2 Gold, +2 Production] from every [Oil]",
+			"Receive free [Great General] when you discover [Military Science]"],
 
                 "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
 	},
