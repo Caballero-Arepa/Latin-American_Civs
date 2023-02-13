@@ -1,11 +1,7 @@
 [
 	{
 		"name": "[Gaucho] ability",
-<<<<<<< HEAD
 		"uniques": ["[1] Movement","Can build [Pasture] improvements on tiles"]
-=======
-		"uniques": ["[+1] Movement","Can build [Pasture] improvements on tiles"]
->>>>>>> b1ef05c3cba65ae10618de064459a47d64425659
 	},
 	{
 		"name": "[Liberator Scuadron] ability",
@@ -29,10 +25,6 @@
 	},
 	{
 		"name": "[Patriot Army] ability",
-<<<<<<< HEAD
 		"uniques": ["[1] Movement"]
-=======
-		"uniques": ["[+1] Movement"]
->>>>>>> b1ef05c3cba65ae10618de064459a47d64425659
 	},
 ]
