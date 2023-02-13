@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Camp", //modified to accomodate terrain/resource changes
+		"turnsToBuild": 7,
+		"techRequired": "Trapping",
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","Does not need removal of [Marsh]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "C"
+	},
+	{
 		"name": "Vigilance Post",
 		"uniqueTo": "El Salvador",
 		"techRequired": "Economics",

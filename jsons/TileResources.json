@@ -3,39 +3,53 @@
 	{
 		"name": "Cattle",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"terrainsCanBeFoundOn": ["Grassland", "Plains"],
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles>",
+				"Generated on every [24] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"
+				"Generated on every [30] tiles <in [Featureless] [Plains] tiles>",]
 	},
 	{
 		"name": "Sheep",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"terrainsCanBeFoundOn": ["Hill","Plains"],
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [16] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+				"Generated on every [12] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>",
+				"Generated on every [20] tiles <in [Plains] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Hill]> <in tiles without [Fresh Water]> <in [Hill] Regions>"
+                       ]
 	},
+
 	// New
 	{
-		"name": "Cocoa", 
+		"name": "Cocoa",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Jungle"],
 		"food": 1,
 		"gold": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1,"gold": 1},
+		"uniques": ["Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [40] <in [Jungle] Regions>",
+					"Generated near City States with weight [20]",
+					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
-		{
-		"name": "Coffee", 
+	{
+		"name": "Coffee",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"],
+		"terrainsCanBeFoundOn": ["Hill","Jungle"],
+		"food": 1,
 		"gold": 1,
-		"production": 1,
 		"improvement": "Plantation",
-		"improvementStats": {"food": 1,"gold": 1},
+		"improvementStats": {"production": 1,"gold": 1},
+		"uniques": ["Generated on every [40] tiles <in [Hill] tiles> <in tiles without [Forest]>",
+					"Generated on every [10] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
 	},
-		{
+	{
 		"name": "Colombian Coffee", //Unique to Colombia, doesn't spawn on the map
 		"resourceType": "Luxury",
 		"gold": 1,
@@ -45,21 +59,28 @@
 		"resourceType": "Luxury",
 		"gold": 1
 	},
-		{
-		"name": "Rubber", 
-		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest"],
+	{
+		"name": "Rubber",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
 		"production": 1,
-		"gold": 1,
 		"improvement": "Lumber mill",
-		"improvementStats": {"food": -2,"production": 1,"gold": 1},
+		"improvementStats": {"food": -1,"production": 1,"gold": 1},
+		"uniques": ["Generated on every [12] tiles <in [Jungle] tiles>",
+					"Generated on every [15] tiles <in [Jungle] tiles> <in [Hill] Regions>",
+					"Doesn't generate naturally <in [Hill] tiles>"
+                       ]
 	},
 	{
 		"name": "Capybara",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Plains"],
-		"food": 1,
-		"improvement": "Pasture",
+		"terrainsCanBeFoundOn": ["Grassland","Marsh","Flood plains"],
+		"gold": 1,
+		"improvement": "Camp",
 		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [5] tiles <in [Flood plains] tiles>",
+					"Generated on every [4] tiles <in [Marsh] tiles>",
+					"Generated on every [30] tiles <in [Featureless] [Grassland] tiles>"
+                       ]
 	},
 ]
