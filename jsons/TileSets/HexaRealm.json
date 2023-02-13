@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "useColorAsBaseTerrain": "false",
     "fallbackTileSet": "FantasyHex",
@@ -18,4 +19,26 @@
 	"Grassland+Forest+Rubber": ["Grassland","ForestGUp","Rubber", "ForestGLow"],
 	"Plains+Forest+Rubber": ["Plains","ForestPUp","Rubber", "ForestPLow"],
 	}
+=======
+{
+    "useColorAsBaseTerrain": "false",
+    "fallbackTileSet": "FantasyHex",
+    "ruleVariants": {
+	"Grassland+Hill+Jungle": ["Grassland+Hill","JungleG"],
+	"Plains+Hill+Jungle": ["Plains+Hill","JungleP"],
+
+	"Grassland+Jungle+Cocoa": ["Grassland","JungleGUp","Cocoa", "JungleGLow"],
+	"Plains+Jungle+Cocoa": ["Plains","JunglePUp","Cocoa", "JunglePLow"],
+
+	"Grassland+Jungle+Coffee": ["Grassland","JungleGUp","Coffee", "JungleGLow"],
+	"Plains+Jungle+Coffee": ["Plains","JunglePUp","Coffee", "JunglePLow"],
+	"Grassland+Hill+Jungle+Coffee": ["Grassland+Hill","JungleGUp","Coffee", "JungleGLow"],
+	"Plains+Hill+Jungle+Coffee": ["Plains+Hill","JunglePUp","Coffee", "JunglePLow"],
+
+	"Grassland+Jungle+Rubber": ["Grassland","JungleGUp","Rubber", "JungleGLow"],
+	"Plains+Jungle+Rubber": ["Plains","JunglePUp","Rubber", "JunglePLow"],
+	"Grassland+Forest+Rubber": ["Grassland","ForestGUp","Rubber", "ForestGLow"],
+	"Plains+Forest+Rubber": ["Plains","ForestPUp","Rubber", "ForestPLow"],
+	}
+>>>>>>> b1ef05c3cba65ae10618de064459a47d64425659
 }
