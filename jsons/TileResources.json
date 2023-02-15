@@ -23,21 +23,16 @@
 		"name": "Colombian Coffee", //Unique to Colombia, doesn't spawn on the map
 		"resourceType": "Luxury",
 		"gold": 1,
-		"improvementStats": {"production": 1,"gold": 1},
-		"uniques": ["Generated on every [45] tiles <in [Hill] tiles> <in tiles without [Forest]>",
-					"Generated on every [10] tiles <in [Jungle] tiles> <in [Hill] Regions>",
-					"Doesn't generate naturally <in [Tundra] tiles>","Doesn't generate naturally <in [Snow] tiles>",
-					"Doesn't generate naturally <in [Desert] tiles>"]
 	},
 	{
 		"name": "Cuban Cigars", //Unique to Cuba, doesn't spawn on map
 		"resourceType": "Luxury",
 		"gold": 1
 	},
-{
-		"name": "Rubber",
+		{
+		"name": "Rubber", 
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest"],
 		"production": 1,
 		"gold": 1,
 		"improvement": "Lumber mill",
@@ -50,6 +45,6 @@
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [4] tiles <in [Marsh] tiles>","Generated on every [18] tiles <in [River] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"]]
+		"uniques": ["Generated on every [4] tiles <in [Marsh] tiles>","Generated on every [18] tiles <in [River] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"]
 	},
 ]
