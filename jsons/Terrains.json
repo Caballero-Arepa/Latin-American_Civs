@@ -8,8 +8,7 @@
 		"defenceBonus": -0.15,
 		"occursOn": ["Grassland", "Plains"],
 		"uniques": ["Rare feature",
-					"[+2] to Fertility for Map Generation",
-					"Considered [Food] when determining start locations"
+					"[+1] to Fertility for Map Generation",
 					"Every [9] tiles with this terrain will receive a major deposit of a strategic resource."],
 		"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
 	},
@@ -25,32 +24,6 @@
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"]
 	},
-	{
-		"name": "Grassland",
-		"type": "Land",
-		"food": 2,
-		"movementCost": 1,
-        "RGB": [97,171,58],
-        "uniques": ["Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
-            "Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
-            "Occurs at temperature between [-0.5] and [0.5] and humidity between [0.6] and [0.8]",
-            "Occurs at temperature between [-0.5] and [1] and humidity between [0.9] and [1]",
-            "Occurs at temperature between [0.9] and [1] and humidity between [0.2] and [1]",
-            "Occurs at temperature between [0.8] and [0.9] and humidity between [0.6] and [1]",
-            "Occurs at temperature between [0.7] and [0.8] and humidity between [0.7] and [1]",
-            "Occurs at temperature between [0.6] and [0.8] and humidity between [0.4] and [0.6]",
-            "[+3] to Fertility for Map Generation",
-            "Becomes [Flood plains] when adjacent to [River]",
-            "A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
-            "A Region can not contain more [Plains] tiles than [Grassland] tiles",
-            "Considered [Desirable] when determining start locations",
-            "Considered [Food] when determining start locations <in [Jungle] Regions>",
-            "Considered [Food] when determining start locations <in [Forest] Regions>",
-            "Considered [Food] when determining start locations <in [Hill] Regions>",
-            "Considered [Food] when determining start locations <in [Grassland] Regions>",
-            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
-    },
 	{
 		"name": "Plains",
 		"type": "Land",
