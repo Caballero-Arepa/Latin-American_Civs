@@ -1,4 +1,12 @@
 [
+//changed
+	{
+		"name": "Pasture",
+		"turnsToBuild": 8,
+		"techRequired": "Animal Husbandry",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","Does not need removal of [Marsh]"],
+		"shortcutKey": "P"
+	},
 	{
 		"name": "Vigilance Post",
 		"uniqueTo": "El Salvador",
