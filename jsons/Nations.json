@@ -3,7 +3,7 @@
                 "name": "Argentina",
 		"leaderName": "Julio Roca",
 		"adjective": ["Argentine"],
-		"outerColor": [81, 120, 156],
+		"outerColor": [116, 172, 223],
 		"innerColor": [248, 202, 86],
 		"spyNames": ["Juan"],
 
@@ -320,7 +320,7 @@
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 		"outerColor": [0, 88, 60],
-		"innerColor": [213, 139, 104],
+		"innerColor": [206, 119, 78],
 		"spyNames": ["Juancho"],
 
 		"startBias": ["Hill"],
