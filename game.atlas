@@ -291,340 +291,417 @@ ResourceIcons/Rubber
   orig: 400, 400
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Capybara
-  rotate: false
-  xy: 1989, 693
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Capybara+Pasture
-  rotate: false
-  xy: 1989, 653
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Cocoa
-  rotate: false
-  xy: 1714, 47
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coffee
-  rotate: false
-  xy: 1754, 40
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coffee Hacienda
-  rotate: false
-  xy: 1794, 47
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coffee+Plantation
-  rotate: false
-  xy: 1834, 83
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Jungle Hills
-  rotate: false
-  xy: 1866, 353
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Panama Canal
-  rotate: false
-  xy: 1866, 209
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Rubber
-  rotate: false
-  xy: 1906, 252
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Rubber+Lumber mill
-  rotate: false
-  xy: 1906, 212
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vigilance Post
-  rotate: false
-  xy: 1946, 328
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Aca Yboty
-  rotate: false
-  xy: 1714, 83
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Bucaneer
-  rotate: false
-  xy: 1754, 80
-  size: 32, 31
-  orig: 32, 31
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Campesino Patriota
-  rotate: false
-  xy: 1794, 83
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Cascavel
-  rotate: false
-  xy: 1989, 617
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Colorado
-  rotate: false
-  xy: 1834, 47
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/First of Line
-  rotate: false
-  xy: 1622, 19
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Gaucho
-  rotate: false
-  xy: 1662, 19
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Guerrillero
-  rotate: false
-  xy: 1702, 11
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Jungla
-  rotate: false
-  xy: 1742, 4
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Liberator Scuadron
-  rotate: false
-  xy: 1866, 317
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Llanero fighter
-  rotate: false
-  xy: 1866, 281
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mixed Militia
-  rotate: false
-  xy: 1866, 245
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Patriot Army
-  rotate: false
-  xy: 1906, 364
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Peruvian Legion
-  rotate: false
-  xy: 1906, 328
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rabona
-  rotate: false
-  xy: 1906, 292
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Tarqui Grenadier
-  rotate: false
-  xy: 1946, 364
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Capybara
-  rotate: false
-  xy: 686, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Capybara+Pasture
-  rotate: false
-  xy: 830, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Capybara+Pasture2
-  rotate: false
-  xy: 902, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Capybara+Pasture3
-  rotate: false
-  xy: 974, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Capybara2
-  rotate: false
-  xy: 758, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Cocoa
-  rotate: false
-  xy: 1046, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Cocoa+Plantation
-  rotate: false
-  xy: 1118, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Coffee
-  rotate: false
-  xy: 1190, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Coffee Hacienda
-  rotate: false
-  xy: 1262, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Coffee Hacienda-Industrial era
-  rotate: false
-  xy: 1334, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Coffee+Plantation
-  rotate: false
-  xy: 1406, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Flood plains
-  rotate: false
-  xy: 1478, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Jungle Hills
-  rotate: false
-  xy: 1550, 13
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Panama Canal
-  rotate: false
-  xy: 1642, 119
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Rubber
-  rotate: false
-  xy: 1714, 119
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Rubber+Lumber mill
-  rotate: false
-  xy: 1786, 119
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Vigilance Post
-  rotate: false
-  xy: 1642, 55
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Aca Yboty
+TileSets/AbsoluteUnits/Units/Aca Yboty
   rotate: false
   xy: 346, 4
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Gaucho
+TileSets/AbsoluteUnits/Units/Aca Yboty-Paraguay
+  rotate: false
+  xy: 346, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yboty-1
   rotate: false
   xy: 431, 4
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Jungla
+TileSets/AbsoluteUnits/Units/Aca Yboty-2
   rotate: false
   xy: 516, 4
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Patriot Army
+TileSets/AbsoluteUnits/Units/Gaucho
   rotate: false
   xy: 601, 4
   size: 77, 65
   orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gaucho-Argentina
+  rotate: false
+  xy: 601, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gaucho-1
+  rotate: false
+  xy: 686, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gaucho-2
+  rotate: false
+  xy: 771, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jungla
+  rotate: false
+  xy: 856, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Llanero fighter
+  rotate: false
+  xy: 941, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Llanero fighter-Colombia
+  rotate: false
+  xy: 941, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Llanero fighter-1
+  rotate: false
+  xy: 1026, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Llanero fighter-2
+  rotate: false
+  xy: 1111, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Patriot Army
+  rotate: false
+  xy: 1196, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Capybara
+  rotate: false
+  xy: 1761, 19
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Capybara+Pasture
+  rotate: false
+  xy: 1801, 15
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cocoa
+  rotate: false
+  xy: 1989, 657
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee
+  rotate: false
+  xy: 1989, 617
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee Hacienda
+  rotate: false
+  xy: 1866, 172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee+Plantation
+  rotate: false
+  xy: 1906, 172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle Hills
+  rotate: false
+  xy: 1898, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Panama Canal
+  rotate: false
+  xy: 1986, 172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rubber
+  rotate: false
+  xy: 1841, 15
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rubber+Lumber mill
+  rotate: false
+  xy: 1881, 20
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vigilance Post
+  rotate: false
+  xy: 1961, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aca Yboty
+  rotate: false
+  xy: 1641, 19
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bucaneer
+  rotate: false
+  xy: 1681, 16
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Campesino Patriota
+  rotate: false
+  xy: 1721, 19
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cascavel
+  rotate: false
+  xy: 1989, 693
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Colorado
+  rotate: false
+  xy: 1946, 172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/First of Line
+  rotate: false
+  xy: 1858, 136
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gaucho
+  rotate: false
+  xy: 1858, 100
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Guerrillero
+  rotate: false
+  xy: 1898, 136
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jungla
+  rotate: false
+  xy: 1858, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Liberator Scuadron
+  rotate: false
+  xy: 1938, 136
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Llanero fighter
+  rotate: false
+  xy: 1938, 100
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mixed Militia
+  rotate: false
+  xy: 1898, 60
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mixed Militia-2
+  rotate: false
+  xy: 1938, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Patriot Army
+  rotate: false
+  xy: 1978, 136
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Peruvian Legion
+  rotate: false
+  xy: 1978, 100
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rabona
+  rotate: false
+  xy: 1978, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tarqui Grenadier
+  rotate: false
+  xy: 1921, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara
+  rotate: false
+  xy: 1281, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara+Pasture
+  rotate: false
+  xy: 1425, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara+Pasture2
+  rotate: false
+  xy: 1497, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara+Pasture3
+  rotate: false
+  xy: 1569, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara2
+  rotate: false
+  xy: 1353, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cocoa
+  rotate: false
+  xy: 1642, 119
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cocoa+Plantation
+  rotate: false
+  xy: 1714, 119
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coffee
+  rotate: false
+  xy: 1786, 119
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coffee Hacienda
+  rotate: false
+  xy: 1642, 55
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coffee Hacienda-Industrial era
+  rotate: false
+  xy: 1714, 55
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coffee+Plantation
+  rotate: false
+  xy: 1786, 55
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Flood plains
+  rotate: false
+  xy: 1876, 336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Jungle Hills
+  rotate: false
+  xy: 1866, 272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Panama Canal
+  rotate: false
+  xy: 1866, 208
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rubber
+  rotate: false
+  xy: 1948, 336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rubber+Lumber mill
+  rotate: false
+  xy: 1938, 272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Vigilance Post
+  rotate: false
+  xy: 1938, 208
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/201 Scuadron
