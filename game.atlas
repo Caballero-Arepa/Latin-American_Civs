@@ -81,16 +81,9 @@ BuildingIcons/Jesuit Hacienda
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Latinity School
-  rotate: false
-  xy: 1252, 393
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
 BuildingIcons/Main Square
   rotate: false
-  xy: 1460, 393
+  xy: 420, 185
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -776,14 +769,21 @@ UnitIcons/Jungla
   index: -1
 UnitIcons/Liberator Scuadron
   rotate: false
+  xy: 1252, 393
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Llanero
+  rotate: false
   xy: 1460, 601
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Mixed Militia
+UnitIcons/Llanero Patrol
   rotate: false
-  xy: 420, 185
+  xy: 1460, 393
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
