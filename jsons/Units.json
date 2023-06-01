@@ -289,24 +289,37 @@
 		],
 		"attackSound": "shot",
 	},
-	{ //Venezuela's
-		"name": "Mixed Militia",
-		"unitType": "Scout",
-		"replaces": "Scout",
-		"movement": 2,
-		"strength": 5,
-		"cost": 50,
-		"obsoleteTech": "Scientific Theory",
-		"upgradesTo": "Crossbowman",
+	{
+		"name": "Llanero",
+		"replaces": "Worker",
+		"unitType": "Civilian",
+		"movement": 4,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action",
+			   "All adjacent units heal [5] HP when healing <for [Mounted] units>",
+			   "Can transform to [Llanero Patrol] <after discovering [Military Science]> <before discovering [Combustion]>"],
+		"cost": 70
 		"uniqueTo": "Venezuela",
-		"uniques": ["[+20]% Strength <vs [Barbarian] units>","Can build [Land] improvements on tiles <by consuming this unit>",
-			    "May upgrade to [Archer] through ruins-like effects"],
-		"promotions": ["Ignore terrain cost"],
 		"civilopediaText": [
 			{
-				"text": "Mixed groups of natives and Spaniards created to do a variety of jobs: Patrol the lands, defense against aggressive groups, exercise dominion of the territories, develop infrastructure projects, etc."
+				"text": "."
 			}
-		],
-		"attackSound": "shot",
+		]
      },
+	{
+		"name": "Llanero Patrol",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Venezuela",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+			   "Can transform to [Llanero Patrol]"],
+		"promotions": ["Shock I","Morale"],
+		"attackSound": "horse"
+	},
 ]
