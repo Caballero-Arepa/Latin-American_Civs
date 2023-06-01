@@ -283,22 +283,4 @@
 			}
 		]
 	},
-	{ //Venezuela's
-		"name": "Latinity School",
-		"replaces": "Public School",
-		"requiredTech": "Scientific Theory",
-		"requiredBuilding": "University",
-		"cost": 300,
-		"hurryCostModifier": 50,
-		"maintenance": 3,
-		"science": 5,
-		"specialistSlots": {"Scientist": 2},
-		"uniqueTo": "Venezuela",
-		"uniques": ["[+1 Science] per [2] population [in this city]","Destroyed when the city is captured"],
-		"civilopediaText": [
-			{
-				"text": "Founded by the Spaniards, the Latinity Schools were meant to teach the locals the Spanish language, to read, write and the Catholic religion. These institutions played a mayor role in assimilating the natives."
-			}
-		]
-	},
 ]
