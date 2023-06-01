@@ -318,7 +318,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
-			   "Can transform to [Llanero Patrol]"],
+			   "Can transform to [Llanero]"],
 		"promotions": ["Shock I","Morale"],
 		"attackSound": "horse"
 	},
