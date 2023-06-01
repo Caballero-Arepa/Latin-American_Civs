@@ -17,16 +17,15 @@
 	},
 	{ //Bolivia's
 		"name": "Folkloric Comparse",
-		"replaces": "Amphitheater",
-		"requiredTech": "Philosophy",
-		"requiredBuilding": "Monument",
-		"cost": 110,
+		"replaces": "Courthouse",
+		"requiredTech": "Mathematics",
+		"hurryCostModifier": 50,
 		"maintenance": 1,
 		"happiness": 1,
-		"culture": 4,
-		"specialistSlots": {"Artist": 2},
-		"greatPersonPoints": {"Great Artist": 1},
+		"culture": 2,
+		"specialistSlots": {"Artist": 1},
 		"uniqueTo": "Bolivia",
+		"uniques": ["Remove extra unhappiness from annexed cities"],
 		"civilopediaText": [
 			{
 				"text": "A complete carnival composed of many ethnicities celebrating and enjoying together under one banner, the Bolivian nation."
@@ -41,7 +40,7 @@
 		"maintenance": 2,
 		"specialistSlots": {"Artist": 1},
 		"uniqueTo": "Brazil",
-		"uniques": ["[+1 Happiness] per [4] population [in this city]","[+100]% [Culture] [in this city] <during a Golden Age>"],
+		"uniques": ["[+1 Happiness] per [4] population [in this city]","[+50]% [Culture] [in this city] <during a Golden Age>"],
 		"civilopediaText": [
 			{
 				"text": "The most folkloric of the musical genres of Brazil is danced and spectated in these paths. Full of dances, decorated wagons, choreographed shows and loud music, it is truly a spectacle."
@@ -189,7 +188,7 @@
 		"cityStrength": 6,
 		"cityHealth": 30,
 		"uniqueTo": "Mexico",
-		"uniques": ["New [Military] units start with [10] Experience [in this city]",
+		"uniques": ["[+2 Culture]","New [Military] units start with [10] Experience [in this city]",
 				"Provides a [Castle] in your first [4] cities for free"],
 		"civilopediaText": [
 			{
@@ -214,7 +213,7 @@
 			}
 		]
 	},
-	{ //Panama´s
+	{
 		"name": "The Panama Canal",
 		"isWonder": true,
 		"requiredTech": "Steam Power",
@@ -222,7 +221,7 @@
 		"uniqueTo": "Panama",
 		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
 			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
-			"+1 Culture","Creates a [Panama Canal] improvement on a specific tile",],
+			"Creates a [Panama Canal] improvement on a specific tile",],
 		"greatPersonPoints": {"Engineer": 2},
 		"civilopediaText": [
 			{
@@ -232,13 +231,15 @@
 	},
 	{ //Paraguay's
 		"name": "Criollo Cannon",
-		"requiredTech": "Chemistry",
+		"replaces": "Arsenal",
+		"requiredTech": "Metallurgy",
 		"cost": 200,
 		"hurryCostModifier": -40,
 		"maintenance": 1,
-		"cityStrength": 20,
+		"cityHealth": 25,
+		"cityStrength": 18,
 		"uniqueTo": "Paraguay",
-		"uniques": ["Only available <after adopting [Oligarchy]>",
+		"uniques": [
 				"[+1 Culture] <after discovering [Combined Arms]>",
 				"Destroyed when the city is captured"],
 		"civilopediaText": [
@@ -247,7 +248,7 @@
 			}
 		]
 	},
-	{ //Paraguay's
+	{
 		"name": "Jesuit Hacienda",
 		"replaces": "Windmill",
 		"requiredBuilding": "Monument",
@@ -279,24 +280,6 @@
 		"civilopediaText": [
 			{
 				"text": "The globally famous Peruvian cuisine, dating back to Incan times, is the shiny jewel of Quechua dishes. Featuring the Cuy and the Ceviche, Peruvian food is to admire."
-			}
-		]
-	},
-	{ //Venezuela's
-		"name": "Latinity School",
-		"replaces": "Public School",
-		"requiredTech": "Scientific Theory",
-		"requiredBuilding": "University",
-		"cost": 300,
-		"hurryCostModifier": 50,
-		"maintenance": 3,
-		"science": 5,
-		"specialistSlots": {"Scientist": 2},
-		"uniqueTo": "Venezuela",
-		"uniques": ["[+1 Science] per [2] population [in this city]","Destroyed when the city is captured"],
-		"civilopediaText": [
-			{
-				"text": "Founded by the Spaniards, the Latinity Schools were meant to teach the locals the Spanish language, to read, write and the Catholic religion. These institutions played a mayor role in assimilating the natives."
 			}
 		]
 	},
