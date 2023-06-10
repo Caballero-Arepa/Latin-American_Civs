@@ -296,7 +296,7 @@
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action",
 			   "[+5]% Strength bonus for [Mounted] units within [0] tiles",
-			   "Can transform to [Llanero Patrol]"],
+			   "Can transform to [Llanero Patrol] <starting from the [Industrial era]>"],
 		"cost": 70
 		"uniqueTo": "Venezuela",
 		"civilopediaText": [
