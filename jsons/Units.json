@@ -296,12 +296,12 @@
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action",
 			   "[+5]% Strength bonus for [Mounted] units within [0] tiles",
-			   "Can transform to [Llanero Patrol] <starting from the [Industrial era]>"],
+			   "Can transform to [Llanero Patrol] <after discovering [Military Science]>"],
 		"cost": 70
 		"uniqueTo": "Venezuela",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "The Llaneros are among the most skilled cowboys on the continent. Taking their name from the Eastern Plains that accompany the Orinoco River to the sea, these brave people are made strong by the dangerous environment they live in."
 			}
 		]
      },
@@ -320,6 +320,11 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			   "Can transform to [Llanero]"],
 		"promotions": ["Shock I","Morale"],
+		"civilopediaText": [
+			{
+				"text": "Across the Plains, from Venezuela to Colombia, these ranchers have risen in arms to defend the will of the people and take down the tyrant enemy, with courage and bravery, no matter the cost."
+			}
+		],
 		"attackSound": "horse"
 	},
 ]
