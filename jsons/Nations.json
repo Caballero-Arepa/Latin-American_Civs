@@ -46,7 +46,7 @@
 		"innerColor": [8, 102, 44],
 		"spyNames": ["Juan"],
 
-		"startBias": ["Mountain",],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
@@ -164,7 +164,7 @@
 		"spyNames": ["Camilo"],
 
 		"startBias": ["Hill","Jungle"],
-//  	        "preferredVictoryType": "Cultural",
+  	        "preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Be welcomed, president. You lead the beautiful and rich nation of Colombia, a country with great cultural and biodiversity.\nThe attempts to break free got terribly punished,  but with unity and strength, Colombia managed independence with the help of Simon Bolivar, to later form his ambitious project of the Gran Colombia. Since the start we had a ton of great political division, which brought many, many problems and conflicts, but despite all the troubles, Colombia ought to help others, no matter what. The conflicts didn't cease until the early 21st century, where the sun finally rises over Colombia to achieve greatness.",
@@ -293,7 +293,7 @@
 		"spyNames": ["Juan"],
 
 		"startBias": ["Coast"],
-	"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
 		"startIntroPart1": "Order! Welcome strog lider, Nayib, you are here to end the decades of conflict and criminal activity in Salvador, 'the Tom Thumb of America', which has had no rest from criminals on it's history.",
