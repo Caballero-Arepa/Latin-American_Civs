@@ -36,8 +36,16 @@
 
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
-                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"]
-	},
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
+     },
      {
                 "name": "Bolivia",
 		"leaderName": "Manuel Isidoro Belzu",
@@ -73,7 +81,15 @@
 		"uniqueName": "Ethnic Diversity",
 		"uniques": ["[+1 Happiness] per [2] social policies adopted","[+1 Culture] [in all cities] <in tiles without [Road]>"],
 
-		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"]
+		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
         {
 		"name": "Brazil",
@@ -113,8 +129,15 @@
 
 		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
-                            "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"]
-
+                            "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
         },
   {
 		"name": "Chile",
@@ -153,7 +176,15 @@
 		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
 			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
 
-		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
+		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
             },
 	{
 		"name": "Colombia",
@@ -192,7 +223,15 @@
 
 		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
 				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Pasto","Manizales","Armenia","Arauca",
-				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Monteria","Yopal","Buga","Sogamoso","San Andres","Leticia"]
+				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Monteria","Yopal","Buga","Sogamoso","San Andres","Leticia"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
                 "name": "Costa Rica",
@@ -224,7 +263,15 @@
 
                 "cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",
 			   "Siquierres","Matina","Atalanta","Uatsi","Katsi","San Isidro","Quepos","Dominical","Palmar Sur","Drake","San Vito",
-			   "Puerto Kiménez","Corredor"]
+			   "Puerto Kiménez","Corredor"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
         },
 	{
 		"name": "Cuba",
@@ -251,7 +298,15 @@
 
 		"uniqueName": "Long live the Revolution!",
 		"uniques": ["Receive a free Social Policy each time you complete a Factory, Public School or Hospital in the capital"],
-		"cities": ["Havana","Santiago de Cuba","Camaguey","Holguin","Guantanamo","Santa Clara","Las Tunas","Bayamo","Cienfuegos","Pinar del Rio","Matanzas","Ciego de Avila","Sancti Spiritus","Manzanillo","Cardenas","Palma Soriano","Moa","Florida","Moron","Nueva Gerona"]
+		"cities": ["Havana","Santiago de Cuba","Camaguey","Holguin","Guantanamo","Santa Clara","Las Tunas","Bayamo","Cienfuegos","Pinar del Rio","Matanzas","Ciego de Avila","Sancti Spiritus","Manzanillo","Cardenas","Palma Soriano","Moa","Florida","Moron","Nueva Gerona"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 		"name": "Ecuador",
@@ -282,7 +337,15 @@
 		"uniques": ["[+50]% [Gold] from every [Water resource]", 
 			"[+1 Culture] from every [Coast]","[+2 Science] from every [Atoll] <after discovering [Biology]>"],
 
-		"cities": ["Quito","Guayaquil","Cuenca","Esmeraldas","Riobamba","Loja","Ambato","Ibarra","Portoviejo","Machala","Isabela","Zamora"]
+		"cities": ["Quito","Guayaquil","Cuenca","Esmeraldas","Riobamba","Loja","Ambato","Ibarra","Portoviejo","Machala","Isabela","Zamora"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 		"name": "El Salvador",
@@ -313,7 +376,15 @@
 		"uniques": ["[+20]% Strength <vs [Barbarian] units>", "[+15]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>",
 			"Earn [15]% of killed [Barbarian] unit's [Strength] as [Gold]"],
 
-		"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"]
+		"cities": ["San Salvador","San Miguel","Santa Ana","Santa Tecla"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
                 "name": "Mexico",
@@ -353,6 +424,14 @@
                 "cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
                             "Merida","Cancun","Chihuahua","Durango","Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
                             "Naucalpan","Aguascalientes","Hermosillo","Mexicali","Culiacan","Queretaro","Morelia","Reynosa","Guadalupe","San Luis Potosi"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
              },
 	{
 		"name": "Panama",
@@ -380,7 +459,15 @@
 		"uniqueName": "The Bridge of the World",
 		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",],
 
-		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"]
+		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 		"name": "Paraguay",
@@ -417,7 +504,15 @@
 		"uniqueName": "Guarani Strenght",
 		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
 
-		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",]
+		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
   {
 		"name": "Peru",
@@ -454,7 +549,15 @@
 		"uniqueName": "Peruvian Gastronomy",
 		"uniques": ["[+2 Culture] from each Trade Route", "[+2 Food] from every [Plantation]"],
 
-		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"]
+		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
   },
 	{
 		"name": "Venezuela",
@@ -494,7 +597,15 @@
 			"[+2 Gold, +2 Production] from every [Oil]",
 			"Receive free [Great General] when you discover [Military Science]"],
 
-                "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"]
+                "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 		"name": "Uruguay",
@@ -515,7 +626,15 @@
 		"neutralHello": "Hi!",
 		"hateHello": "Hi...",
 
-		"cities": ["Montevideo"]
+		"cities": ["Montevideo"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 		"name": "Guyana",
@@ -535,7 +654,15 @@
 		"neutralHello": "Greetings",
 		"hateHello": "What do you want, you bully?",
 
-		"cities": ["Georgetown"]
+		"cities": ["Georgetown"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 	
@@ -555,7 +682,15 @@
 		"neutralHello": "Hello my friend!",
 		"hateHello": "No friend I see here, only danger. Go away",
 
-		"cities": ["Paramaribo"]
+		"cities": ["Paramaribo"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 		"name": "Guiana",
@@ -568,7 +703,15 @@
 
 		"defeated": "Oh well... new owner I guess...",
 
-		"cities": ["Cayenne"]
+		"cities": ["Cayenne"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 	{
 		"name": "Puerto Rico",
@@ -588,6 +731,14 @@
 		"neutralHello": "Buenas :)",
 		"hateHello": "Go away! YA!",
 
-		"cities": ["San Juan"]
+		"cities": ["San Juan"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
 	},
 ]
