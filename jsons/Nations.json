@@ -97,7 +97,7 @@
                 "adjective": ["Brazilian"],
 		"outerColor": [0, 147, 55],
 		"innerColor": [254, 224, 12],
-		"spyNames": ["Joao"],
+		"spyNames": ["Da Silva"],
 
                 "startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Scientific",
@@ -127,7 +127,7 @@
 		"uniques": ["[+1 Culture] from every [Jungle]","[+1 Culture, +1 Production] from every [Marsh]",
 			    "[+2 Culture] from every [Lumber mill] <after discovering [Acoustics]>"],
 
-		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+		"cities": ["Brasilia","Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
                             "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"],
 		"civilopediaText": [
@@ -175,8 +175,7 @@
 		"uniqueName": "Mining Riches",
 		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
 			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
-
-		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"],
+		"cities": ["Santiago","Valparaiso","Copiapo","Antofagasta","Iquique","Valdivia","Rancagua","Concepcion","La Serena","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Puerto Aysen","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
@@ -192,10 +191,10 @@
 		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
-		"spyNames": ["Camilo"],
+		"spyNames": ["Montoya","Velasquez"],
 
 		"startBias": ["Hill","Jungle"],
-  	        "preferredVictoryType": "Cultural",
+  	        "preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Be welcomed, president. You lead the beautiful and rich nation of Colombia, a country with great cultural and biodiversity.\nThe attempts to break free got terribly punished,  but with unity and strength, Colombia managed independence with the help of Simon Bolivar, to later form his ambitious project of the Gran Colombia. Since the start we had a ton of great political division, which brought many, many problems and conflicts, but despite all the troubles, Colombia ought to help others, no matter what. The conflicts didn't cease until the early 21st century, where the sun finally rises over Colombia to achieve greatness.",
@@ -207,7 +206,7 @@
 		"afterPeace": "The path to peace is often long and tortuous, but the reward is always invaluable",
 		"defeated":  "I hope you treat my people good, they've had enough.",
 
-		"neutralHello": "Hello there.",
+		"neutralHello": "Quiubo.",
 		"hateHello": "*Asshh*, What do you want??",
 
 		"tradeRequest": "This will help you in your situation.",
@@ -236,7 +235,7 @@
 	{
                 "name": "Costa Rica",
                 "leaderName": "Juan Mora Porras",
-                "adjective": ["Costarican"],
+                "adjective": ["Tico"],
                 "outerColor": [67,48,89],
                 "innerColor": [241,56,79],
 		"spyNames": ["Juan"],
@@ -245,7 +244,7 @@
                 "preferredVictoryType": "Cultural",
                 "favoredReligion": "Christianity",
         
-                "startIntroPart1": "Don Juanito, nickname that stayed for the posterity as a token of affection from the 'ticos' to your heroic actions, those that remarked the name of the Republic of Costa Rica in the highest spots of the American continent. Your succesful campaign against William Walker's freebooters in 1857 and your innumerable socio-economic contributions brought wellness and peace to Costa Rica, you governed over this small nation in the heart of Central America, surrounded by it's leafy jungles, majestic forests and volcanic chains, always full of life and diversity of all types, and you turned it into a prosperity path and a progress symbol of Central America.",
+                "startIntroPart1": "Don Juanito, nickname that stayed for the posterity as a token of affection from the 'ticos' to your heroic actions, those that remarked the name of the Republic of Costa Rica in the highest spots of the American continent. Your succesful campaign against William Walker's freebooters in 1857 and your innumerable socio-economic contributions brought wellness and peace to Costa Rica, you governed over this small nation of Central America, surrounded by it's leafy jungles, majestic forests and volcanic chains, always full of life and diversity of all types, and you led it to a path of prosperity and a symbol of progress for Central America.",
                 "startIntroPart2": "Don Juanito, the costa rican people need you, once again, to follow the path of greatness. ¿Can you lead the ticos to the glory? ¿Can you make a civilization that stand the test of time?",
                 
                 "introduction":  "Greetings, welcome to our rich coasts and beautiful land. Pura vida!",
@@ -472,7 +471,7 @@
 	{
 		"name": "Paraguay",
 		"leaderName": "Gaspar R. Francia",
-		"adjective": ["Paraguayan"],
+		"adjective": ["Guarani"],
                 "outerColor": [181, 170, 170],
 		"innerColor": [171, 0, 51],
 		"spyNames": ["Rodrigez"],
@@ -561,18 +560,18 @@
   },
 	{
 		"name": "Venezuela",
-                "leaderName": "Marcos Perez Jimenez",
+                "leaderName": "Simon Bolivar",
 		"adjective": ["Venezuelan"],
 		"outerColor": [127,0,40],
 		"innerColor": [245,217,0],
 		"spyNames": ["Simón"],
 
 		"startBias": ["Plains","Coast"],
-//		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "Colonel Marcos Perez Jimenez, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fishermen. But our republican history starts when, Francisco de Miranda, a great excellent general, and Simon Bolivar, a Venezuelan strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independence would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the Venezuelan richness would have a rise in the middle of the 20th century, thanks to their resources.",
-		"startIntroPart2": "Colonel! Your people call you, and express their affect, it's time to achieve what we have been waiting for years, it's time to bring back the glory that Venezuela deserves! Do you accept the challenge, your highness? Can you build a civilization that can stand the pass of time?",
+		"startIntroPart1": "Great Liberator Simon Bolivar, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fishermen. But our republican history starts when, Francisco de Miranda, a great excellent general, and you, Simon Bolivar, a great strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independence would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the Venezuelan richness would have a rise in the middle of the 20th century, thanks to their resources.",
+		"startIntroPart2": "General! Your people call you, and express their affect, it's time to achieve what we have been waiting for years, it's time to bring back the glory that Venezuela deserves! Do you accept the challenge, your highness? Can you build a civilization that can stand the pass of time?",
 
 		"introduction": "A pleasure to meet you, I am Pérez Jimenez, governor of Venezuela. I hope we get along.",
 		"declaringWar": "Your nation is a danger to our sovereignty.",
@@ -596,8 +595,8 @@
 			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>",
 			"[+2 Gold, +2 Production] from every [Oil]",
 			"Receive free [Great General] when you discover [Military Science]"],
-
-                "cities": ["Caracas","Maracaibo","Maracay","Ciudad Guayana","St. Cristobal","Angostura","Mantecal","Valencia","Guasdualito","Maturin","Barcelona","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas", "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero", "Tocuyito","El Trige","Carora"],
+    
+                "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
