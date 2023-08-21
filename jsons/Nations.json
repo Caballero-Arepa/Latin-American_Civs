@@ -11,16 +11,16 @@
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "Good day it is, Julio, you, unlike others, did great things for Argentina, a prideful nation with good prowess. Argentina came from the provinces of the 'de La Plata river', who broke free from Spain into their own path. Conquering the Mapuches, they expanded their territory, and after that, their economy grew more and more, until becoming one of the best in Latin America. Although not being very successful in war, Argentina today is stable and periodically good.",
-		"startIntroPart2": "President, your people call you to bring good to the country. Will you make a civilization that can stand the pass of time?",
+		"startIntroPart1": "Good day it is, Julio, you, unlike others, did great things for Argentina, a prideful nation with good prowess in the bovine arts.\nYour feats made Argentina a great nation, allowing it to become the richest nation in the world at the end of the XIX century, thanks to the development of vital infrastructure and of the agricultural sector, mainly that of cattle, which brought massive amounts of immigrants who sought the American dream.",
+		"startIntroPart2": "Now, Roca, you need to bring back your diplomatic ability, which granted Argentina its vast territories, and your fighting courage from when you were in the wars of the Triple Alliance or the Conquest of the Desert.\nCan you lead the Argentines through the flames of history?",
 		
 		"introduction": "I am Julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
 		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
 		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
 		"afterPeace": "Although we are at peace, I still want to see you defeated.",
-		"defeated": "You are just another nation, this victory will not change that, because I actually gave up.",
+		"defeated": "You are just another nation, this victory will not change that.",
 
-		"neutralHello": "Good morning.",
+		"neutralHello": "Do you want a 'mate'?",
 		"hateHello": "Will you treat me how I deserve?!",
 
 		"tradeRequest": "I know you want this trade, I'm sure of that.",
