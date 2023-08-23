@@ -385,6 +385,45 @@
 			{"text": ""}
 		]
 	},
+     {
+                "name": "Haiti",
+		"leaderName": "Toussaint Louverture",
+		"adjective": ["Hatian"],
+		"outerColor": [75, 109, 189],
+		"innerColor": [41, 21, 2],
+		"spyNames": ["Louverture"],
+
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "dfbv",
+		"startIntroPart2": "bdf",
+		
+		"introduction": "het",
+		"declaringWar": "xzc",
+		"attacked": "sdgs",
+		"afterPeace": "Although",
+		"defeated": "You",
+
+		"neutralHello": "Good",
+		"hateHello": "Will",
+
+		"tradeRequest": "that",
+
+		"uniqueName": "Breaking the Shackles",
+		"uniques": ["[+1 Faith] from every [Plantation]","[+1 Production] from every [Lumber mill]"],
+
+		"cities": ["Port'Au Prince"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
+     },
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
