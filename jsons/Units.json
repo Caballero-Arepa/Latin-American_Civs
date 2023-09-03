@@ -252,9 +252,9 @@
 		"unitType": "Gunpowder",
 		"replaces": "Gatling Gun",
 		"movement": 2,
-		"strength": 30,
-		"rangedStrength": 35,
-		"range": 1,
+		"strength": 35,
+		"rangedStrength": 30,
+		"range": 2,
 		"cost": 225,
 		"hurryCostModifier": 40,
 		"requiredTech": "Industrialization",
@@ -264,7 +264,7 @@
 		"uniques": ["Ignores terrain cost"],
 		"civilopediaText": [
 			{
-				"text": "Marching on the Andes is no easy task, even less when you are forced to in order to capture the mayor population centers. But these units did the task as hard as it was."
+				"text": "Marching on the Andes is no easy task, but this combined arms unit, joining infantry, light cavalry, and light artillery, did so bravely to fight for Peru."
 			}
 		],
 		"attackSound": "shot",
