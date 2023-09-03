@@ -126,15 +126,17 @@
 		"name": "Guerrillero",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Cuba",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
 		"movement": 2,
-		"strength": 50,
-		"cost": 240,
-		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
-		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units"],
-		"promotions": ["Guerrillero ability"],
+		"strength": 30,
+		"rangedStrength": 25,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May enter foreign tiles without open borders","May withdraw before melee ([30]%)"
+		],
 		"civilopediaText": [
 			{
 				"text": "These sons of a mother fought on all corners of the world to spread their beloved revolution and founding countless guerrilla groups to be feared, from South America to Africa, causing terror and chaos to the inhabiants."
