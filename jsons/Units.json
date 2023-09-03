@@ -164,26 +164,22 @@
 		"attackSound": "horse"
 	},
     { //Mexico's
-		"name": "201 Scuadron",
-		"replaces": "Fighter",
-		"unitType": "Fighter",
-		"movement": 1,
-		"strength": 48,
-		"rangedStrength": 45,
-		"range": 9,
-		"interceptRange": 9,
-		"cost": 375,
-		"requiredResource": "Oil",
-		"requiredTech": "Radar",
-		"obsoleteTech": "Lasers",
-		"upgradesTo": "Jet Fighter",
-		"promotions": ["Bombardment I"],
+		"name": "Soldaderas",
+		"replaces": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Radio",
+		"upgradesTo": "Mechanized Infantry",
+		"promotions": ["[Soldadera] ability"],
 		"uniqueTo": "Mexico",
-		"uniques": ["[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>",
-			    "[+35]% Strength <vs [Fighter] units>"],
+		"uniques": ["Invisible to non-adjacent units"],
 		"civilopediaText": [
 			{
-				"text": "Fierce pilots who trained and fought with the US against a common enemy, the Empire of Japan. Battling with the unstoppable warriors of Japan on the Pacific Ocean, the brave men earned their respect and marked high the name of their country."
+				"text": "Without the skills of these female warriors, many in the revolution wouldn't have kept fighting. Taking part in combat at the front and also providing delicious meals to the troops, they greatly improved the morale with their songs as well."
 			}
 		],
 		"attackSound": "machinegun",
