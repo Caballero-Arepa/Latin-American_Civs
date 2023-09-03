@@ -1,0 +1,290 @@
+[
+    { //Argentina's
+		"name": "Tango Theatre",
+		"replaces": "Opera House",
+		"requiredTech": "Acoustics",
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"happiness": 1,
+		"culture": 5,
+		"specialistSlots": {"Artist": 3},
+		"uniqueTo": "Argentina",
+		"civilopediaText": [
+			{
+				"text": "The most iconic music from the platine nation, this romantic and dramatic dances, played mainly by the accordion or piano. Birthed in the Golden Age, its characteristic moves make it the emblem of Argentina."
+			}
+		]
+	},
+	{ //Bolivia's
+		"name": "Folkloric Comparse",
+		"replaces": "Courthouse",
+		"requiredTech": "Mathematics",
+		"hurryCostModifier": 50,
+		"maintenance": 1,
+		"happiness": 1,
+		"culture": 2,
+		"specialistSlots": {"Artist": 1},
+		"uniqueTo": "Bolivia",
+		"uniques": ["Remove extra unhappiness from annexed cities"],
+		"civilopediaText": [
+			{
+				"text": "A complete carnival composed of many ethnicities celebrating and enjoying together under one banner, the Bolivian nation."
+			}
+		]
+	},
+	{ //Brasil's
+		"name": "Sambadrome",
+		"replaces": "Theatre",
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press",
+		"maintenance": 2,
+		"specialistSlots": {"Artist": 1},
+		"uniqueTo": "Brazil",
+		"uniques": ["[+1 Happiness] per [4] population [in this city]","[+50]% [Culture] [in this city] <during a Golden Age>"],
+		"civilopediaText": [
+			{
+				"text": "The most folkloric of the musical genres of Brazil is danced and spectated in these paths. Full of dances, decorated wagons, choreographed shows and loud music, it is truly a spectacle."
+			}
+		]
+	},
+	{ //Chile's
+		"name": "Saltpeter Office",
+		"replaces": "Windmill",
+		"requiredTech": "Economics",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"production": 3,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 1},
+		"uniqueTo": "Chile",
+		"uniques": ["Must be next to [Desert]", "[+2 Production] from [Salt] tiles [in this city]"],
+		"civilopediaText": [
+			{
+				"text": "These offices offered job and asylum to workers from all over the world who came to the driest desert to extract the valuable Nitratine. On the Atacama Desert, these posts were pivotal for the economy of whom controlled it, very important."
+			}
+		]
+	},
+	{ //Colombia's
+		"name": "Coffee Axis",
+		"replaces": "Windmill",
+		"requiredTech": "Economics",
+		"maintenance": 2,
+		"uniqueTo": "Colombia",
+		"uniques": ["Creates a [Coffee Hacienda] improvement on a specific tile",
+			    "+1 Coffee from Coffee Hacienda",
+			    "[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda] tiles [in this city]",
+			    "The Hacienda Cannot be build on Desert, Tundra nor Snow, only at Grassland/Plains Hills",
+			    "Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
+		"civilopediaText": [
+			{
+				"text": "Located in the mountains, the long-lasting culture of Coffee plantation has made the people there experts on the matter. Here is where the magic happens, where Colombia gets the best quality of Coffee in the world."
+			}
+		]
+    },
+/*	{ //Colombia's
+		"name": "Coffee Growers Committee",
+		"isNationalWonder": true,
+		"requiredTech": "Replaceable Parts",
+		"cost": 767,
+		"maintenance": 2,
+		"uniqueTo": "Colombia",
+		"uniques": ["[+1 Production] from [Plantation] tiles [in all cities]","[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda ] tiles [in all cities]",
+			"Consumes [4] [Coffee]","Provides [4] [Colombian Coffee]",
+			"[-3 Happiness]","Destroyed when the city is captured"],
+    },*/
+    { //Costa Rica's
+        "name": "Ecotouristic Hotel",
+		"replaces": "Stock Exchange",
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Bank",
+		"requiredTech": "Electricity",
+		"gold": 3,
+		"percentStatBonus": {"gold": 25},
+		"uniqueTo": "Costa Rica",
+		"uniques": ["[+1 Gold] from every [Forest] tiles [in this city]","[+1 Gold] from every [Coast] tiles [in this city]",
+			   "[+15]% [Gold] <after discovering [Flight]>"],
+		"civilopediaText": [
+			{
+				"text": "Pioneers on the ecotourism buisness, added with the Costa Rican landscapes and Caribbean shores, makes of them a great destiny for holiday vacation."
+			}
+		]
+	},
+	{ //Cuba's
+		"name": "Pharmaceutical Clinic",
+		"replaces": "Hospital",
+		"uniqueTo": "Cuba",
+		"food": 2,
+		"happiness": 1,
+		"requiredBuilding": "Aqueduct",
+		"cost": 290,
+		"requiredTech": "Biology",
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"civilopediaText": [
+			{
+				"text": "Attracting many foreigners and exporting doctors and medicine overseas, Cuban medicines are highly valued around the world."
+			}
+		]
+	},
+	{
+		"name": "Trade unions",
+		"uniqueTo": "Cuba",
+		"hurryCostModifier": -100,
+		"cost": 1,
+		"requiredBuilding": "Factory",
+		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
+		"requiredTech": "Industrialization",
+	},
+	{
+		"name": "Free education",
+		"uniqueTo": "Cuba",
+		"hurryCostModifier": -100,
+		"cost": 1,
+		"requiredBuilding": "Public School",
+		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
+		"requiredTech": "Education",
+	},
+	{
+		"name": "Free healthcare",
+		"uniqueTo": "Cuba",
+		"hurryCostModifier": -100,
+		"cost": 1,
+		"requiredBuilding": "Hospital",
+		"uniques": ["Free Social Policy", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Unsellable"],
+		"requiredTech": "Biology",
+	},
+	{ //Ecuador's
+		"name": "Main Square",
+		"replaces": "Monument",
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"culture": 2,
+		"uniqueTo": "Ecuador",
+		"uniques": ["[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>",
+			    "[+1 Science] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Flight]>",
+			    "[+2 Culture] <after discovering [Dynamite]>",
+			    "Cost increases by [20] per owned city"],
+		"civilopediaText": [
+			{
+				"text": "The classical main squares of Ecuador, dating back to the pre-colonial times, are between the best conserved of all Hispanic America, with over 300 years of existence, these plazas are a magnificent piece of history alive."
+			}
+		]
+	},
+	{ //El Salvador's
+		"name": "Public Veterinary",
+		"requiredTech": "Fertilizer",
+		"maintenance": 2,
+		"uniqueTo": "El Salvador",
+		"uniques": ["[+1 Food, +1 Culture] from [Pasture] tiles [in this city]", "Cost increases by [50] per owned city"],
+		"civilopediaText": [
+			{
+				"text": "One of the best animal healthcare program of all has allowed the pets of the people to be a lot happier, and their owners too."
+			}
+		]
+	},
+	{ //Mexico's
+		"name": "Chapultepec Castle",
+		"isNationalWonder": true,
+		"requiredTech": "Architecture",
+		"cost": 145,
+		"hurryCostModifier": 30,
+		"maintenance": 2,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cityStrength": 6,
+		"cityHealth": 30,
+		"uniqueTo": "Mexico",
+		"uniques": ["[+2 Culture]","New [Military] units start with [10] Experience [in this city]",
+				"Provides a [Castle] in your first [4] cities for free"],
+		"civilopediaText": [
+			{
+				"text": "The patriotic castle on the Mexican capital, is a symbol of power and national pride, as it was quite literally the last bastion of patriotic resistance against the aggressors of the north. The impressive architecture and its privileged position make it a wonder of Mexico."
+			}
+		]
+	},
+	{ //Panama´s
+		"name": "Colon Free Port",
+		"isNationalWonder": true,
+		"replaces": "National Epic",
+		"requiredTech": "Dynamite",
+		"cost": 420,
+		"uniqueTo": "Panama",
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Production] from every [Trading post] [in this city]",
+			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]",
+			"[+4 Gold, +1 Culture]"],
+		"greatPersonPoints": {"Great Merchant": 2},
+		"civilopediaText": [
+			{
+				"text": "Set in a crucial step in navigation of the interoceanic waterway going to the canal, the Free Trade Zone is the biggest in the American continent and second largest in the world, becoming a strategic commerce point from Asia to the Americas."
+			}
+		]
+	},
+	{
+		"name": "The Panama Canal",
+		"isWonder": true,
+		"requiredTech": "Steam Power",
+		"cost": 1200,
+		"uniqueTo": "Panama",
+		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
+			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
+			"Creates a [Panama Canal] improvement on a specific tile",],
+		"greatPersonPoints": {"Great Engineer": 2},
+		"civilopediaText": [
+			{
+				"text": "Arguably the most important canals on the planet, located at the isthmus of Panama, this impressive works manage to transport ships from ocean to ocean, elevating them over 20 meters and then bringing them down to the other side, saving you from 10,000 miles of sea travel."
+			}
+		]
+	},
+	{ //Paraguay's
+		"name": "Criollo Cannon",
+		"replaces": "Arsenal",
+		"requiredTech": "Metallurgy",
+		"cost": 200,
+		"hurryCostModifier": -40,
+		"maintenance": 1,
+		"cityHealth": 25,
+		"cityStrength": 18,
+		"uniqueTo": "Paraguay",
+		"uniques": [
+				"[+1 Culture] <after discovering [Combined Arms]>",
+				"Destroyed when the city is captured"],
+		"civilopediaText": [
+			{
+				"text": "This valiant gunners fought with 'tooth and nail' to defend their fatherland from 3 antagonist nations at the same time, managing impressive victories that give the people pride."
+			}
+		]
+	},
+	{
+		"name": "Jesuit Hacienda",
+		"replaces": "Windmill",
+		"requiredBuilding": "Monument",
+		"requiredTech": "Economics",
+		"maintenance": 2,
+		"production": 2,
+		"culture": 1,
+		"percentStatBonus": {"food": 5},
+		"specialistSlots": {"Engineer": 1},
+		"uniqueTo": "Paraguay",
+		"uniques": ["[+1 Culture] from [River] tiles [in this city]","[+10]% Production when constructing [All] buildings [in this city]"],
+		"civilopediaText": [
+			{
+				"text": "These Haciendas were formed by migrating Jesuits, and they were one of the reasons for the native people of Paraguay, the Guaranís, remained strong and gave Paraguay its culture, so much so, that the Guaraní is almost as much spoken as Spanish."
+			}
+		]
+	},
+	{ //Peru's
+		"name": "Peruvian Restaurant",
+		"replaces": "Broadcast Tower",
+		"requiredTech": "Radio",
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"food": 2,
+		"culture": 3,
+		"gold": 1,
+		"percentStatBonus": {"culture": 25},
+		"uniqueTo": "Peru",
+		"civilopediaText": [
+			{
+				"text": "The globally famous Peruvian cuisine, dating back to Incan times, is the shiny jewel of Quechua dishes. Featuring the Cuy and the Ceviche, Peruvian food is to admire."
+			}
+		]
+	},
+]
