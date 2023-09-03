@@ -27,4 +27,8 @@
 		"name": "[Patriot Army] ability",
 		"uniques": ["[1] Movement"]
 	},
+	{
+		"name": "[Soldadera] ability",
+		"uniques": ["All adjacent units heal [5] HP when healing",]
+	},
 ]
