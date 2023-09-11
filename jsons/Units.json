@@ -163,6 +163,26 @@
 		],
 		"attackSound": "horse"
 	},
+	{ //Haiti's
+		"name": "Mawon",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 22,
+		"cost": 100,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniqueTo": "Haiti",
+		"uniques": ["[15]% to Flank Attack bonuses",
+			    "[+15]% Strength <within [1] tiles of a [City center]> <when fighting in [Friendly Land] tiles>"],
+		"civilopediaText": [
+			{
+				"text": ""
+			}
+		],
+		"attackSound": "shot"
+	},
     { //Mexico's
 		"name": "201 Scuadron",
 		"replaces": "Fighter",
