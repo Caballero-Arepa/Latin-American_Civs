@@ -590,10 +590,11 @@
 		"hateNo": "This is practically a scam!",
 		"hateYes": "This very well could be a shame to the nation.",
 
-		"uniqueName": "Oil Power",
+		"uniqueName": "Oil Bonanza",
                 "uniques": ["Double quantity of [Oil] produced",
-			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>",
-			"[+2 Gold, +2 Production] from every [Oil]",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", 
+			"[-50]% maintenance on road & railroads <with [Oil]>",
+			"[-15]% maintenance cost for buildings [in all cities] <with [Oil]>",
 			"Receive free [Great General] when you discover [Military Science]"],
     
                 "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
