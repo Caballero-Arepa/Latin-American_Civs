@@ -127,17 +127,19 @@
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Cuba",
 		"unitType": "Gunpowder",
+		"range": 1,
 		"movement": 2,
 		"strength": 50,
-		"cost": 240,
+		"rangedStrength": 45,
+		"cost": 320,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
-		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units"],
-		"promotions": ["Guerrillero ability"],
+		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May enter foreign tiles without open borders","May withdraw before melee ([30]%)"
+		],
 		"civilopediaText": [
 			{
-				"text": "These sons of a mother fought on all corners of the world to spread their beloved revolution and founding countless guerrilla groups to be feared, from South America to Africa, causing terror and chaos to the inhabiants."
+				"text": "These sons of a mother fought on all corners of the world to spread their spirit of revolution and founding countless guerrilla groups to be feared, from South America to Africa, causing terror and chaos to the inhabiants."
 			}
 		],
 		"attackSound": "shot"
