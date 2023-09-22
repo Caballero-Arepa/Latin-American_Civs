@@ -110,16 +110,20 @@
 		]
 	},
 	{ //Cuba's
-		"name": "Torcedores",
-		"replaces": "Bank",
+		"name": "Pharmaceutical Clinic",
+		"replaces": "Hospital",
 		"uniqueTo": "Cuba",
-		"gold": 0,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"uniques": ["Provides [1] [Cuban Cigars]","[+2 Gold] from [Plantation] tiles [in this city]"],
-		"requiredTech": "Banking",
+		"food": 2,
+		"happiness": 1,
+		"requiredBuilding": "Aqueduct",
+		"cost": 290,
+		"requiredTech": "Biology",
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"civilopediaText": [
+			{
+				"text": "Attracting many foreigners and exporting doctors and medicine overseas, Cuban medicines are highly valued around the world."
+			}
+		]
 	},
 	{
 		"name": "Trade unions",
@@ -206,7 +210,7 @@
 		"uniques": ["[+1 Gold] from each Trade Route","[+1 Production] from every [Trading post] [in this city]",
 			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]",
 			"[+4 Gold, +1 Culture]"],
-		"greatPersonPoints": {"Merchant": 2},
+		"greatPersonPoints": {"Great Merchant": 2},
 		"civilopediaText": [
 			{
 				"text": "Set in a crucial step in navigation of the interoceanic waterway going to the canal, the Free Trade Zone is the biggest in the American continent and second largest in the world, becoming a strategic commerce point from Asia to the Americas."
@@ -222,7 +226,7 @@
 		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
 			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
 			"Creates a [Panama Canal] improvement on a specific tile",],
-		"greatPersonPoints": {"Engineer": 2},
+		"greatPersonPoints": {"Great Engineer": 2},
 		"civilopediaText": [
 			{
 				"text": "Arguably the most important canals on the planet, located at the isthmus of Panama, this impressive works manage to transport ships from ocean to ocean, elevating them over 20 meters and then bringing them down to the other side, saving you from 10,000 miles of sea travel."

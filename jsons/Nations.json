@@ -276,24 +276,24 @@
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
 		"adjective": ["Cuban"],
-		"outerColor": [130, 160, 130],
+		"outerColor": [122, 199, 207],
 		"innerColor": [142, 9, 9],
-		"spyNames": ["Juan"],
+		"spyNames": ["Castro","El Loco","El Ché"],
 
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "All glory to the revolution! We are ready for your comeback, mighty Castro - the unkillable leader - Now, take part in this and take the Cuban revolution to the next step. As you know, the splendid island of Cuba is full of cultural richness and a prosperous land. After the liberation from first the Spanish empire, and then the American overlords, Cuba broke free from foreign rule to forge its own destiny.",
-		"startIntroPart2": "Now loco, are you ready to begin to voyage to spread freedom to the peoples? Can you build a civilization that can stand the pass of time?",
+		"startIntroPart1": "All glory to the revolution! We are ready for your comeback, mighty Castro - the unkillable leader - Now, take part in this and take the Cuban revolution to the next step. As you know, the splendid island of Cuba is full of cultural richness and its a prosperous land. After the liberation from first the Spanish empire, and then the United States overlords, Cuba broke free from foreign rule to forge its own destiny.",
+		"startIntroPart2": "Now loco, are you ready to begin the voyage to spread freedom to the peoples? Can you build a civilization that can trive in adversity?",
 
-		"introduction": "Welcome to Cuba, where education is a human right.",
+		"introduction": "Welcome to Cuba, where life's splendid! Wanna a mojito?",
 		"declaringWar": "Why should some be miserably poor, so that others can be hugely rich?",
 		"attacked": "A revolution is a struggle to the death...",
 		"defeated": "I'm not attached to anything, it' my duty to do my duty. I always thought I would die with the boots on.",
-		"neutralHello": "Hello.",
-		"hateHello": "Go away!",
-		"tradeRequest": "Please, sit down and have a cigar. I've something to offer.",
+		"neutralHello": "Cómo anda la cosa macho? (How's it goin' man?)",
+		"hateHello": "I wanna nothin' with you!",
+		"tradeRequest": "Please, sit down and have a cigar. I've something to negotiate.",
 
 		"uniqueName": "Long live the Revolution!",
 		"uniques": ["Receive a free Social Policy each time you complete a Factory, Public School or Hospital in the capital"],
@@ -629,10 +629,11 @@
 		"hateNo": "This is practically a scam!",
 		"hateYes": "This very well could be a shame to the nation.",
 
-		"uniqueName": "Oil Power",
+		"uniqueName": "Oil Bonanza",
                 "uniques": ["Double quantity of [Oil] produced",
-			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", "[+1 Gold] from [Road] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>",
-			"[+2 Gold, +2 Production] from every [Oil]",
+			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", 
+			"[-50]% maintenance on road & railroads <with [Oil]>",
+			"[-15]% maintenance cost for buildings [in all cities] <with [Oil]>",
 			"Receive free [Great General] when you discover [Military Science]"],
     
                 "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
