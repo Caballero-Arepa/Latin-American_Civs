@@ -127,19 +127,17 @@
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Cuba",
 		"unitType": "Gunpowder",
-		"range": 1,
 		"movement": 2,
 		"strength": 50,
-		"rangedStrength": 45,
-		"cost": 320,
+		"cost": 240,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
-		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May enter foreign tiles without open borders","May withdraw before melee ([30]%)"
-		],
+		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units"],
+		"promotions": ["Guerrillero ability"],
 		"civilopediaText": [
 			{
-				"text": "These sons of a mother fought on all corners of the world to spread their spirit of revolution and founding countless guerrilla groups to be feared, from South America to Africa, causing terror and chaos to the inhabiants."
+				"text": "These sons of a mother fought on all corners of the world to spread their beloved revolution and founding countless guerrilla groups to be feared, from South America to Africa, causing terror and chaos to the inhabiants."
 			}
 		],
 		"attackSound": "shot"
@@ -176,11 +174,11 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"uniqueTo": "Haiti",
-		"uniques": ["[15]% to Flank Attack bonuses",
+		"uniques": ["[+15]% to Flank Attack bonuses",
 			    "[+15]% Strength <within [1] tiles of a [City center]> <when fighting in [Friendly Land] tiles>"],
 		"civilopediaText": [
 			{
-				"text": ""
+				"text": "A fleeing, or rather, emancipating slave, who runs for his life - should he not suffer any more under the whip."
 			}
 		],
 		"attackSound": "shot"

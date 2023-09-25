@@ -16,6 +16,10 @@
 		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>","[+20]% Strength <when fighting in [Friendly Land] tiles>"]
 	},
 	{
+		"name": "Guerrillero ability",
+		"uniques": ["May withdraw before melee ([60]%)","May enter foreign tiles without open borders"]
+	},
+	{
 		"name": "[Tarqui Grenadiers] ability",
 		"uniques": ["[+15]% Strength when stacked with [Great General]"]
 	},

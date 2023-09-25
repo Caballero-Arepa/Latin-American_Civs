@@ -110,20 +110,16 @@
 		]
 	},
 	{ //Cuba's
-		"name": "Pharmaceutical Clinic",
-		"replaces": "Hospital",
+		"name": "Torcedores",
+		"replaces": "Bank",
 		"uniqueTo": "Cuba",
-		"food": 2,
-		"happiness": 1,
-		"requiredBuilding": "Aqueduct",
-		"cost": 290,
-		"requiredTech": "Biology",
-		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
-		"civilopediaText": [
-			{
-				"text": "Attracting many foreigners and exporting doctors and medicine overseas, Cuban medicines are highly valued around the world."
-			}
-		]
+		"gold": 0,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"uniques": ["Provides [1] [Cuban Cigars]","[+2 Gold] from [Plantation] tiles [in this city]"],
+		"requiredTech": "Banking",
 	},
 	{
 		"name": "Trade unions",
@@ -178,6 +174,22 @@
 		"civilopediaText": [
 			{
 				"text": "One of the best animal healthcare program of all has allowed the pets of the people to be a lot happier, and their owners too."
+			}
+		]
+	},
+	{ //Haiti's
+		"name": "Vetiver Plantation",
+		"replaces": "Granary",
+		"hurryCostModifier": 25,
+		"requiredTech": "Pottery",
+		"food": 2,
+		"gold": 1,
+		"uniqueTo": "Haiti",
+		"uniques": ["[+1 Food] from [Plantation] tiles [in this city]",
+					"Provides [1] [Vetiver Oil] <after discovering [Astronomy]>"],
+		"civilopediaText": [
+			{
+				"text": "The vetiver plant growing has been mastered in the Haitian domains, leading it to be the top exporter of its oils, which are used for western cosmetics."
 			}
 		]
 	},
