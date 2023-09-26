@@ -385,6 +385,46 @@
 			{"text": ""}
 		]
 	},
+     {
+        	"name": "Haiti",
+		"leaderName": "Toussaint L'ouverture",
+		"adjective": ["Hatian"],
+		"outerColor": [75, 109, 189],
+		"innerColor": [41, 21, 2],
+		"spyNames": ["Louverture"],
+
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "L'Ouverture, the great man who started the beginning of the end for the black liberty.\nCertainly, a great man who used to be a common slave amongst the rest, your family's warrior spirit did not let you down, even when fleeing to the Spanish side of the island, you did not give up! Instead, you became general of the Spanish army on the island, and together with the black army, you expelled the white Republicans.\nBut would you know it? The Spanish didn't want to free the slaves, of course not! So, with bravery and ability, you defeated the European troops remaining in the country.",
+		"startIntroPart2": "It's a shame that your defeat at the hands of French reinforcements brought you down... but your feats stand proud in history, as you left a strong enough army that would ultimately assure the freedom... As you have to do now!",
+		
+		"introduction": "Kijan ou ye? I'll say it now: Our people won't bow to anyone. (How are you?)",
+		"declaringWar": "To your people: You shall be free of oppression.\nTo you: You'll pay for your despicable actions!",
+		"attacked": "It begins, the imperialist ambition, with a horrible war chant.",
+		"afterPeace": "Our people hold tight to our hard-earned freedom.",
+		"defeated": "At last, the imperialist ambition, has brought us down under the yoke.",
+
+		"neutralHello": "Bonjou",
+		"hateHello": "Get your dirty hands off me.",
+
+		"tradeRequest": "It may not be much, but it's hard-earned work.",
+
+		"uniqueName": "Breaking the Shackles",
+		"uniques": ["[+1 Faith] from every [Plantation]",
+					"[+1 Production] from every [Lumber mill]"],
+
+		"cities": ["Port'Au Prince"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
+     },
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
