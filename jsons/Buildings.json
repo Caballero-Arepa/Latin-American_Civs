@@ -181,6 +181,7 @@
 		"name": "Vetiver Plantation",
 		"replaces": "Granary",
 		"hurryCostModifier": 25,
+		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"food": 2,
 		"gold": 1,
