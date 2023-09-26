@@ -397,7 +397,7 @@
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "L'Ouverture, the great man who started the beginning of the end for the black liberty.\nCertainly, a great man who used to be a common slave amongst the rest, your family's warrior spirit did not let you down, even when fleeing to the Spanish side of the island, you did not give up! Instead, you became general of the Spanish army on the island, and together with the black army, you expelled the white Republicans.\nBut would you know it? The Spanish didn't want to free the slaves, of course not! So, with bravery and ability, you defeated the European troops remaining in the country.",
+		"startIntroPart1": "L'Ouverture, the great man who started the beginning of the end of the black slavery.\nCertainly, a great man who used to be a common slave amongst the rest, your family's warrior spirit did not let you down, even when fleeing to the Spanish side of the island, you did not give up! Instead, you became general of the Spanish army on the island, and together with the black army, you expelled the white Republicans.\nBut would you know it? The Spanish didn't want to free the slaves, of course not! So, with bravery and ability, you defeated the European troops remaining in the country.",
 		"startIntroPart2": "It's a shame that your defeat at the hands of French reinforcements brought you down... but your feats stand proud in history, as you left a strong enough army that would ultimately assure the freedom... As you have to do now!",
 		
 		"introduction": "Kijan ou ye? I'll say it now: Our people won't bow to anyone. (How are you?)",
@@ -415,7 +415,7 @@
 		"uniques": ["[+1 Faith] from every [Plantation]",
 					"[+1 Production] from every [Lumber mill]"],
 
-		"cities": ["Port'Au Prince"],
+		"cities": ["Port'Au Prince","Gonaïves","Cape Haiti","Jacmel","Port-de-Paix","Fort-Liberté","Jérémie","Chambellan","The Caobas","La Victoire"],
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
