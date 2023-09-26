@@ -181,6 +181,23 @@
 			}
 		]
 	},
+	{ //Haiti's
+		"name": "Vetiver Plantation",
+		"replaces": "Granary",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"food": 2,
+		"gold": 1,
+		"uniqueTo": "Haiti",
+		"uniques": ["[+1 Food] from [Plantation] tiles [in this city]",
+					"Provides [1] [Vetiver Oil] <after discovering [Astronomy]>"],
+		"civilopediaText": [
+			{
+				"text": "The vetiver plant growing has been mastered in the Haitian domains, leading it to be the top exporter of its oils, which are used for western cosmetics."
+			}
+		]
+	},
 	{ //Mexico's
 		"name": "Chapultepec Castle",
 		"isNationalWonder": true,
