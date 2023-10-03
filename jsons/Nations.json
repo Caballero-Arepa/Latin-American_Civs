@@ -496,7 +496,8 @@
 		"tradeRequest": "I have an offer you can't decline.",
 
 		"uniqueName": "The Bridge of the World",
-		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",],
+		"uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Great Improvement]","[+1 Gold] from every [Fishing Boats]",
+					"[4] free [Geologic Process] units appear <upon entering the [Classical era]>"],
 
 		"cities": ["Panama","Colon","David","La Chorrera","Santiago","Changuinola","Penonome","Buguba","Puerto Armuelles","Anton","Chepo","Chitre","Aguadulce","Capira","Chame","Sona","Almirante","La Pintada","Las Tablas","La Villa de Los Santos"],
 		"civilopediaText": [

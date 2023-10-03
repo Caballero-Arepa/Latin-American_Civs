@@ -81,17 +81,6 @@
 			}
 		]
     },
-/*	{ //Colombia's
-		"name": "Coffee Growers Committee",
-		"isNationalWonder": true,
-		"requiredTech": "Replaceable Parts",
-		"cost": 767,
-		"maintenance": 2,
-		"uniqueTo": "Colombia",
-		"uniques": ["[+1 Production] from [Plantation] tiles [in all cities]","[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda ] tiles [in all cities]",
-			"Consumes [4] [Coffee]","Provides [4] [Colombian Coffee]",
-			"[-3 Happiness]","Destroyed when the city is captured"],
-    },*/
     { //Costa Rica's
         "name": "Ecotouristic Hotel",
 		"replaces": "Stock Exchange",
@@ -217,24 +206,7 @@
 			}
 		]
 	},
-	{ //Panama´s
-		"name": "Colon Free Port",
-		"isNationalWonder": true,
-		"replaces": "National Epic",
-		"requiredTech": "Dynamite",
-		"cost": 420,
-		"uniqueTo": "Panama",
-		"uniques": ["[+1 Gold] from each Trade Route","[+1 Production] from every [Trading post] [in this city]",
-			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]",
-			"[+4 Gold, +1 Culture]"],
-		"greatPersonPoints": {"Great Merchant": 2},
-		"civilopediaText": [
-			{
-				"text": "Set in a crucial step in navigation of the interoceanic waterway going to the canal, the Free Trade Zone is the biggest in the American continent and second largest in the world, becoming a strategic commerce point from Asia to the Americas."
-			}
-		]
-	},
-	{
+	{ //Panama's
 		"name": "The Panama Canal",
 		"isWonder": true,
 		"requiredTech": "Steam Power",

@@ -210,44 +210,15 @@
 		],
 		"attackSound": "machinegun",
 	},
-/*	{ //Panama's
-		"name": "Fuerza Publica",
-		"replaces": "Infantry",
-		"uniqueTo": "Panama",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 70,
-		"cost": 375,
-		"requiredTech": "Plastics",
-		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["[+50]% Strength decreasing with distance from the capital","Limited to [5] per Civilization"],
-		"civilopediaText": [
-			{
-				"text": "missing text"
-			}
-		],
-		"attackSound": "shot"
-	},
 	{ //Panama's
-		"name": "Buccaneer",
-		"unitType": "Melee Water",
-		"replaces": "Privateer",
+		"name": "Geologic Process",
 		"uniqueTo": "Panama",
-		"movement": 5,
-		"strength": 28,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I"],
-		"uniques": ["May capture killed [Water] units","Can move after attacking"],
-		"civilopediaText": [
-			{
-				"text": "missing text"
-			}
-		],
-		"attackSound": "cannon"
-	},*/
+		"unitType": "Civilian",
+		"movement": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["Can instantly construct a [Darien Gap] improvement <by consuming this unit>",
+				"Unbuildable","Will not be displayed in Civilopedia"]
+	},
 	{ //Paraguay's
 		"name": "Aca Yboty",
 		"replaces": "Landship",
