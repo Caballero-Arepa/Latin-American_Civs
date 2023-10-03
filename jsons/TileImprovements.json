@@ -7,6 +7,17 @@
 		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","Does not need removal of [Marsh]"],
 		"shortcutKey": "P"
 	},
+// Uniques
+	{
+		"name": "Coffee Hacienda",
+		"uniqueTo": "Colombia",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"uniques": ["Provides [1] [Coffee]",
+			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Does not need removal of [Jungle]",
+			"Great Improvement","Will not be displayed in Civilopedia",
+			"Pillaging this improvement yields approximately [+57 Gold]",
+		]
+	},
 	{
 		"name": "Vigilance Post",
 		"uniqueTo": "El Salvador",
@@ -20,13 +31,30 @@
 				"Costs [1] [Gold] per turn when in your territory"],
 	},
 	{
-		"name": "Coffee Hacienda",
-		"uniqueTo": "Colombia",
-		"terrainsCanBeBuiltOn": ["Hill"],
-		"uniques": ["Provides [1] [Coffee]",
-			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Does not need removal of [Jungle]",
-			"Great Improvement","Will not be displayed in Civilopedia",
-			"Pillaging this improvement yields approximately [+57 Gold]",
+		"name": "Darien Gap",
+		"uniqueTo": "Panama",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"production": -2,
+		"techRequired": "Agriculture",
+		"uniques": [
+			"[+1 Food, +1 Culture] <after discovering [Pottery]>",
+			"[+1 Science, +1 Culture] <after discovering [Scientific Theory]>",
+			"Units ending their turn on this tile take 50 damage when healing",
+			"All units must spend 3 extra movement points when inside the Darien Gap",
+				"Unpillagable",
+				"Can be built just outside your borders",
+				"Great Improvement",
+				"Cannot be built on [Desert] tiles", 
+				"Cannot be built on [Tundra] tiles",
+				"Does not need removal of [Jungle]",
+				"Does not need removal of [Forest]",
+				"Does not need removal of [Marsh]"
+				],
+		"civilopediaText": [
+			{
+				"text": "The Gap of Darien, located in our world where it forms the border of Colombia and Panama, has shaped the history of the isthmus so greatly, even before civilization. An indomitable strip of hills, jungles and mountains, full of dangerous animals and illnesses, the Gap is the great wall that separates Panama from the rest of the continent."
+			}
 		]
 	},
 	{
