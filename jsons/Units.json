@@ -217,7 +217,7 @@
 		"movement": 1,
 		"requiredTech": "Agriculture",
 		"uniques": ["Can instantly construct a [Darien Gap] improvement <by consuming this unit>",
-				"Unbuildable","Will not be displayed in Civilopedia"]
+				"No Sight","Unbuildable","Will not be displayed in Civilopedia"]
 	},
 	{ //Paraguay's
 		"name": "Aca Yboty",
