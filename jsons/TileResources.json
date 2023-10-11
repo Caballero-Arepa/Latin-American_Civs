@@ -9,8 +9,8 @@
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
 		"uniques": ["[+1 Happiness] <during a Golden Age>",
-			"Generated on every [12] tiles <in [Marsh] tiles>",
-			"Generated on every [36] tiles <in [River] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"
+			"Generated on every [24] tiles <in [Marsh] tiles>",
+			"Generated on every [72] tiles <in [River] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>"
 		]
 	},
 	{
