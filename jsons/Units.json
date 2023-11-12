@@ -185,6 +185,21 @@
 		],
 		"attackSound": "shot"
 	},
+	{//Hondura's
+		"name": "Lenca Chieftain",
+		"replaces": "Composite Bowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 14,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"promotions": ["Cover I","Barrage I"],
+		"uniqueTo": "Honduras",
+		"attackSound": "arrow"
+	},
     { //Mexico's
 		"name": "201 Scuadron",
 		"replaces": "Fighter",

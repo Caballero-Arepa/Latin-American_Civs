@@ -425,6 +425,46 @@
 			{"text": ""}
 		]
      },
+	 {
+		"name": "Honduras",
+		"leaderName": "Francisco Mozaran",
+		"adjective": ["Honduran"],
+		"outerColor": [0, 88, 60],
+		"innerColor": [206, 119, 78],
+		"spyNames": ["Juancho"],
+
+		"startBias": ["Jungle"],
+        "preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"introduction": "",
+		"declaringWar": "",
+		"attacked": "",
+		"afterPeace": "",
+		"defeated": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"uniqueName": "Banana Capital",
+                "uniques": ["[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]","[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles>"],
+
+        "cities": ["Tegusigalpa"],
+
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
+             },
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
