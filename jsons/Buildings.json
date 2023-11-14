@@ -90,7 +90,7 @@
 		"gold": 3,
 		"percentStatBonus": {"gold": 25},
 		"uniqueTo": "Costa Rica",
-		"uniques": ["[+1 Gold] from every [Forest] tiles [in this city]","[+1 Gold] from every [Coast] tiles [in this city]",
+		"uniques": ["[+1 Gold] from [Forest] tiles [in this city]","[+1 Gold] from [Coast] tiles [in this city]",
 			   "[+15]% [Gold] <after discovering [Flight]>"],
 		"civilopediaText": [
 			{
