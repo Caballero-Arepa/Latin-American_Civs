@@ -198,6 +198,11 @@
 		"upgradesTo": "Crossbowman",
 		"promotions": ["Cover I","Barrage I"],
 		"uniqueTo": "Honduras",
+		"civilopediaText": [
+			{
+							"text": "With great courage, the native Lencans, the natives who, with the Spanish, formed the Hondurans, fought foreign invaders, adapting to the terrain to survive."
+			}
+		],
 		"attackSound": "arrow"
 	},
     { //Mexico's

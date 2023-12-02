@@ -3,8 +3,8 @@
                 "name": "Argentina",
 		"leaderName": "Julio Roca",
 		"adjective": ["Argentine"],
-		"outerColor": [116, 172, 223],
-		"innerColor": [248, 202, 86],
+		"outerColor": [87, 129, 167],
+		"innerColor": [252, 209, 22],
 		"spyNames": ["Juan"],
 
 		"startBias": ["Plains"],
@@ -143,8 +143,8 @@
 		"name": "Chile",
 		"leaderName": "Bernard O´Higgins",
 		"adjective": ["Chilean"],
-		"outerColor": [215, 53, 41],
-		"innerColor": [28, 28, 95],
+		"outerColor": [239, 52, 52],
+		"innerColor": [104, 38, 11],
 		"spyNames": ["Juan"],
 
 		"startBias": ["Coast", "Desert"],
@@ -237,7 +237,7 @@
                 "leaderName": "Juan Mora Porras",
                 "adjective": ["Tico"],
                 "outerColor": [67,48,89],
-                "innerColor": [241,56,79],
+                "innerColor": [221, 47, 102],
 		"spyNames": ["Juan"],
 
                 "startBias": ["Coast","Jungle","Mountain"],
@@ -276,7 +276,7 @@
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
 		"adjective": ["Cuban"],
-		"outerColor": [122, 199, 207],
+		"outerColor": [36, 140, 164],
 		"innerColor": [142, 9, 9],
 		"spyNames": ["Castro","El Loco","El Ché"],
 
@@ -429,32 +429,32 @@
 		"name": "Honduras",
 		"leaderName": "Francisco Mozaran",
 		"adjective": ["Honduran"],
-		"outerColor": [0, 88, 60],
-		"innerColor": [206, 119, 78],
+		"outerColor": [39, 82, 116],
+		"innerColor": [242, 231, 212],
 		"spyNames": ["Juancho"],
 
-		"startBias": ["Jungle"],
-        "preferredVictoryType": "Diplomatic",
+		"startBias": ["Jungle","Hill"],
+        "preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Respectable Mozaran, now is the time to change history, to do the right thing, and finally succeed. We cannot let the greedy elite hold back on the ideas of modernity that we would bring to the nation. The mistakes of the past won't be remade because the people, not the elite, need freedom, peace and prosperity, and those who destroyed the old great nation won't stop you now. Oh, how disgraceful that even after breaking apart the UPCA, in the lone state of Honduras, the elite kept the country back, expelling you from the nation and holding back the potential of the nation for decades to come.",
+		"startIntroPart2": "Now it's the great reset. The people are eager to see this small nation prosper in its own freedom. You know what to do, there's no time to waste!",
 		
-		"introduction": "",
-		"declaringWar": "",
-		"attacked": "",
-		"afterPeace": "",
-		"defeated": "",
+		"introduction": "Have a warm welcome, I'll invite you to a coffee.",
+		"declaringWar": "We must stand united against our foes, but sometimes war is needed to bring freedom.",
+		"attacked": "You surely will not gain anything from this.",
+		"afterPeace": "Peace is the only thing that will bring prosperity.",
+		"defeated": "I cry for my people, who will be oppressed by you.",
 
-		"neutralHello": "",
-		"hateHello": "",
+		"neutralHello": "Qué macizo estoy. (I'm very happy)",
+		"hateHello": "What do you need??",
 
-		"tradeRequest": "",
+		"tradeRequest": "Tengo varios mínimos ¿Le sirve? Necesito piste. (I have some bananas, are you interested? I need some money.)",
 
 		"uniqueName": "Banana Capital",
                 "uniques": ["[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]","[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles>"],
 
-        "cities": ["Tegusigalpa"],
+        "cities": ["Tegusigalpa","Comayagua","San Pedro Sula","La Ceiba","Choluteca","Puerto Cortes","El Progreso","Yoro","Choloma","Danli","Villanueva","Juticalpa","Catacamas","Siguatepeque"],
 
 		"civilopediaText": [
 			{"text": ""},
@@ -598,8 +598,8 @@
 		"name": "Peru",
                 "leaderName": "Martin Vizcarra",
 		"adjective": "Peruvian",
-		"outerColor": [217,16,35],
-		"innerColor": [255,255,255],
+		"outerColor": [204, 0, 0],
+		"innerColor": [242, 231, 212],
 		"spyNames": ["Pedro"],
 
 		"startBias": ["Hill","Coast"],
@@ -654,7 +654,7 @@
 		"startIntroPart1": "Great Liberator Simon Bolivar, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fishermen. But our republican history starts when, Francisco de Miranda, a great excellent general, and you, Simon Bolivar, a great strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independence would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the Venezuelan richness would have a rise in the middle of the 20th century, thanks to their resources.",
 		"startIntroPart2": "General! Your people call you, and express their affect, it's time to achieve what we have been waiting for years, it's time to bring back the glory that Venezuela deserves! Do you accept the challenge, your highness? Can you build a civilization that can stand the pass of time?",
 
-		"introduction": "A pleasure to meet you, I am Pérez Jimenez, governor of Venezuela. I hope we get along.",
+		"introduction": "A pleasure to meet you, I am Simón Bolívar, governor of Venezuela. I hope we get along.",
 		"declaringWar": "Your nation is a danger to our sovereignty.",
 		"attacked": "Expect a ferocious battle, which you won't win.",
 		"afterPeace": "I hope your imperialist manners are gone after this.",
@@ -676,7 +676,7 @@
 			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", 
 			"[-50]% maintenance on road & railroads <with [Oil]>",
 			"[-15]% maintenance cost for buildings [in all cities] <with [Oil]>",
-			"Receive free [Great General] when you discover [Military Science]"],
+			"Free [Great General] appears <upon discovering [Military Science]>"],
     
                 "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
 		"civilopediaText": [

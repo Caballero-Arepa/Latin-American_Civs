@@ -195,7 +195,12 @@
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Economics",
 		"uniqueTo": "Honduras",
-		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"]
+		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"],
+		"civilopediaText": [
+			{
+							"text": "Although it became a big industry thanks to colonialism, the Hondurans have turned it into a sign of national skill."
+			}
+		]
 	},
 	{ //Mexico's
 		"name": "Chapultepec Castle",
@@ -217,23 +222,6 @@
 		]
 	},
 	{ //Panama´s
-		"name": "Colon Free Port",
-		"isNationalWonder": true,
-		"replaces": "National Epic",
-		"requiredTech": "Dynamite",
-		"cost": 420,
-		"uniqueTo": "Panama",
-		"uniques": ["[+1 Gold] from each Trade Route","[+1 Production] from every [Trading post] [in this city]",
-			"[+1 Production, +1 Happiness] from [Water resource] tiles [in all cities]",
-			"[+4 Gold, +1 Culture]"],
-		"greatPersonPoints": {"Great Merchant": 2},
-		"civilopediaText": [
-			{
-				"text": "Set in a crucial step in navigation of the interoceanic waterway going to the canal, the Free Trade Zone is the biggest in the American continent and second largest in the world, becoming a strategic commerce point from Asia to the Americas."
-			}
-		]
-	},
-	{
 		"name": "The Panama Canal",
 		"isWonder": true,
 		"requiredTech": "Steam Power",
