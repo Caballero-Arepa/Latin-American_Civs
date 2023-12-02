@@ -34,7 +34,6 @@
 		"name": "Darien Gap",
 		"uniqueTo": "Panama",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 7,
 		"production": -2,
 		"techRequired": "Agriculture",
 		"uniques": [

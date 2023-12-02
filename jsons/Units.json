@@ -185,6 +185,26 @@
 		],
 		"attackSound": "shot"
 	},
+	{//Hondura's
+		"name": "Lenca Chieftain",
+		"replaces": "Composite Bowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 14,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"promotions": ["Cover I","Barrage I"],
+		"uniqueTo": "Honduras",
+		"civilopediaText": [
+			{
+							"text": "With great courage, the native Lencans, the natives who, with the Spanish, formed the Hondurans, fought foreign invaders, adapting to the terrain to survive."
+			}
+		],
+		"attackSound": "arrow"
+	},
     { //Mexico's
 		"name": "201 Scuadron",
 		"replaces": "Fighter",

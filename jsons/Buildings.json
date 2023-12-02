@@ -187,6 +187,21 @@
 			}
 		]
 	},
+	{ //Hondura's
+		"name": "Platanera",
+		"replaces": "Windmill",
+		"food": 2,
+		"production": 1,
+		"specialistSlots": {"Merchant": 1},
+		"requiredTech": "Economics",
+		"uniqueTo": "Honduras",
+		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"],
+		"civilopediaText": [
+			{
+							"text": "Although it became a big industry thanks to colonialism, the Hondurans have turned it into a sign of national skill."
+			}
+		]
+	},
 	{ //Mexico's
 		"name": "Chapultepec Castle",
 		"isNationalWonder": true,
@@ -206,7 +221,7 @@
 			}
 		]
 	},
-	{ //Panama's
+	{ //Panama´s
 		"name": "The Panama Canal",
 		"isWonder": true,
 		"requiredTech": "Steam Power",
