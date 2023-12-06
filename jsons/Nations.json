@@ -5,7 +5,7 @@
 		"adjective": ["Argentine"],
 		"outerColor": [87, 129, 167],
 		"innerColor": [252, 209, 22],
-		"spyNames": ["Juan"],
+		"spyNames": ["Che","Pibe"],
 
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
@@ -191,7 +191,7 @@
 		"adjective": ["Colombian"],
 	        "outerColor": [252,209,22],
 		"innerColor": [1,57,150],
-		"spyNames": ["Montoya","Velasquez"],
+		"spyNames": ["Montoya","Velasquez","Echeverri","Valdés","Berriondo"],
 
 		"startBias": ["Hill","Jungle"],
   	        "preferredVictoryType": "Diplomatic",
