@@ -452,7 +452,8 @@
 		"tradeRequest": "Tengo varios mínimos ¿Le sirve? Necesito piste. (I have some bananas, are you interested? I need some money.)",
 
 		"uniqueName": "Banana Capital",
-                "uniques": ["[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]","[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles>"],
+                "uniques": ["[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]",
+			"[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles> <in [Improvement] tiles>"],
 
         "cities": ["Tegusigalpa","Comayagua","San Pedro Sula","La Ceiba","Choluteca","Puerto Cortes","El Progreso","Yoro","Choloma","Danli","Villanueva","Juticalpa","Catacamas","Siguatepeque"],
 
