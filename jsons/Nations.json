@@ -689,89 +689,47 @@
 			{"text": ""}
 		]
 	},
+	//City-States
 	{
-		"name": "Uruguay",
-		"adjective": ["Uruguayan"],
-		"cityStateType": "Maritime",
-		"outerColor": [0,10,0],
-		"innerColor": [52,101,216],
-
-		"startBias": ["Coast"],
-		"favoredReligion": "Christianity",
-
-		"introduction": "Well, hi! Neighbor? I hope we get along.",
-		"declaringWar": "We have no choice. War, must be.",
-		"attacked": "Very well, this will not be fruitful for you.",
-		"afterPeace": "Thank you for putting an end to this storm of doom.",
-		"defeated": "We were too weak to protect ourselves, how could we imagine otherwise",
-
-		"neutralHello": "Hi!",
-		"hateHello": "Hi...",
-
-		"cities": ["Montevideo"],
-		"civilopediaText": [
-			{"text": ""},
-			{"text": ""},
-			{"separator": true},
-			{"text": "Tips to play:"},
-			{"text": ""},
-			{"text": ""}
-		]
-	},
-	{
-		"name": "Guyana",
+		"name": "Dominican Republic",
 		"cityStateType": "Maritime",
 		"outerColor": [10,0,0],
 		"innerColor": [201,33,112],
 
 		"startBias": ["Coast"],
-		"favoredReligion": "Christianity",
 
-		"introduction": "We are the sovereign nation of Guyana. May our trade commence.",
-		"declaringWar": "You are a danger... that's what says my lord...",
-		"attacked": "No no no, this can't be happening!",
-		"afterPeace": "Ufff, that was close...",
-		"defeated": "Noo, m-my sovereignty...",
-
-		"neutralHello": "Greetings",
-		"hateHello": "What do you want, you bully?",
-
-		"cities": ["Georgetown"],
+		"cities": ["Santo Domingo"],
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
-			{"separator": true},
-			{"text": "Tips to play:"},
-			{"text": ""},
-			{"text": ""}
 		]
 	},
 	{
-	
-		"name": "Suriname",
+		"name": "Guadeloupe",
 		"cityStateType": "Maritime",
-		"outerColor": [0,10,0],
-		"innerColor": [75,169,81],
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
 
 		"startBias": ["Coast"],
 
-		"introduction": "What do my eyes see? A friend?!",
-		"declaringWar": "I'm being forced to do this. Can we be friends again afterwards?",
-		"attacked": "Nope, nope, it was not a friend... Help!!!",
-		"afterPeace": "Great! This madness is over. Can we be friends again?",
-		"defeated": "Now it's sealed that you are a bad guy",
-
-		"neutralHello": "Hello my friend!",
-		"hateHello": "No friend I see here, only danger. Go away",
-
-		"cities": ["Paramaribo"],
+		"cities": ["Basse-Terre"],
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
-			{"separator": true},
-			{"text": "Tips to play:"},
+		]
+	},
+	{
+		"name": "Guatemala",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Guatemala City"],
+		"civilopediaText": [
 			{"text": ""},
-			{"text": ""}
+			{"text": ""},
 		]
 	},
 	{
@@ -789,10 +747,34 @@
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
-			{"separator": true},
-			{"text": "Tips to play:"},
+		]
+	},
+	{
+		"name": "Martinique",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Fort-de-France"],
+		"civilopediaText": [
 			{"text": ""},
-			{"text": ""}
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Nicaragua",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Managua"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
 		]
 	},
 	{
@@ -817,10 +799,346 @@
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
-			{"separator": true},
-			{"text": "Tips to play:"},
+		]
+	},
+	{
+		"name": "Uruguay",
+		"adjective": ["Uruguayan"],
+		"cityStateType": "Maritime",
+		"outerColor": [0,10,0],
+		"innerColor": [52,101,216],
+
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "Well, hi! Neighbor? I hope we get along.",
+		"declaringWar": "We have no choice. War, must be.",
+		"attacked": "Very well, this will not be fruitful for you.",
+		"afterPeace": "Thank you for putting an end to this storm of doom.",
+		"defeated": "We were too weak to protect ourselves, how could we imagine otherwise",
+
+		"neutralHello": "Hi!",
+		"hateHello": "Hi...",
+
+		"cities": ["Montevideo"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	//Non-Latam City-States
+	{
+		"name": "Antigua and Barbuda",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["St John's"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Aruba",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Oranestad"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Bahamas",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Nassau"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Barbados",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Bridgetown"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Belize",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Belmopan"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Bermuda",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Hamilton"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Cayman",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["George Town"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Curacao",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Willemstad"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Dominica",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Roseau"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Greenland",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Nuuk"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Grenada",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["St George's"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Guyana",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+		"favoredReligion": "Christianity",
+
+		"introduction": "We are the sovereign nation of Guyana. May our trade commence.",
+		"declaringWar": "You are a danger... that's what says my lord...",
+		"attacked": "No no no, this can't be happening!",
+		"afterPeace": "Ufff, that was close...",
+		"defeated": "Noo, m-my sovereignty...",
+
+		"neutralHello": "Greetings",
+		"hateHello": "What do you want, you bully?",
+
+		"cities": ["Georgetown"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Jamaica",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Kingston"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Montserrat",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Brades"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "St Kitts & Nevis",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Basseterre"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Saint Lucia",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Castries"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "St Vincent & the Grenadines",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Kingstown"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+	
+		"name": "Suriname",
+		"cityStateType": "Maritime",
+		"outerColor": [0,10,0],
+		"innerColor": [75,169,81],
+
+		"startBias": ["Coast"],
+
+		"introduction": "What do my eyes see? A friend?!",
+		"declaringWar": "I'm being forced to do this. Can we be friends again afterwards?",
+		"attacked": "Nope, nope, it was not a friend... Help!!!",
+		"afterPeace": "Great! This madness is over. Can we be friends again?",
+		"defeated": "Now it's sealed that you are a bad guy",
+
+		"neutralHello": "Hello my friend!",
+		"hateHello": "No friend I see here, only danger. Go away",
+
+		"cities": ["Paramaribo"],
+		"civilopediaText": [
 			{"text": ""},
 			{"text": ""}
+		]
+	},
+	{
+		"name": "Trinidad & Tobago",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Port of Spain"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Turks and Caicos",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Cockburn Town"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+		]
+	},
+	{
+		"name": "Virgin Islands",
+		"cityStateType": "Maritime",
+		"outerColor": [10,0,0],
+		"innerColor": [201,33,112],
+
+		"startBias": ["Coast"],
+
+		"cities": ["Road Town"],
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
 		]
 	},
 ]
