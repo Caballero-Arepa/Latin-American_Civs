@@ -642,7 +642,7 @@
   },
 	{
 		"name": "Venezuela",
-                "leaderName": "Simon Bolivar",
+        "leaderName": "Simon Bolivar",
 		"adjective": ["Venezuelan"],
 		"outerColor": [127,0,40],
 		"innerColor": [245,217,0],
@@ -650,6 +650,7 @@
 
 		"startBias": ["Plains","Coast"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Simon Bolivar",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Great Liberator Simon Bolivar, you have been a great disciplined, one who built this country. Its richness and beauty wonder many countries. The beautiful country born with the first settlers, warriors and fishermen. But our republican history starts when, Francisco de Miranda, a great excellent general, and you, Simon Bolivar, a great strategist and fearless warrior, taking advantage of the weakened position of Spain would proclaim Venezuelan independence. The so dreamed independence would not come until the Battle of Carabobo, glory to the brave people, Venezuela has been born in Carabobo!, and the Venezuelan richness would have a rise in the middle of the 20th century, thanks to their resources.",

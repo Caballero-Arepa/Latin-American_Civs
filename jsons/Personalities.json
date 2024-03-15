@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Simon Bolivar",
+		"preferredVictoryType": "Domination",
+		"culture": 7,
+		"faith": 3,
+		"food": 5,
+		"gold": 9,
+		"happiness": 5,
+		"production": 5,
+		"science": 7,
+		"military": 8,
+		"priorities": {
+			"Liberty": 30,
+			"Commerce": 20,
+			"Autocracy": 10
+		},
+		"warMongering": 5,
+		"civilopediaText": [
+			{"text": "Simon Bolivar, known to be a great general, *and a tyrant*, who tried to conquer the whole continent. He prefers to have a strong military, don't mess with him, or you'll pay dearly."}
+		]
+	}
+]
