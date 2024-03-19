@@ -1,6 +1,6 @@
 [
      {
-                "name": "Argentina",
+		"name": "Argentina",
 		"leaderName": "Julio Roca",
 		"adjective": ["Argentine"],
 		"outerColor": [87, 129, 167],
@@ -47,7 +47,7 @@
 		]
      },
      {
-                "name": "Bolivia",
+		"name": "Bolivia",
 		"leaderName": "Manuel Isidoro Belzu",
 		"adjective": ["Bolivian"],
 		"outerColor": [232, 164, 61],
@@ -139,7 +139,7 @@
 			{"text": ""}
 		]
         },
-  {
+	{
 		"name": "Chile",
 		"leaderName": "Bernard O´Higgins",
 		"adjective": ["Chilean"],
@@ -233,34 +233,34 @@
 		]
 	},
 	{
-                "name": "Costa Rica",
-                "leaderName": "Juan Mora Porras",
-                "adjective": ["Tico"],
-                "outerColor": [67,48,89],
-                "innerColor": [221, 47, 102],
+		"name": "Costa Rica",
+		"leaderName": "Juan Mora Porras",
+		"adjective": ["Tico"],
+		"outerColor": [67,48,89],
+		"innerColor": [221, 47, 102],
 		"spyNames": ["Juan"],
 
-                "startBias": ["Coast","Jungle","Mountain"],
-                "preferredVictoryType": "Cultural",
-                "favoredReligion": "Christianity",
-        
-                "startIntroPart1": "Don Juanito, nickname that stayed for the posterity as a token of affection from the 'ticos' to your heroic actions, those that remarked the name of the Republic of Costa Rica in the highest spots of the American continent. Your succesful campaign against William Walker's freebooters in 1857 and your innumerable socio-economic contributions brought wellness and peace to Costa Rica, you governed over this small nation of Central America, surrounded by it's leafy jungles, majestic forests and volcanic chains, always full of life and diversity of all types, and you led it to a path of prosperity and a symbol of progress for Central America.",
-                "startIntroPart2": "Don Juanito, the costa rican people need you, once again, to follow the path of greatness. ¿Can you lead the ticos to the glory? ¿Can you make a civilization that stand the test of time?",
-                
-                "introduction":  "Greetings, welcome to our rich coasts and beautiful land. Pura vida!",
-                "declaringWar": "Your nation menaces the peace and sovereignty of our country. Prepare for war.",
-                "attacked": "Fine, ticos will rise in arms to defende the peace of our nation.",
-                "afterPeace": "I hope these catastrophic events never to happen between our countries again.",
-                "defeated": "You have destroyed our idyll of harmony and peace. May god judge your actions against the people of Costa Rica.",
+		"startBias": ["Coast","Jungle","Mountain"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
 
-                "neutralHello": "Welcome amigo!",
-                "hateHello": "Did you lose something?",
-                "tradeRequest": "This deal will bring prosperity to our nations",
+		"startIntroPart1": "Don Juanito, nickname that stayed for the posterity as a token of affection from the 'ticos' to your heroic actions, those that remarked the name of the Republic of Costa Rica in the highest spots of the American continent. Your succesful campaign against William Walker's freebooters in 1857 and your innumerable socio-economic contributions brought wellness and peace to Costa Rica, you governed over this small nation of Central America, surrounded by it's leafy jungles, majestic forests and volcanic chains, always full of life and diversity of all types, and you led it to a path of prosperity and a symbol of progress for Central America.",
+		"startIntroPart2": "Don Juanito, the costa rican people need you, once again, to follow the path of greatness. ¿Can you lead the ticos to the glory? ¿Can you make a civilization that stand the test of time?",
+		
+		"introduction":  "Greetings, welcome to our rich coasts and beautiful land. Pura vida!",
+		"declaringWar": "Your nation menaces the peace and sovereignty of our country. Prepare for war.",
+		"attacked": "Fine, ticos will rise in arms to defende the peace of our nation.",
+		"afterPeace": "I hope these catastrophic events never to happen between our countries again.",
+		"defeated": "You have destroyed our idyll of harmony and peace. May god judge your actions against the people of Costa Rica.",
 
-                "uniqueName": "The Reserves of the Volcanoes",
-                "uniques": ["[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>"],
+		"neutralHello": "Welcome amigo!",
+		"hateHello": "Did you lose something?",
+		"tradeRequest": "This deal will bring prosperity to our nations",
 
-                "cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",
+		"uniqueName": "The Reserves of the Volcanoes",
+		"uniques": ["[+1 Food] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>","[+1 Science, +1 Culture] from [All] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Scientific Theory]>"],
+
+		"cities": ["San Jose","Limon","Alajuela","Barranca","Coco","Tamarido","Naranjo","Cañas","Arenal","Los Chiles","Quesada","Guácimo",
 			   "Siquierres","Matina","Atalanta","Uatsi","Katsi","San Isidro","Quepos","Dominical","Palmar Sur","Drake","San Vito",
 			   "Puerto Kiménez","Corredor"],
 		"civilopediaText": [
@@ -467,7 +467,7 @@
 		]
              },
 	{
-                "name": "Mexico",
+		"name": "Mexico",
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 		"outerColor": [0, 88, 60],
@@ -554,12 +554,12 @@
 		"name": "Paraguay",
 		"leaderName": "Gaspar R. Francia",
 		"adjective": ["Guarani"],
-                "outerColor": [181, 170, 170],
+		"outerColor": [181, 170, 170],
 		"innerColor": [171, 0, 51],
 		"spyNames": ["Rodrigez"],
 
 		"startBias": ["River","Plains"],
-    		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Good day you may have, loved 'Karaí Guasú'. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they don't actually exist - no matter how big it was, they survived. From, winning against the Spanish Empire, to battling against a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
@@ -595,9 +595,9 @@
 			{"text": ""}
 		]
 	},
-  {
+	{
 		"name": "Peru",
-                "leaderName": "Martin Vizcarra",
+		"leaderName": "Martin Vizcarra",
 		"adjective": "Peruvian",
 		"outerColor": [204, 0, 0],
 		"innerColor": [242, 231, 212],
@@ -607,8 +607,8 @@
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 	        
-	        "startIntroPart1": "Mr. President, welcome.  As you know, you lead the great, ancient, cultural nation of the Peru. The nation dates back to the mighty Incas, after being colonized. The colony was one of the major ones for the Spanish - and that wasn't for no reason -. The ungrateful Spaniards wasted all the money, increased taxes, and combined with many other things, Peru rebelled. After a failed attempt, the joint effort of Simon Bolivar, and most importantly, San Martín, gave the freedom to the Peruvians, which continued to exploit their mineral riches, and culture abundance.",
-	        "startIntroPart2": "Great governor, your people want to further expand their culture and get more prestige. Will you accept the offer? Can you make a civilization that can stand the pass of time?",
+		"startIntroPart1": "Mr. President, welcome.  As you know, you lead the great, ancient, cultural nation of the Peru. The nation dates back to the mighty Incas, after being colonized. The colony was one of the major ones for the Spanish - and that wasn't for no reason -. The ungrateful Spaniards wasted all the money, increased taxes, and combined with many other things, Peru rebelled. After a failed attempt, the joint effort of Simon Bolivar, and most importantly, San Martín, gave the freedom to the Peruvians, which continued to exploit their mineral riches, and culture abundance.",
+		"startIntroPart2": "Great governor, your people want to further expand their culture and get more prestige. Will you accept the offer? Can you make a civilization that can stand the pass of time?",
 
 		"introduction": "Greetings. I am Martin Vizcarra, president of Perú. I hope you can become a valuable ally.",
 		"declaringWar": "Great lands ruled by a bad lider, your people don't deserve you, I will take care of them better than you.",
@@ -639,7 +639,38 @@
 			{"text": ""},
 			{"text": ""}
 		]
-  },
+	},
+	{
+		"name": "Uruguay",
+		"leaderName": "José Batlle y Ordóñez",  
+		"adjective": ["Uruguayan"],
+		"outerColor": [0, 56, 168],
+		"innerColor": [255, 255, 255],
+		"spyNames": ["Blandengue"],		
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Secular",  // [TOCHECK] This is ok?
+		
+		"startIntroPart1": "¡Bienvenidos! (Welcome!) You are José Batlle y Ordóñez, leading a new revolution in Uruguay. Gone are the days of gauchos – now, tech startups and innovation drive our growth. From a stable democracy to a haven for tech talent, Uruguay is poised to become a global leader.",
+		"startIntroPart2": "The world is your digital playground. Can you, José Batlle y Ordóñez, foster a thriving tech ecosystem, attract leading companies, and propel Uruguay to the forefront of the technological age? The future awaits!",
+		
+		"declaringWar": "While we prefer diplomacy, we will defend our progress!",
+		"attacked": "This is a setback, but Uruguay's spirit of innovation will prevail!",
+		"defeated": "We may be defeated, but our pursuit of knowledge continues.",
+		"introduction": "¡Bienvenidos! Welcome to Uruguay, a land of opportunity and cutting-edge ideas.",
+		"neutralHello": "¡Buenas!",
+		"hateHello": "Perhaps there's room for understanding?",
+		"tradeRequest": "A partnership for progress? Let's discuss the possibilities.",
+		
+		"uniqueName": "Silicon Beach",
+		"uniques": [
+			"TI University (replacement for University) provide bonus Science and Great Scientist points",
+			"Mateada (new tile improvement), provide happines and production"
+		],
+		"cities": [
+			"Montevideo", "Canelones", "Maldonado", "Colonia", "Punta del Este", "Salto", "Paysandú", "Melo", "Tacuarembó", "Rivera", "Mercedes", "Durazno", "Minas", "Treinta y Tres", "Florida", "Cerro Largo", "Colonia", "Rocha", "San José", "Soriano", "Artigas"
+		]
+	},
 	{
 		"name": "Venezuela",
         "leaderName": "Simon Bolivar",
@@ -674,13 +705,13 @@
 		"hateYes": "This very well could be a shame to the nation.",
 
 		"uniqueName": "Oil Bonanza",
-                "uniques": ["Double quantity of [Oil] produced",
+		"uniques": ["Double quantity of [Oil] produced",
 			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", 
 			"[-50]% maintenance on road & railroads <with [Oil]>",
 			"[-15]% maintenance cost for buildings [in all cities] <with [Oil]>",
 			"Free [Great General] appears <upon discovering [Military Science]>"],
     
-                "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
+		"cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
@@ -801,32 +832,7 @@
 			{"text": ""},
 			{"text": ""},
 		]
-	},
-	{
-		"name": "Uruguay",
-		"adjective": ["Uruguayan"],
-		"cityStateType": "Maritime",
-		"outerColor": [0,10,0],
-		"innerColor": [52,101,216],
-
-		"startBias": ["Coast"],
-		"favoredReligion": "Christianity",
-
-		"introduction": "Well, hi! Neighbor? I hope we get along.",
-		"declaringWar": "We have no choice. War, must be.",
-		"attacked": "Very well, this will not be fruitful for you.",
-		"afterPeace": "Thank you for putting an end to this storm of doom.",
-		"defeated": "We were too weak to protect ourselves, how could we imagine otherwise",
-
-		"neutralHello": "Hi!",
-		"hateHello": "Hi...",
-
-		"cities": ["Montevideo"],
-		"civilopediaText": [
-			{"text": ""},
-			{"text": ""},
-		]
-	},
+	}
 	//Non-Latam City-States
 	{
 		"name": "Antigua and Barbuda",

@@ -291,4 +291,21 @@
 			}
 		]
 	},
+	{ // Uruguay's
+		"name": "TI University",
+		"replaces": "University",
+		"uniqueTo": "Uruguay",
+		"maintenance": 3,
+		"science": 3, 
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+1 Science] from [Coast] tiles [in this city]"],
+		"requiredTech": "Education",
+		"civilopediaText": [
+			{
+				"text": "This advanced university facility stands as a testament to Uruguay's commitment to scientific innovation. Replacing the traditional University, the TI University boasts cutting-edge technology and collaborative workspaces that foster groundbreaking discoveries."
+			}
+	}
 ]

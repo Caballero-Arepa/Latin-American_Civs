@@ -23,4 +23,10 @@
 		"name": "[Patriot Army] ability",
 		"uniques": ["[1] Movement"]
 	},
+	{ // [TOCHECK] this is the way?
+		"name": "Pacifism",
+		"uniques": ["Can't build [fort]"],
+		"unitTypes": ["Civilian"],
+		"uniqueTo": "Uruguay"
+	}
 ]
