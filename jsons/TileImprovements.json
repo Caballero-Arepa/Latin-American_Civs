@@ -66,4 +66,15 @@
 			"Great Improvement","Will not be displayed in Civilopedia","Unpillagable","Irremovable"
 		],
 	},
+	{
+		"name": "Mateada",
+		"uniqueTo": "Uruguay",
+		"techRequired": "[The Wheel]",
+		"food": 2,
+		"production": 1,
+		"happines": 1,
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Forest","Jungle","Coast","Flood plains","Marsh"],
+		"turnsToBuild": 5,
+		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>", "[+1 Food] <after discovering [Fertilizer]>", "Pillaging this improvement yields approximately [+20 Gold]"]]
+	}
 ]
