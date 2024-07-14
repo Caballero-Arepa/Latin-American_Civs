@@ -135,7 +135,7 @@
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
-		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May enter foreign tiles without open borders","May withdraw before melee ([30]%)"
+		"uniques": ["Ignores terrain cost","Invisible to non-adjacent units","May enter foreign tiles without open borders","Withdraws before melee combat <with [30]% chance>"
 		],
 		"civilopediaText": [
 			{
