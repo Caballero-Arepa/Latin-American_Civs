@@ -21,7 +21,7 @@
 	{
 		"name": "Vigilance Post",
 		"uniqueTo": "El Salvador",
-		"techRequired": "Economics",
+		"techRequired": "Engineering",
 		"replaces": "Fort",
 		"gold": 2,
 		"production": 1,
