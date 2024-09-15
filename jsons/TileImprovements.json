@@ -60,9 +60,12 @@
 		"name": "Panama Canal",
 		"uniqueTo": "Panama",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
-		"uniques": ["[+1 Gold] for each adjacent [Coast]"
-			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles",
-			"Removes removable features when built", "Costs [1] [Gold] per turn when in your territory",
+		"uniques": [
+			"Turn this tile into a [Coast] tile",
+			"Can only be built on [Coastal] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal",
+			"Costs [1] [Gold] per turn when in your territory",
 			"Great Improvement","Will not be displayed in Civilopedia","Unpillagable","Irremovable"
 		],
 	},
